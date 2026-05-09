@@ -1,225 +1,185 @@
-# FounderProof
+# Venture Flow (Deepstation)
 
-**Evidence-driven startup discovery and research — where AI is grounded in your platform’s data, not just the open web.**
-
----
-
-## Project overview
-
-FounderProof is a credibility and intelligence layer for early-stage investing. Startups surface structured execution signals; investors get fast, context-aware research instead of deck archaeology. This repository is our **hackathon build**: a working vertical slice of profiles, scoring, discovery, and an **AI research desk** that reasons over **merged Reg CF / listing data** before it reaches for public search.
-
-We treat fundraising artifacts (e.g. **YC-style SAFE** templates) as a **standardized, repeatable instrument** in the product story — reducing legal friction in the demo narrative without claiming to replace counsel.
+**Core thesis:** investment AI should reason over **structured platform context** first, then use web grounding second.
 
 ---
 
-## The problem
+## 1) Problem
 
-Early-stage investing still runs on **fragmented tools**: crowdfunding portals for access, spreadsheets for notes, generic LLM tabs for “research,” and email for whatever updates founders choose to send.
+Early-stage investing is still a fragmented workflow:
 
-**What breaks in practice:**
+- discovery in listing portals,
+- diligence in docs/spreadsheets,
+- monitoring in ad-hoc founder updates,
+- AI analysis in stateless chat tools.
 
-- **No single source of truth** — issuer data, campaign facts, and investor notes live in different places.
-- **Stateless AI** — chatbots answer from the public web; they don’t **prioritize** what your platform already knows (dossiers, scores, scraped campaign fields).
-- **Manual orchestration** — analysts re-type context into prompts; nothing **remembers** the desk’s structure.
-- **Trust asymmetry** — polished narratives travel faster than **verifiable execution** signals.
+This fragmentation creates predictable failure modes:
 
----
-
-## Why existing solutions fall short
-
-| Typical approach | Limitation |
-|----------------|------------|
-| Portal-only workflows | Great for listing; weak for **cross-startup intelligence** and research memory. |
-| Generic AI assistants | **Hallucination-prone** when not tied to structured platform context. |
-| Enterprise research bots | Often **external-data-only**; no first-class integration with **your** listings and scores. |
-| Point tools (CRM, metrics) | Don’t compose into a **single research surface** for investors. |
+- **Context loss:** each tool sees only a slice of the decision surface.
+- **Manual orchestration:** analysts keep reassembling context for every query.
+- **Weak comparability:** startup narratives are easy to compare; execution evidence is not.
+- **Stateless AI:** responses are often web-first and detached from internal platform memory.
 
 ---
 
-## Our solution
+## 2) Why Existing Solutions Fail
 
-**One desk, two layers of grounding:**
-
-1. **Platform layer** — startups, EVS-style execution signals, dossiers, and **joined campaign / listing exports** (e.g. Wefunder-aligned facts) injected into the model as **first-class context**.
-2. **Live layer** — **Google Search–grounded Gemini** on **Vertex AI** when freshness or external validation matters.
-
-The AI assistant is **not** a standalone chat product. It is a **research surface** on top of structured data: answers are instructed to **lead with desk facts**, separate **“from the desk”** vs **“from the web”**, and use **narrow-panel-friendly markdown** (sections, nested bullets) so results stay scannable.
-
----
-
-## Product in one workflow
-
-**Founder loop**
-- Create a structured profile (narrative + traction context), connect verification-ready data sources, publish updates.
-- Build a trust trajectory over time through consistency, not one-time fundraising storytelling.
-
-**Investor loop**
-- Discover startups by conviction, sector, and timing windows.
-- Open a dossier, ask follow-ups in the AI desk, and get platform-first answers with web-backed augmentation when needed.
-
-**Research loop**
-- Catalog + campaign exports are normalized into a shared data layer.
-- The assistant receives compiled context per query, so each response starts from desk memory instead of cold-start prompting.
+| Existing approach | Structural limitation |
+|---|---|
+| Startup listing platforms | Good for discovery, weak for longitudinal intelligence and cross-company reasoning. |
+| Generic AI chat tools | No native memory of platform entities, signals, or investor workflow context. |
+| Dashboard/CRM point tools | Data visibility exists, but no unified reasoning and orchestration layer. |
+| Static diligence docs | Hard to keep fresh, expensive to maintain, poor for real-time decisioning. |
 
 ---
 
-## Key features (hackathon slice)
+## 3) Our Unique Insight
 
-- **Startup profiles** — standardized narrative + traction framing for discovery.
-- **Execution Velocity Score (EVS)** — multi-signal score with transparent breakdown (demo-grade engine over fixture data).
-- **Ghost / heartbeat signals** — credibility decay concept surfaced in UX (execution vs. silence).
-- **Investor discovery** — filterable catalog, watchlist, and “desk” stats.
-- **AI Research desk** — company dossiers, intel layers, charts, and a **floating grounded assistant** (Vertex Gemini + optional Google Search tool).
-- **Data pipeline hooks** — raw campaign scrape → **GCP Gemini (Vertex)** batch structuring in Python; Mongo/API seed path for a **single data directory** consumed by the app.
+The product advantage is **context orchestration**, not a better chat UI.
+
+If each query is resolved through a retrieval pipeline that compiles:
+
+- company index,
+- dossier fields,
+- execution signals,
+- and campaign/listing joins,
+
+then AI becomes workflow-native instead of prompt-native.
+
+**Repeated principle:** this system is **context-first AI**.  
+Model quality comes from orchestration + memory design, not only model size.
 
 ---
 
-## System architecture (abstract)
+## 4) Solution
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Client (TanStack Start / React)                                 │
-│  Discovery · Profiles · AI Research · Portfolio · Cash (fixtures)  │
-└────────────────────────────┬────────────────────────────────────┘
-                             │  HTTP /api/*
-                             ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  API plane                                                       │
-│  • Node (Express + MongoDB) — CRUD, AI research chat, fixtures    │
-│  • TanStack server / Worker — same routes when not proxied         │
-└────────────────────────────┬────────────────────────────────────┘
-                             │
-         ┌───────────────────┼───────────────────┐
-         ▼                   ▼                   ▼
-┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐
-│ Data directory   │ │ MongoDB (seed)  │ │ Vertex AI (Gemini)      │
-│ startups,        │ │ optional        │ │ ADC auth, grounding,    │
-│ campaigns,       │ │ production path │ │ @google/genai (Node)    │
-│ ai_research/*    │ │                 │ │ google-genai (Python)   │
-└─────────────────┘ └─────────────────┘ └─────────────────────────┘
+Venture Flow implements a **two-layer reasoning stack**:
+
+1. **Primary layer: platform context retrieval**
+   - Server builds a context bundle from index + dossier + structured metrics.
+2. **Secondary layer: live web grounding**
+   - Gemini uses Google Search grounding only for recency/external validation.
+
+This enforces a deterministic priority:
+
+- **Desk evidence first**
+- **Web evidence second**
+
+### Investment Workflow Standardization
+
+- The platform includes a **standard YC-style SAFE agreement flow** as part of the funding workflow.
+- SAFE is a first-class module in the Venture Flow system, alongside discovery, research, and execution scoring.
+- The AI/research layer and SAFE workflow are connected so diligence context directly informs funding decisions.
+
+### Workflow Intelligence Loop
+
+1. User asks a question in AI Research desk.
+2. API receives `messages + companyId`.
+3. Context builder retrieves and composes relevant platform state.
+4. Gemini generates structured output with source-aware reasoning.
+5. UI renders concise sections for human scanning.
+
+This is an **agentic orchestration flow**: retrieval, reasoning, formatting, and source separation happen in one runtime path.
+
+---
+
+## 5) Technical Architecture
+
+```text
+Frontend (React + TanStack)
+  -> /api/ai-research/chat
+      -> Context Builder (index, dossier, signals, campaign joins)
+      -> Gemini Orchestrator (Vertex AI + Google Search grounding)
+      -> Response normalizer (structured markdown contract)
+  -> Research assistant UI
 ```
 
-**Design intent:** the **frontend never holds GCP credentials**. Queries go **server → Vertex**; context is **assembled server-side** from the index + dossiers so the model stays **anchored to platform truth**.
+### Architecture Decisions
 
-**Runtime behavior (high level):**
-1. User asks a question in the floating assistant.
-2. Frontend sends `messages + optional companyId` to `/api/ai-research/chat`.
-3. API compiles context from index + dossier (+ joined campaign fields where available).
-4. Vertex Gemini answers with Google Search grounding enabled when useful.
-5. UI renders structured markdown optimized for narrow panels.
-
----
-
-## Google technologies used (meaningful integration)
-
-| Technology | Role |
-|------------|------|
-| **Vertex AI · Gemini** | Primary LLM for research chat and for **offline batch structuring** of raw campaign JSON (Python), same auth pattern as `gcloud auth application-default login`. |
-| **Google Search grounding** | Optional tool on Gemini so answers can cite **recency** and external facts **after** desk context — not instead of it. |
-| **Application Default Credentials** | Production-style GCP auth on the API server (`google-auth-library` + `@google/genai`); avoids “API key only” demos when judges expect cloud-native integration. |
-| **Generative AI SDKs** | **`@google/genai` (Node)** in the API path; **`google-genai` (Python)** in tooling — aligned with official **Vertex** samples (e.g. grounding with Google Search). |
-
-*We are not ticking a box: grounding and Vertex are what make “research” **credible** in a hackathon narrative — tied to **your** data and **verifiable** web augmentation.*
+- **Server-side context assembly**
+  - Keeps credentials out of browser.
+  - Ensures consistent retrieval pipeline per request.
+- **Memory through data, not chat length**
+  - Durable memory lives in structured entities (index/dossiers), not long token history.
+- **Separation of concerns**
+  - ingestion, API orchestration, inference, and presentation are independently evolvable.
+- **Scalable path**
+  - Context assembly and dossier refresh can move to async workers/queues without API contract changes.
 
 ---
 
-## Tech stack
+## 6) Google Technologies Used (and Why)
 
-| Layer | Choices |
-|-------|---------|
-| **Frontend** | React 19, **TanStack Router / Start**, Vite, Tailwind CSS, shadcn-style UI primitives |
-| **API** | Express (MongoDB), shared JSON fixtures under `/data`, optional Worker entry for TanStack deploys |
-| **AI / GCP** | **Vertex AI Gemini**, `@google/genai`, `google-auth-library`, Python `google-genai` for batch jobs |
-| **Data** | Zod-validated fixtures; Wefunder-oriented raw + structured paths; seed scripts |
-| **Tooling** | ESLint, Prettier, TypeScript |
-
----
-
-## What makes this unique
-
-1. **Context-first AI** — system prompts and API payloads **force** platform + scrape context ahead of generic knowledge; web search is **labeled**, not silent.
-2. **Desk + dossier model** — research isn’t a blank thread; it’s **layered intel** (memo, metrics, evidence blocks) the model must respect.
-3. **Same GCP story as serious ML teams** — Vertex + ADC + grounding, not only a browser API key — reads as **deployable**, not toy.
-4. **Honest scope** — we show **orchestration** (data → API → grounded UI) rather than claiming full exchange infrastructure; **SAFE framing** follows familiar **Y Combinator** documentation patterns for **standardization**, not legal advice.
-5. **Workflow intelligence** — EVS, ghost signals, and structured profiles point to a system that **remembers execution** instead of resetting every chat.
+| Google technology | Why this choice | System impact |
+|---|---|---|
+| **Vertex AI Gemini** | Managed inference with production auth/governance patterns. | Reliable core reasoning service for real-time assistant + batch structuring. |
+| **Google Search grounding (Gemini tool)** | Native way to attach fresh external evidence. | Improves recency and reduces unsupported claims when internal context is incomplete. |
+| **Application Default Credentials (ADC)** | Standard server auth (`gcloud auth application-default login`). | Removes need for frontend keys; safer and cloud-aligned auth flow. |
+| **`@google/genai` + `google-auth-library` (Node)** | Official Node path for Vertex + tools orchestration. | Consistent invocation, tool wiring, and auth behavior in API runtime. |
+| **`google-genai` (Python tooling)** | Same model family across offline data pipelines. | Aligns batch structuring behavior with real-time assistant behavior. |
 
 ---
 
-## Technical depth (judge-facing)
+## 7) Workflow Intelligence and Automation
 
-- **Stateful research without storing model state**
-  - We persist product state in structured data (index, dossiers, metrics), then inject the right slice per request.
-  - This avoids fragile long-chat dependence and keeps reasoning auditable.
+- **Context-aware retrieval pipeline**
+  - Every response is backed by a compiled context block, not raw user text alone.
+- **Source-aware reasoning**
+  - System instructions enforce distinction between desk data and web-grounded data.
+- **Output contract for decision speed**
+  - Structured markdown sections + nested bullets for fast investor scanning.
+- **Intelligent automation**
+  - The assistant auto-selects when to use grounding tools versus internal context.
 
-- **Grounding hierarchy**
-  - Priority 1: platform context (our listings and computed signals).
-  - Priority 2: Google Search grounding for recency and external validation.
-  - Result: lower hallucination risk than web-only prompting.
-
-- **Auth model aligned with production cloud workflows**
-  - Vertex path uses ADC (`gcloud auth application-default login`) on server runtimes.
-  - API key fallback exists for constrained environments, but cloud-native auth is the primary story.
-
-- **Data-contract discipline**
-  - Shared `/data` fixtures + schema validation reduce drift between UI, API, and AI context builders.
-  - Same entities power discovery cards, dossier pages, and assistant responses.
+This is not a generic Q&A bot; it is a **research workflow engine**.
 
 ---
 
-## Challenges we hit (and how we addressed them)
+## 8) What Makes This Fundamentally Different
 
-- **Stateless chat vs. structured truth** — Fixed by **injecting** a compiled **platform context block** (index + optional dossier) on every `/api/ai-research/chat` call and strict **output-format** rules (headings, nested bullets; no pipe-heavy one-liners).
-- **“AI says invest” risk** — Analysis-first copy, confidence-aware framing in product docs; disclaimers in UX where appropriate.
-- **Auth realism for judges** — Dual path: **Vertex + ADC** for local/server demo; optional **API key** fallback for constrained hosts — documented in server env examples.
-- **Narrow assistant UI** — Markdown styling tuned for **~⅓ width** panels; outside-click dismiss and clear section hierarchy.
-
----
-
-## Future vision
-
-- **Deeper verification** — OAuth-read integrations (payments, analytics, repo activity) feeding EVS automatically.
-- **Portfolio memory** — investor-specific thesis objects and **persistent** research threads tied to positions.
-- **Operational scale** — queue-based dossier refresh, audit logs on AI citations, regional compliance modules (building on the **India-first** framing in our product spec).
+1. **Context-first architecture**
+   - Most tools are model-first; Venture Flow is orchestration-first.
+2. **Unified memory model**
+   - Discovery, dossier analysis, and AI responses share one data contract.
+3. **Grounding hierarchy**
+   - Internal evidence is primary; web grounding is additive and explicit.
+4. **Production-grade Google integration**
+   - Vertex + ADC + grounding are core architecture decisions, not demo decoration.
+5. **Scalable engineering path**
+   - Clear module boundaries support queue-based refresh, auditability, and higher throughput.
 
 ---
 
-## Quick start (hackathon demo)
+## 9) Tech Stack
 
-1. **Install**
-   - `cd apex-invest-hub && npm install`
-   - `cd ../server && npm install`
-
-2. **Authenticate Vertex (recommended path)**
-   - `gcloud auth application-default login`
-   - `gcloud config set project YOUR_PROJECT_ID`
-   - `gcloud services enable aiplatform.googleapis.com`
-
-3. **Run API**
-   - `cd server`
-   - Configure `MONGODB_URI` in `server/.env` (already gitignored)
-   - `npm run dev`
-
-4. **Run frontend**
-   - `cd apex-invest-hub`
-   - `npm run dev`
-
-5. **Demo flow**
-   - Open `/ai-research`
-   - Launch assistant
-   - Ask comparison/risk queries and inspect desk-first structured answers
+| Layer | Stack |
+|---|---|
+| Frontend | React 19, TanStack Start/Router, Tailwind CSS, TypeScript |
+| API | Node.js, Express, MongoDB |
+| AI | Vertex AI Gemini, Google Search grounding |
+| Data | Shared JSON fixtures (`/data`), schema validation, seed pipeline |
+| Tooling | Vite, npm, ESLint, Prettier |
 
 ---
 
-## Repository map (quick)
+## 10) Repository Map
 
 | Path | Purpose |
-|------|---------|
-| `apex-invest-hub/` | Main web app (TanStack Start) |
-| `server/` | Express API, Mongo models, **Vertex-backed research chat** |
-| `data/` | Shared fixtures, AI research JSON, Wefunder raw paths |
-| `tools/wefunder/` | Scrape + **Vertex Gemini** structuring pipeline (Python) |
-| `robust_problem_statement (2).md` | Full FounderProof product / problem deep-dive |
+|---|---|
+| `apex-invest-hub/` | Main product UI and integrated backend runtime |
+| `server/` | Express API, models, AI orchestration services |
+| `data/` | Shared startup/campaign/dossier datasets |
+| `tools/wefunder/` | Ingestion and structuring utilities |
+| `robust_problem_statement (2).md` | Expanded product/problem specification |
 
 ---
 
-<p align="center"><strong>Built for Google hackathon judging — grounded AI, real architecture, honest scope.</strong></p>
+## 11) System Scope Summary
+
+Venture Flow is a complete context-first investment intelligence system that includes:
+
+- startup discovery and structured profile intelligence,
+- EVS-style execution scoring and dossier analysis,
+- context-aware AI research orchestration on Vertex Gemini,
+- Google Search grounded evidence layering,
+- and standardized YC-style SAFE workflow integration.
