@@ -1,0 +1,372 @@
+[
+  {
+    "id": "190291",
+    "slug": "retokens",
+    "name": "REtokens",
+    "tagline": "A regulated marketplace for tokenized real estate securities.",
+    "description": "REtokens provides a comprehensive infrastructure for the tokenization of real estate assets, utilizing a regulated broker-dealer and Alternative Trading System (ATS). The platform streamlines the process of issuing and managing real estate securities, making institutional-grade investments accessible to a broader range of investors. By leveraging blockchain technology, REtokens aims to enhance liquidity and transparency in the traditionally opaque real estate market.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/190291/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/190291/standard_avatar.jpg",
+    "sector": "Fintech",
+    "stage": "Seed",
+    "location": "Spokane Valley, WA",
+    "founded": "2021",
+    "raising": 500000,
+    "valuation": 34900000,
+    "raised": 2363989,
+    "credibility": 85,
+    "momentum": 72,
+    "followers": 6,
+    "founders": [
+      {
+        "name": "Tyler Vinson",
+        "role": "CEO",
+        "bio": "25 years in investment real estate, creative deal structuring, and property syndications. Author of Freedom Through Cash Flow and visionary behind the REtokens platform.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-190291-1",
+        "date": "2024-02-03",
+        "type": "traction",
+        "title": "Campaign Launch and Momentum",
+        "body": "REtokens has officially launched its Wefunder campaign, already representing over $100M in tokenized assets and engaging with a community of over 10,000 investors."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 42000,
+        "users": 8800
+      },
+      {
+        "month": "Nov",
+        "revenue": 45000,
+        "users": 9100
+      },
+      {
+        "month": "Dec",
+        "revenue": 48500,
+        "users": 9450
+      },
+      {
+        "month": "Jan",
+        "revenue": 51000,
+        "users": 9800
+      },
+      {
+        "month": "Feb",
+        "revenue": 54000,
+        "users": 10200
+      },
+      {
+        "month": "Mar",
+        "revenue": 58000,
+        "users": 10600
+      }
+    ],
+    "highlights": [
+      "Regulated broker-dealer + ATS infrastructure",
+      "$100M+ in tokenized assets represented",
+      "10,000+ registered investor network",
+      "Institutional-grade real estate deal flow"
+    ]
+  },
+  {
+    "id": "180574",
+    "slug": "powerhero",
+    "name": "Power Hero Corp.",
+    "tagline": "Fast, personal EV charging for apartment residents and under-powered homes.",
+    "description": "Power Hero Corp. develops advanced EV charging solutions designed specifically for multi-unit dwellings and residential areas with power constraints. Their technology addresses the 'charging desert' faced by 117 million apartment residents through smart, networked hardware. The company holds 15 patents and is led by a veteran team with a history of successful exits in energy and messaging sectors.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/180574/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/180574/standard_avatar.jpg",
+    "sector": "Energy",
+    "stage": "Seed",
+    "location": "Claremont, CA",
+    "founded": "2015",
+    "raising": 1000000,
+    "valuation": 15000000,
+    "raised": 2471144,
+    "credibility": 88,
+    "momentum": 65,
+    "followers": 14,
+    "founders": [
+      {
+        "name": "Esmond Goei",
+        "role": "Executive Chairman and Founder",
+        "bio": "Serial entrepreneur and pioneer in multi-media messaging, fiber-optic switching, and solar energy-storage systems. Experienced in corporate VC fund management.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-180574-1",
+        "date": "2024-06-22",
+        "type": "product",
+        "title": "Prototype Milestones",
+        "body": "Power Hero has completed working prototypes in four distinct product groups and secured 15 patents to protect its proprietary EV charging architecture."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 50
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 120
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 280
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 410
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 650
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 890
+      }
+    ],
+    "highlights": [
+      "15 patents issued protecting core charging tech",
+      "Team with 10+ exits, including 6 IPOs",
+      "Targeting 117M apartment residents without home charging",
+      "Prototypes completed for 4 distinct product lines"
+    ]
+  },
+  {
+    "id": "181321",
+    "slug": "surgenetworks",
+    "name": "SURGE",
+    "tagline": "Real-time data infrastructure for AI.",
+    "description": "SURGE builds municipal and mobility infrastructure designed to capture real-time, anonymized data for urban environments. By deploying advanced sensor networks, they provide the ground-truth data necessary for autonomous vehicles and smart city applications. Their platform converts physical-world dynamics into actionable intelligence for developers and city planners.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/181321/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/181321/company_card_retina_SURGE_1771365664046.jpg",
+    "sector": "Infrastructure",
+    "stage": "Seed",
+    "location": "Wilmington, DE",
+    "founded": "2022",
+    "raising": 1000000,
+    "valuation": 12000000,
+    "raised": 1058158,
+    "credibility": 76,
+    "momentum": 79,
+    "followers": 39,
+    "founders": [
+      {
+        "name": "Miguel Jaramillo",
+        "role": "CEO",
+        "bio": "Expert in developing municipal and mobility infrastructure. Passionate about driving innovation, sustainability, and building connected communities through multi-jurisdictional rollouts.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-181321-1",
+        "date": "2024-02-17",
+        "type": "team",
+        "title": "Infrastructure Expansion",
+        "body": "SURGE is expanding its urban sensor network to new test corridors, providing critical data infrastructure for local autonomous mobility partners."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 12
+      },
+      {
+        "month": "Nov",
+        "revenue": 5000,
+        "users": 15
+      },
+      {
+        "month": "Dec",
+        "revenue": 8000,
+        "users": 22
+      },
+      {
+        "month": "Jan",
+        "revenue": 12000,
+        "users": 28
+      },
+      {
+        "month": "Feb",
+        "revenue": 14000,
+        "users": 35
+      },
+      {
+        "month": "Mar",
+        "revenue": 18000,
+        "users": 42
+      }
+    ],
+    "highlights": [
+      "VC-backed and Minority-founded startup",
+      "Proprietary urban sensor network for smart cities",
+      "Essential data pipe for AI and autonomous vehicle training",
+      "Operational footprint in major municipal hubs"
+    ]
+  },
+  {
+    "id": "181765",
+    "slug": "olia",
+    "name": "Olia Olive Leaf Tea",
+    "tagline": "A new kind of iced tea powered by olive leaves.",
+    "description": "Olia Olive Leaf Tea offers a uniquely healthy, caffeine-free beverage brewed from Mediterranean olive leaves. Founded by a professional chef, the brand delivers a drink that contains significantly more antioxidants than traditional green tea. The products are designed for the functional beverage market, focusing on immunity, anti-inflammatory properties, and clean labeling.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/181765/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/181765/standard_avatar.jpg",
+    "sector": "Food & Bev",
+    "stage": "Pre-seed",
+    "location": "San Antonio, TX",
+    "founded": "2020",
+    "raising": 250000,
+    "valuation": 5000000,
+    "raised": 371011,
+    "credibility": 74,
+    "momentum": 68,
+    "followers": 25,
+    "founders": [
+      {
+        "name": "Chris Cook",
+        "role": "Founder & CEO",
+        "bio": "Professional chef with 25+ years in fine dining. Discovered olive leaf tea at a Texas ranch and spent years perfecting the formula for retail readiness.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-181765-1",
+        "date": "2024-05-05",
+        "type": "traction",
+        "title": "Now Available in Retail",
+        "body": "Olia has successfully moved from R&D to commercial production and is beginning distribution in regional gourmet grocery outlets."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 600,
+        "users": 100
+      },
+      {
+        "month": "Nov",
+        "revenue": 850,
+        "users": 140
+      },
+      {
+        "month": "Dec",
+        "revenue": 1200,
+        "users": 210
+      },
+      {
+        "month": "Jan",
+        "revenue": 1500,
+        "users": 305
+      },
+      {
+        "month": "Feb",
+        "revenue": 1900,
+        "users": 420
+      },
+      {
+        "month": "Mar",
+        "revenue": 2400,
+        "users": 580
+      }
+    ],
+    "highlights": [
+      "3x–14x more antioxidants than traditional teas",
+      "Caffeine-free and plant-based formula",
+      "Chef-crafted flavor profiles for high-end retail",
+      "Tapping into the growing Mediterranean diet trend"
+    ]
+  },
+  {
+    "id": "188165",
+    "slug": "glo",
+    "name": "GLO Health Foods",
+    "tagline": "Functional bars built to perform.",
+    "description": "GLO Health Foods produces high-performance functional nutrition bars developed by a licensed sports nutritionist. The company leverages a massive social media presence to drive direct-to-consumer sales and brand awareness. Their products focus on clean ingredients, superior macro profiles, and taste, targeting fitness enthusiasts and the broader wellness community.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/188165/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/188165/standard_blob.jpg",
+    "sector": "Health & Fitness",
+    "stage": "Seed",
+    "location": "Leander, TX",
+    "founded": "2021",
+    "raising": 500000,
+    "valuation": 5000000,
+    "raised": 818664,
+    "credibility": 81,
+    "momentum": 84,
+    "followers": 130,
+    "founders": [
+      {
+        "name": "Gabbi Tuft",
+        "role": "Chairman",
+        "bio": "Social media influencer with over 80M monthly views. Former WWE Superstar and Licensed Sports Nutritionist with a BS degree.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-188165-1",
+        "date": "2024-01-27",
+        "type": "fundraise",
+        "title": "Strong Investor Interest",
+        "body": "GLO has surpassed $500k in total commitments this campaign, fueled by Gabbi Tuft's viral community and the demand for clean functional snacks."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 15000,
+        "users": 1200
+      },
+      {
+        "month": "Nov",
+        "revenue": 18500,
+        "users": 1550
+      },
+      {
+        "month": "Dec",
+        "revenue": 24000,
+        "users": 2100
+      },
+      {
+        "month": "Jan",
+        "revenue": 31000,
+        "users": 2800
+      },
+      {
+        "month": "Feb",
+        "revenue": 45000,
+        "users": 4200
+      },
+      {
+        "month": "Mar",
+        "revenue": 56000,
+        "users": 5100
+      }
+    ],
+    "highlights": [
+      "Influencer-led distribution with 80M+ monthly views",
+      "Developed by a licensed nutritionist and former WWE pro",
+      "Strong D2C growth and recurring subscription base",
+      "Functional ingredients designed for athletic performance"
+    ]
+  }
+]

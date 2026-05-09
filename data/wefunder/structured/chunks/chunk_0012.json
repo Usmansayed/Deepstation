@@ -1,0 +1,370 @@
+[
+  {
+    "id": "157267",
+    "slug": "tempra",
+    "name": "Tempra Technology",
+    "tagline": "Innovative self-heating food and beverage packaging solutions.",
+    "description": "Tempra Technology is a pioneer in self-heating and self-chilling packaging, providing thermal solutions for the food, beverage, and medical industries. The company utilizes patented technology to enable consumers to heat meals or cool drinks on-demand without external power sources. With a long history in thermal research, Tempra serves both commercial markets and humanitarian sectors, including disaster relief and military applications.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/157267/xxl_blob",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/157267/standard_blob.jpg",
+    "sector": "FoodTech",
+    "stage": "Series A",
+    "location": "Bradenton, FL, USA",
+    "founded": "1992",
+    "raising": 1000000,
+    "valuation": 203600000,
+    "raised": 43630725,
+    "credibility": 88,
+    "momentum": 42,
+    "followers": 4,
+    "founders": [
+      {
+        "name": "Barney J. Guarino",
+        "role": "Founder & CEO",
+        "bio": "A Wall Street veteran with over 30 years in thermal technology, Guarino is a pioneer in self-heating systems and holds multiple patents in the field.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-157267-1",
+        "date": "2025-03-20",
+        "type": "milestone",
+        "title": "Scaling Manufacturing",
+        "body": "Tempra is expanding its manufacturing partnerships to meet increasing demand for humanitarian meal kits."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 420,
+        "users": 10
+      },
+      {
+        "month": "Oct",
+        "revenue": 450,
+        "users": 12
+      },
+      {
+        "month": "Nov",
+        "revenue": 480,
+        "users": 15
+      },
+      {
+        "month": "Dec",
+        "revenue": 500,
+        "users": 18
+      },
+      {
+        "month": "Jan",
+        "revenue": 550,
+        "users": 20
+      },
+      {
+        "month": "Feb",
+        "revenue": 600,
+        "users": 25
+      }
+    ],
+    "highlights": [
+      "Over $30M raised from institutional investors",
+      "Pioneer in self-heating technology with multiple patents",
+      "Solutions for military, humanitarian, and consumer use",
+      "Experienced leadership with 30+ years in thermal tech"
+    ]
+  },
+  {
+    "id": "179802",
+    "slug": "artichoke",
+    "name": "Artichoke Pictures Inc.",
+    "tagline": "An immersive thriller where the audience is hypnotized in real life.",
+    "description": "Artichoke Pictures is developing a groundbreaking narrative film centered on a CIA hypnotist. The project distinguishes itself by incorporating real subconscious techniques that aim to hypnotize the audience during the viewing experience. Led by an award-winning filmmaker, the company seeks to push the boundaries of psychological thrillers and interactive cinema.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/179802/xxl_Artichoke_Pictures_Inc__logo_1773881157530.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/179802/company_card_retina_Artichoke_Pictures_Inc__1774283372866.jpg",
+    "sector": "Entertainment",
+    "stage": "Pre-seed",
+    "location": "Los Angeles, CA, USA",
+    "founded": "2024",
+    "raising": 100000,
+    "valuation": 2000000,
+    "raised": 60711,
+    "credibility": 62,
+    "momentum": 58,
+    "followers": 2,
+    "founders": [
+      {
+        "name": "Robert Matthews",
+        "role": "Writer, Director & Producer",
+        "bio": "Multi-award-winning filmmaker whose screenplays have been optioned by major Hollywood production companies.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-179802-1",
+        "date": "2025-04-15",
+        "type": "product",
+        "title": "Script Finalized",
+        "body": "The final shooting script for Artichoke has been completed, integrating specific hypnosis cues for the audience."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 50
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 120
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 340
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 800
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 1200
+      },
+      {
+        "month": "Apr",
+        "revenue": 0,
+        "users": 2100
+      }
+    ],
+    "highlights": [
+      "Innovative use of real subconscious techniques",
+      "Award-winning director with Hollywood experience",
+      "Highly unique value proposition in the thriller genre"
+    ]
+  },
+  {
+    "id": "134763",
+    "slug": "multiturbineold",
+    "name": "Multiturbine",
+    "tagline": "Next-generation wind technology designed to disrupt renewable energy.",
+    "description": "Multiturbine is developing a proprietary wind energy structure designed to be cheaper and cleaner than traditional turbines. By reinventing the mechanical framework of wind harvesting, the company aims to lower the cost of energy production and facilitate wider adoption of renewables. The technology focuses on structural efficiency and ease of deployment for the utility-scale wind market.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/134763/xxl_blob",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/134763/company_card_retina_Multiturbine_explore_card_photo_1696436726081.jpg",
+    "sector": "CleanTech",
+    "stage": "Seed",
+    "location": "Minneapolis, MN, USA",
+    "founded": "2021",
+    "raising": 500000,
+    "valuation": 16667000,
+    "raised": 84509,
+    "credibility": 68,
+    "momentum": 48,
+    "followers": 4,
+    "founders": [
+      {
+        "name": "Matthew Michel",
+        "role": "Founder & CTO",
+        "bio": "Matthew has 25 years of experience in crane design and 7 years specifically focused on wind-turbine structures.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-134763-1",
+        "date": "2025-01-10",
+        "type": "milestone",
+        "title": "Prototype Development",
+        "body": "Engineering phase for the scaled prototype is underway, focusing on load-bearing structural efficiency."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 5
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 8
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 12
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 15
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 22
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 30
+      }
+    ],
+    "highlights": [
+      "Reinventing a $100B renewable energy market",
+      "Founder has deep expertise in heavy structural engineering",
+      "Sustainable B2B energy solution targeting global warming"
+    ]
+  },
+  {
+    "id": "156383",
+    "slug": "boxgreen",
+    "name": "Boxgreen",
+    "tagline": "Plant-based snacks for offices and premium hotels.",
+    "description": "Boxgreen is a B-Corp certified snack company that provides plant-based, healthy snacks to corporate offices and premium hotels. Having already established a strong presence in international markets with over 5 million packs sold, Boxgreen is now expanding its operations into the United States. The company emphasizes social impact by empowering marginalized communities through its production and supply chain.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/156383/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/156383/company_card_retina_Boxgreen_explore_card_photo_1736195285750.jpg",
+    "sector": "FoodTech",
+    "stage": "Seed",
+    "location": "Las Vegas, NV, USA",
+    "founded": "2016",
+    "raising": 250000,
+    "valuation": 3500000,
+    "raised": 55586,
+    "credibility": 82,
+    "momentum": 66,
+    "followers": 5,
+    "founders": [
+      {
+        "name": "Walter Oh",
+        "role": "Co-founder & CEO",
+        "bio": "An alumni of the University of Illinois and an experienced impact investor, Walter is a second-time founder focused on sustainable nutrition.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-156383-1",
+        "date": "2025-02-14",
+        "type": "traction",
+        "title": "US Launch Milestone",
+        "body": "Boxgreen successfully secured its first three major US hotel partnerships for in-room snack placement."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 155000,
+        "users": 4800
+      },
+      {
+        "month": "Oct",
+        "revenue": 162000,
+        "users": 4950
+      },
+      {
+        "month": "Nov",
+        "revenue": 168000,
+        "users": 5100
+      },
+      {
+        "month": "Dec",
+        "revenue": 175000,
+        "users": 5250
+      },
+      {
+        "month": "Jan",
+        "revenue": 182000,
+        "users": 5400
+      },
+      {
+        "month": "Feb",
+        "revenue": 190000,
+        "users": 5600
+      }
+    ],
+    "highlights": [
+      "$2M annual revenue with 28% CAGR over last 8 years",
+      "Over 5 million snack packs sold globally",
+      "Certified B-Corp with strong social mission",
+      "Entering the high-growth US corporate wellness market"
+    ]
+  },
+  {
+    "id": "191867",
+    "slug": "eisanahealth",
+    "name": "Eisana Health",
+    "tagline": "Reducing permanent nerve damage from chemotherapy.",
+    "description": "Eisana Health is a medical device company dedicated to preventing chemotherapy-induced peripheral neuropathy. Their mobile cooling device is designed to preserve hand and foot function during treatment, improving long-term outcomes for cancer patients. The technology is backed by human testing and has received substantial non-dilutive funding from the National Cancer Institute (NCI).",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/191867/xxl_blob",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/191867/company_card_retina_Eisana_Health_1775665637031.jpg",
+    "sector": "HealthTech",
+    "stage": "Seed",
+    "location": "The Woodlands, TX, USA",
+    "founded": "2018",
+    "raising": 500000,
+    "valuation": 8000000,
+    "raised": 1886211,
+    "credibility": 85,
+    "momentum": 72,
+    "followers": 6,
+    "founders": [
+      {
+        "name": "Carole Spangler Vaughn",
+        "role": "CEO",
+        "bio": "Carole holds a Ph.D. in Biophysics from Johns Hopkins and has 25+ years of experience in the life science industry, specializing in oncology products.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-191867-1",
+        "date": "2025-04-01",
+        "type": "fundraise",
+        "title": "NCI Funding Milestone",
+        "body": "Eisana has secured an additional $400K in funding from the National Cancer Institute to advance clinical trials."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 40
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 55
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 72
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 95
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 110
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 150
+      }
+    ],
+    "highlights": [
+      "Backed by $400K in NCI grant funding",
+      "Only mobile device for preserving hand and foot function during chemo",
+      "Led by PhD biophysicist with deep oncology experience",
+      "Successful human testing completed"
+    ]
+  }
+]

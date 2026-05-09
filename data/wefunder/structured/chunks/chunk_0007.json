@@ -1,0 +1,372 @@
+[
+  {
+    "id": "188456",
+    "slug": "madrona-distilling-inc",
+    "name": "Madrona Distilling Inc",
+    "tagline": "A Craft Gin distillery with international recognition for exceptional taste",
+    "description": "Madrona Distilling is an award-winning craft distillery based on Orcas Island, Washington. Specializing in high-quality gin, the company has secured national distribution and is currently developing a premiere tasting destination. Their products have received international recognition for their unique botanical profiles and exceptional taste.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/188456/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/188456/standard_blob.jpg",
+    "sector": "Alcohol",
+    "stage": "Seed",
+    "location": "Eastsound, WA",
+    "founded": "2021",
+    "raising": 54360,
+    "valuation": 4000000,
+    "raised": 579360,
+    "credibility": 75,
+    "momentum": 68,
+    "followers": 13,
+    "founders": [
+      {
+        "name": "Tom Allan",
+        "role": "President and Founder",
+        "bio": "Tom is a graduate of Heriot-Watt University's brewing and distilling program and a member of the Gin Guild in London. He brings deep technical expertise in spirit production and craft distilling operations.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-188456-1",
+        "date": "2024-02-24",
+        "type": "traction",
+        "title": "Campaign Launch and Traction",
+        "body": "Madrona Distilling has reached 106% of its primary funding target, fueled by national distribution gains and international spirit awards."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 3800,
+        "users": 150
+      },
+      {
+        "month": "Oct",
+        "revenue": 4100,
+        "users": 165
+      },
+      {
+        "month": "Nov",
+        "revenue": 4500,
+        "users": 180
+      },
+      {
+        "month": "Dec",
+        "revenue": 5200,
+        "users": 210
+      },
+      {
+        "month": "Jan",
+        "revenue": 4300,
+        "users": 190
+      },
+      {
+        "month": "Feb",
+        "revenue": 4600,
+        "users": 205
+      }
+    ],
+    "highlights": [
+      "Inducted into the Gin Guild in London",
+      "National distribution secured",
+      "New Orcas Island tasting destination under development",
+      "Award-winning product lineup"
+    ]
+  },
+  {
+    "id": "110147",
+    "slug": "arkhaus",
+    "name": "ARKHAUS",
+    "tagline": "Electrifying maritime transportation & hospitality",
+    "description": "ARKHAUS is a pioneer in sustainable maritime hospitality, operating solar-powered floating social clubs. The company recently expanded its vertical integration by acquiring its vessel manufacturer, Arkup, which has seen $15M in lifetime sales. ARKHAUS focuses on reducing the environmental impact of luxury coastal leisure through electrification and innovative design.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/110147/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/110147/standard_blob.jpg",
+    "sector": "Maritime",
+    "stage": "Seed",
+    "location": "Miami, FL",
+    "founded": "2020",
+    "raising": 126228,
+    "valuation": 25000000,
+    "raised": 1161228,
+    "credibility": 84,
+    "momentum": 82,
+    "followers": 199,
+    "founders": [
+      {
+        "name": "Sam Payrovi",
+        "role": "Co-Founder & Chief Executive Officer",
+        "bio": "A 14-year investment banker turned serial entrepreneur with a background from UCLA and Bear Stearns. Sam specializes in market analytics and luxury hospitality scaling.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-110147-1",
+        "date": "2024-07-16",
+        "type": "traction",
+        "title": "Strategic Acquisition",
+        "body": "Successfully acquired Arkup, the manufacturer of our solar-powered vessels, securing the supply chain and R&D for future club locations."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 62000,
+        "users": 400
+      },
+      {
+        "month": "Oct",
+        "revenue": 64500,
+        "users": 420
+      },
+      {
+        "month": "Nov",
+        "revenue": 65800,
+        "users": 435
+      },
+      {
+        "month": "Dec",
+        "revenue": 68000,
+        "users": 450
+      },
+      {
+        "month": "Jan",
+        "revenue": 66500,
+        "users": 460
+      },
+      {
+        "month": "Feb",
+        "revenue": 67200,
+        "users": 475
+      }
+    ],
+    "highlights": [
+      "Operating at $800K ARR during soft-launch phase",
+      "Acquired Arkup vessel manufacturer ($15M lifetime sales)",
+      "Pioneering solar-powered maritime social clubs",
+      "Strategic presence in the Miami luxury market"
+    ]
+  },
+  {
+    "id": "165737",
+    "slug": "vatom",
+    "name": "Vatom",
+    "tagline": "A digital engagement platform enabling brands to create interactive experiences at scale",
+    "description": "Vatom provides a sophisticated AI-powered platform that allows global brands to create and distribute interactive digital objects and virtual spaces. Used by giants like PepsiCo, Google, and Deloitte, Vatom enables immersive Web3-style engagement without the complexity of traditional blockchain. The platform currently supports over 10 million users globally with high-scale interactive media.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/165737/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/165737/standard_blob.jpg",
+    "sector": "AdTech",
+    "stage": "Series A",
+    "location": "Los Angeles, CA",
+    "founded": "2018",
+    "raising": 627277,
+    "valuation": 125000000,
+    "raised": 625277,
+    "credibility": 91,
+    "momentum": 74,
+    "followers": 8,
+    "founders": [
+      {
+        "name": "Eric Pulier",
+        "role": "Founder & CEO",
+        "bio": "Eric is a seasoned technology executive and entrepreneur who has founded over a dozen companies with multiple successful exits and public listings. He is a pioneer in cloud computing and digital engagement.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-165737-1",
+        "date": "2024-05-09",
+        "type": "team",
+        "title": "Global Scaling Milestone",
+        "body": "Vatom's AI platform has surpassed 10 million users across campaigns for leading Fortune 500 brands."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 39000,
+        "users": 850000
+      },
+      {
+        "month": "Oct",
+        "revenue": 41500,
+        "users": 890000
+      },
+      {
+        "month": "Nov",
+        "revenue": 42000,
+        "users": 920000
+      },
+      {
+        "month": "Dec",
+        "revenue": 45000,
+        "users": 980000
+      },
+      {
+        "month": "Jan",
+        "revenue": 40500,
+        "users": 1000000
+      },
+      {
+        "month": "Feb",
+        "revenue": 43000,
+        "users": 1050000
+      }
+    ],
+    "highlights": [
+      "10M+ users globally on the platform",
+      "Tier-1 enterprise clients including Google and P&G",
+      "Proprietary AI-driven engagement technology",
+      "Massive $125M valuation reflecting market leadership"
+    ]
+  },
+  {
+    "id": "135227",
+    "slug": "sundaysupper",
+    "name": "Sunday Supper",
+    "tagline": "Plant-based Italian comfort food built for the frozen aisle",
+    "description": "Sunday Supper is a mission-driven food company reinventing the frozen aisle with high-quality, plant-based Italian meals. Their flagship vegan lasagna and Italian dishes are currently distributed in over 650 retail doors, including significant partnerships with Whole Foods. The brand focuses on premium taste and convenience to capture the rapidly growing plant-based consumer segment.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/135227/xxl_blob",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/135227/standard_blob.jpg",
+    "sector": "FoodTech",
+    "stage": "Seed",
+    "location": "Los Angeles, CA",
+    "founded": "2020",
+    "raising": 53200,
+    "valuation": 8000000,
+    "raised": 493200,
+    "credibility": 81,
+    "momentum": 85,
+    "followers": 9,
+    "founders": [
+      {
+        "name": "Spencer Oberg",
+        "role": "CEO",
+        "bio": "Spencer was a founding team member and Head of Ops at Good Planet Foods. He brings deep experience in scaling plant-based consumer packaged goods to the retail market.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-135227-1",
+        "date": "2024-05-06",
+        "type": "traction",
+        "title": "Whole Foods Expansion",
+        "body": "Launched 4 new SKUs in Whole Foods, with early sales data showing 6x category average performance."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 14200,
+        "users": 2800
+      },
+      {
+        "month": "Oct",
+        "revenue": 15100,
+        "users": 3100
+      },
+      {
+        "month": "Nov",
+        "revenue": 15800,
+        "users": 3400
+      },
+      {
+        "month": "Dec",
+        "revenue": 17200,
+        "users": 3900
+      },
+      {
+        "month": "Jan",
+        "revenue": 14800,
+        "users": 3600
+      },
+      {
+        "month": "Feb",
+        "revenue": 16500,
+        "users": 4100
+      }
+    ],
+    "highlights": [
+      "Distributed in over 650 retail doors",
+      "Selling 6x above category averages in key retailers",
+      "Founder previously scaled Good Planet Foods",
+      "Strategic partnership with Whole Foods"
+    ]
+  },
+  {
+    "id": "48825",
+    "slug": "lordsoffortunellc",
+    "name": "Lords Of Fortune LLC",
+    "tagline": "Recovering one of the greatest lost treasure in history",
+    "description": "Lords Of Fortune is a specialized maritime salvage company focused on the recovery of the RMS Republic, a famous shipwreck believed to contain a historic treasure. Led by the explorer who discovered the wreck, the company utilizes advanced deep-sea recovery technology. Their mission and operations were previously featured in a nine-episode series on the History Channel.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/48825/xxl_cropped_LoFLogo.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/48825/standard_cropped_ElCapitano1000x562.jpg",
+    "sector": "Entertainment",
+    "stage": "Pre-seed",
+    "location": "Miami Beach, FL",
+    "founded": "2013",
+    "raising": 185493,
+    "valuation": 0,
+    "raised": 185493,
+    "credibility": 65,
+    "momentum": 55,
+    "followers": 265,
+    "founders": [
+      {
+        "name": "Martin Bayerle",
+        "role": "Managing Member",
+        "bio": "The finder of the RMS Republic and star of 'Billion Dollar Wreck' on the History Channel. Martin has decades of experience in deep-sea cargo recovery and maritime history.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-48825-1",
+        "date": "2024-05-15",
+        "type": "milestone",
+        "title": "Salvage Preparation Phase",
+        "body": "Finalizing logistics and engineering specifications for the upcoming recovery expedition of the RMS Republic."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 0,
+        "users": 120
+      },
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 150
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 180
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 220
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 245
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 265
+      }
+    ],
+    "highlights": [
+      "Salvage rights to the historic RMS Republic",
+      "Featured on History Channel's 'Billion Dollar Wreck'",
+      "Experienced deep-sea recovery leadership",
+      "High-upside moonshot project in maritime exploration"
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+{
+  "id": "vertex-grid",
+  "memo": {
+    "oneLiner": "Grid-scale infrastructure software with durable utility partnerships and a widening backlog.",
+    "snapshotLine": "Load-bearing planning stack for utilities — expansion ARR and implementation hiring are outpacing new-logo adds, which usually means embed depth, not a one-year services bubble.",
+    "sentiment": "Constructive — accumulation window",
+    "overview": "Vertex Grid Systems helps utilities and large energy buyers model demand, optimize dispatch, and contract renewable capacity. The product sits at the intersection of climate policy, grid stress, and enterprise procurement — where budgets are large and switching costs compound once workflows are embedded.",
+    "thesis": "Recurring revenue is tilting toward expansion inside a concentrated utility base: larger committed tickets and longer terms versus prior cohorts, while CS/implementation hiring runs ahead of sales — the pattern we associate with fulfillment of a real backlog, not a hollow pipeline story. Conviction is that lumpiness is timing noise; the falsifier is NRR rolling over while delivery hiring stays hot.",
+    "whyBullets": [
+      "Contract quality improved: larger average deal size and longer committed terms versus prior cohorts.",
+      "Operational signals (delivery milestones, customer references) align with reported pipeline, reducing narrative gap risk.",
+      "Category tailwinds from grid modernization are durable and partially policy-backed, not purely cyclical."
+    ],
+    "supportingSignals": [
+      "Hiring velocity in implementation and customer success roles — consistent with scaling deployments, not speculative R&D.",
+      "Peer gross margin dispersion suggests room for Vertex to compound efficiency as volume rises.",
+      "Sentiment in enterprise procurement channels turned constructive without hype-style retail attention."
+    ],
+    "marketOpportunity": "The investable thesis is not \"another climate app\" — it is software that becomes load-bearing inside how power is bought and planned. That market expands as intermittency rises and utilities modernize planning tools. The AI estimate of near-term serviceable spend is rising faster than generic SaaS categories because procurement is centralized and budgets are already allocated.",
+    "competitiveAdvantage": "Moat is tariff- and territory-aware workflow depth plus years of integration trust — dashboards are easy; surviving a multi-year utility cycle is not. Edge shows up in renewal expansion velocity, not feature press releases.",
+    "risks": [
+      "Flagship utility slips can make a quarter look broken even when the backlog is real.",
+      "Interconnection and permitting delays stretch revenue recognition without killing strategic demand.",
+      "Top-account concentration: one blown implementation echoes loudly in ARR."
+    ],
+    "reasoningNarrative": "The model synthesized filings and earnings-style disclosures where available, cross-checked against hiring patterns, partner announcements, and peer margin benchmarks. The recommendation is not driven by a single headline metric — it emerges where growth quality, backlog behavior, and sentiment inflection align. Conflicts in the data (for example, slower hiring in sales but faster in delivery) were interpreted as a shift toward fulfillment, not contraction.",
+    "investorSummary": [
+      "Fits mandates that can absorb multi-quarter revenue noise for grid-software exposure.",
+      "Falsify on NRR and bookings-to-revenue conversion — not headline utility PR."
+    ],
+    "chartCaption": "Composite AI signal — how conviction evolved as independent evidence layers stacked (indexed).",
+    "chartValues": [
+      18,
+      22,
+      28,
+      35,
+      42,
+      48,
+      55,
+      62,
+      68,
+      74,
+      79,
+      84
+    ],
+    "secondaryInsight": {
+      "title": "Peer context",
+      "body": "Versus a basket of infrastructure software peers, Vertex ranks in the top quartile for signal consistency and in the middle band for valuation sensitivity — suggesting the market is not yet pricing a best-case execution path."
+    }
+  },
+  "intel": {
+    "marketSentimentScore": "+14 vs infra median",
+    "growthTrajectory": "Accelerating",
+    "riskProfile": "Moderate",
+    "momentumTags": [
+      "Utility backlog",
+      "Expansion-led",
+      "Policy tailwind"
+    ],
+    "primaryGrowthSignal": "Expansion-led ARR with rising NRR and implementation-heavy hiring — quality of growth is carrying the story.",
+    "whyNow": "Grid operators face immediate planning pressure from intermittency and interconnection backlogs; buyers who postpone software-led planning pay higher integration and outage costs later, which shortens effective sales cycles for credible vendors.",
+    "structuralTailwind": "Decarbonization policy, utility capex rerouting, and digitization of grid planning create a multi-year budget stream that is less tied to consumer discretionary demand than typical SaaS.",
+    "opportunityType": "Institutional-grade infrastructure software",
+    "evidenceSectionIntro": "Each visual below answers one diligence question that feeds the same conviction stack as the thesis. Nothing here is ornamental — if a chart cannot be tied to a decision, we remove it.",
+    "chartConvictionProves": "That AI conviction rose only as multiple independent signals converged — not because any single quarter surprised the market.",
+    "chartConvictionInterpretation": "The slope steepens when expansion-led growth, hiring mix, and procurement sentiment align. Flat stretches often coincide with lumpy utility bookings; the model discounts those unless delivery hiring confirms follow-through.",
+    "chartPositioningProves": "That Vertex’s composite operating signal ranks above this named peer set on dimensions we weight for the category: execution depth, expansion quality, and narrative consistency.",
+    "chartPositioningInterpretation": "Legacy-heavy peers score on incumbency but lag on velocity; Vertex’s placement reflects workflow depth that is costly to rip out after multi-year deployments.",
+    "chartSentimentProves": "That informed stakeholders warmed before retail narratives — lowering the odds sentiment is purely hype-driven.",
+    "chartSentimentInterpretation": "Rising expert-weighted sentiment while generic buzz stays flat is treated as professional accumulation — a pattern that historically preceded cleaner multiple expansion in infra software.",
+    "riskFraming": "Downside here is usually cycle timing and optics, not the category vanishing — size for lumpy utility reporting.",
+    "aiReasoningTimeline": [
+      "Validated utility tender language against product module map",
+      "Cross-checked backlog commentary with implementation hiring geography",
+      "Benchmarked gross margin path vs. infra peer cohort",
+      "Stress-tested revenue lumpiness under delayed flagship scenarios",
+      "Calibrated sentiment weights (expert vs. retail)",
+      "Published conviction trajectory with explicit falsification metrics"
+    ],
+    "metrics": [
+      {
+        "label": "Rev. growth (YoY)",
+        "value": "47%",
+        "delta": "+6pp",
+        "implication": "Suggests demand is compounding faster than typical enterprise infra — not a one-year spike."
+      },
+      {
+        "label": "Net retention",
+        "value": "128%",
+        "delta": "+4pp",
+        "implication": "Indicates embedded workflows; expansion is doing more of the work than new logos."
+      },
+      {
+        "label": "Hiring (CS + impl.)",
+        "value": "+31%",
+        "implication": "Consistent with delivery scaling rather than speculative R&D build."
+      },
+      {
+        "label": "Sentiment index",
+        "value": "72",
+        "delta": "+8",
+        "implication": "Procurement channels turned constructive without retail-style hype — healthier conviction."
+      },
+      {
+        "label": "Market expansion",
+        "value": "3 regions",
+        "implication": "Geographic repeatability is beginning to show — reduces single-market dependency."
+      },
+      {
+        "label": "Burn efficiency",
+        "value": "0.82×",
+        "implication": "Each dollar of burn maps to measurable ARR progress versus prior year."
+      },
+      {
+        "label": "Investor activity",
+        "value": "Elevated",
+        "implication": "Secondary interest rising; watch for crowding but no bubble signal in our flow data."
+      }
+    ],
+    "positioningPeers": [
+      {
+        "name": "Vertex",
+        "score": 88
+      },
+      {
+        "name": "Peer A",
+        "score": 62
+      },
+      {
+        "name": "Peer B",
+        "score": 54
+      },
+      {
+        "name": "Peer C",
+        "score": 41
+      }
+    ],
+    "sentimentSeries": [
+      {
+        "period": "W1",
+        "net": 42
+      },
+      {
+        "period": "W2",
+        "net": 48
+      },
+      {
+        "period": "W3",
+        "net": 51
+      },
+      {
+        "period": "W4",
+        "net": 58
+      },
+      {
+        "period": "W5",
+        "net": 61
+      },
+      {
+        "period": "W6",
+        "net": 68
+      },
+      {
+        "period": "W7",
+        "net": 72
+      },
+      {
+        "period": "W8",
+        "net": 74
+      }
+    ],
+    "evidence": [
+      {
+        "headline": "Expansion revenue is carrying the growth profile",
+        "supportingSignal": "Trailing NRR moved to 128% while new-logo growth stayed positive but slower — classic quality handoff.",
+        "confidence": "high",
+        "implication": "Revenue becomes more predictable and margin leverage can follow as CS ratios improve.",
+        "inference": "Investors should weight expansion and delivery metrics more than headline bookings noise."
+      },
+      {
+        "headline": "Implementation hiring leads sales hiring",
+        "supportingSignal": "Net new CS/implementation roles +31% YoY vs sales +9% — divergence persisted two quarters.",
+        "confidence": "medium",
+        "implication": "The company is prioritizing fulfillment and renewals over top-of-funnel vanity.",
+        "inference": "If this flips without revenue acceleration, treat it as an early execution warning."
+      }
+    ],
+    "aiSignals": [
+      {
+        "text": "Enterprise adoption trajectory strengthening",
+        "kind": "up"
+      },
+      {
+        "text": "Positive retention pattern vs. prior cohort",
+        "kind": "up"
+      },
+      {
+        "text": "Pricing power stable in renewals",
+        "kind": "steady"
+      },
+      {
+        "text": "Competitive pressure localized, not systemic",
+        "kind": "steady"
+      }
+    ],
+    "aiDetected": [
+      "Tender corpus: spike in RFP clauses mapping 1:1 to Vertex modules over six weeks — demand language, not marketing language.",
+      "Geo anomaly: implementation headcount opened in two new regions before revenue recognition — typical of booked utility work converting.",
+      "Peer pricing pages: fewer public discount hints vs. last quarter — category pricing may be firming.",
+      "Specialist forum sentiment turned weeks before mainstream financial press picked up the name."
+    ],
+    "marketAnalysis": "Grid modernization budgets are sticky: procurement cycles are long, but once Vertex is in planning workflows, replacement risk drops. The AI maps addressable spend using utility capex proxies and policy milestones — near-term wedge is expanding in three regions where interconnection queues worsened, forcing software-led planning.",
+    "competitorBreakdown": "Legacy vendors win on incumbency but ship slower integration roadmaps. Cloud-native entrants compete on UI but lack multi-year utility certification depth. Vertex sits in the narrower band that can pass security and uptime bars while shipping quarterly product increments.",
+    "sentimentDeepDive": "Narrative volume stayed flat while expert-quality sentiment rose — the AI treats that as informed accumulation rather than retail chase. Social hype remains below sector median despite strong fundamentals.",
+    "fundingHistory": "Last institutional round priced at a step-up consistent with ARR quality, not hype multiples. Insider participation increased slightly — alignment signal. No aggressive secondary dump patterns detected in tracked registers.",
+    "riskScenarios": "Bear: two flagship slips + margin compression from services-heavy delivery. Base: steady expansion with lumpy revenue. Bull: regional replication accelerates and gross margin inflects as productized services scale."
+  }
+}

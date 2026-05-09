@@ -1,0 +1,12 @@
+[
+  { "rank": 1, "name": "Kingscrowd Capital", "blurb": "Data-driven private market investing.", "site": "kingscrowd.com", "seed": "kc" },
+  { "rank": 2, "name": "George Simons", "blurb": "Collects cards, stamps, and alpha.", "site": "app.gramicious", "seed": "gs" },
+  { "rank": 3, "name": "Chris Graebe", "blurb": "Investor and educator helping founders.", "site": "ipoahhunter.com", "seed": "cg" },
+  { "rank": 4, "name": "Arash Ferdowsi", "blurb": "Co-founder style operator mindset.", "site": "dropbox.com", "seed": "af" },
+  { "rank": 5, "name": "Kevin Brown", "blurb": "Micro-investments in underserved markets.", "site": "canvascloud.ai", "seed": "kb" },
+  { "rank": 6, "name": "Brian Kelley", "blurb": "Startup advisor and active angel.", "site": "bkventures.co", "seed": "bk" },
+  { "rank": 7, "name": "Incub Life", "blurb": "Community-owned incubator club.", "site": "incublife.com", "seed": "il" },
+  { "rank": 8, "name": "Tom Wright", "blurb": "Unicorn hunter with patient conviction.", "site": "equityuppp.com", "seed": "tw" },
+  { "rank": 9, "name": "Kim Arnone", "blurb": "Social impact attorney turned investor.", "site": "kimarnone.co", "seed": "ka" },
+  { "rank": 10, "name": "Hatem Rowainy", "blurb": "Strategy consultant backing builders.", "site": "hatemrow.com", "seed": "hr" }
+]

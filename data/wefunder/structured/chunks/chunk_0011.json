@@ -1,0 +1,372 @@
+[
+  {
+    "id": "51686",
+    "slug": "619-spirits",
+    "name": "619 Spirits North Park",
+    "tagline": "USA Today's top 10 ranked craft vodka distillery is expanding in San Diego",
+    "description": "619 Spirits is an award-winning craft distillery and kitchen located in San Diego's North Park neighborhood. Known for its premium, small-batch infusions, the company is currently expanding into a new 8,000 square foot distillery and event space. They offer a unique investment opportunity with a 1.8x return multiple as they scale their local production and hospitality footprint.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/51686/xxl_cropped_619-north-park-cut-Square_350.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/51686/standard_blob.jpg",
+    "sector": "Food & Beverage",
+    "stage": "Seed",
+    "location": "San Diego, CA",
+    "founded": "2012",
+    "raising": 97446,
+    "valuation": 0,
+    "raised": 177446,
+    "credibility": 82,
+    "momentum": 65,
+    "followers": 8,
+    "founders": [
+      {
+        "name": "Nick Apostolopoulos",
+        "role": "President",
+        "bio": "Founder of 619 Spirits with over a decade of experience in the San Diego craft spirits market, focused on natural and local ingredient infusions.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-51686-1",
+        "date": "2024-05-01",
+        "type": "traction",
+        "title": "Expansion Update",
+        "body": "Development of the new 8,000 sqft distillery and event space is underway, aiming to capitalize on their top 10 national ranking."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Dec",
+        "revenue": 45000,
+        "users": 1200
+      },
+      {
+        "month": "Jan",
+        "revenue": 48000,
+        "users": 1350
+      },
+      {
+        "month": "Feb",
+        "revenue": 52000,
+        "users": 1500
+      },
+      {
+        "month": "Mar",
+        "revenue": 55000,
+        "users": 1650
+      },
+      {
+        "month": "Apr",
+        "revenue": 58000,
+        "users": 1800
+      },
+      {
+        "month": "May",
+        "revenue": 62000,
+        "users": 2000
+      }
+    ],
+    "highlights": [
+      "USA Today Top 10 Ranked Craft Vodka Distillery",
+      "Expanding into a new 8,000 sqft flagship facility",
+      "Offering a 1.8x investment return multiple",
+      "Highly established brand in the San Diego market"
+    ]
+  },
+  {
+    "id": "190167",
+    "slug": "nuralia-ai",
+    "name": "ISD Pal Inc",
+    "tagline": "Fixing corporate training with research-based AI solutions",
+    "description": "Nuralia is an AI-powered platform designed to revolutionize corporate learning and development by keeping pace with rapid organizational change. Founded by an Inc. 5000 entrepreneur and PwC alum, the company utilizes research-backed methodologies to optimize workforce training. The platform addresses the critical gap in traditional corporate educational tools through intelligent automation.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/190167/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/190167/company_card_retina_ISD_Pal_Inc_1773430069776.jpg",
+    "sector": "EdTech",
+    "stage": "Pre-seed",
+    "location": "Wilmington, DE",
+    "founded": "2023",
+    "raising": 96969,
+    "valuation": 10000000,
+    "raised": 96969,
+    "credibility": 74,
+    "momentum": 77,
+    "followers": 10,
+    "founders": [
+      {
+        "name": "Houri Tamizifar",
+        "role": "Co-founder & CEO",
+        "bio": "2x Founder who previously scaled Cynuria to the Inc. 5000. Former PwC and Booz Allen consultant with 20+ years of L&D expertise.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-190167-1",
+        "date": "2024-03-13",
+        "type": "fundraise",
+        "title": "Campaign Launch",
+        "body": "Successfully reached 77% of current funding goal within the initial phase of the Wefunder campaign."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 50
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 120
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 210
+      },
+      {
+        "month": "Jan",
+        "revenue": 500,
+        "users": 450
+      },
+      {
+        "month": "Feb",
+        "revenue": 1200,
+        "users": 800
+      },
+      {
+        "month": "Mar",
+        "revenue": 2500,
+        "users": 1100
+      }
+    ],
+    "highlights": [
+      "Founded by Inc. 5000 serial entrepreneur",
+      "Addressing a massive $300B+ corporate training market",
+      "Backed by deep L&D expertise from PwC and Booz Allen",
+      "Proprietary AI research-based methodology"
+    ]
+  },
+  {
+    "id": "192417",
+    "slug": "carengen",
+    "name": "CareNgen",
+    "tagline": "Senior life planning & solutions platform",
+    "description": "CareNgen is a comprehensive digital platform focused on senior life planning and elder care solutions. The company provides validated, user-friendly tools to help families navigate the complexities of aging, from healthcare management to financial logistics. Launching with strategic bank partners, CareNgen aims to provide a centralized ecosystem for the rapidly growing aging population.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/192417/xxl_blob",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/192417/company_card_retina_CareNgen_1774305528497.jpg",
+    "sector": "HealthTech",
+    "stage": "Seed",
+    "location": "Buffalo, NY",
+    "founded": "2022",
+    "raising": 86509,
+    "valuation": 9000000,
+    "raised": 1036509,
+    "credibility": 81,
+    "momentum": 68,
+    "followers": 22,
+    "founders": [
+      {
+        "name": "Jennifer Redding",
+        "role": "Founder/CEO",
+        "bio": "Experienced healthcare leader focused on aging-in-place solutions and senior care technology.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-192417-1",
+        "date": "2024-04-14",
+        "type": "product",
+        "title": "Market Launch",
+        "body": "Transitioned from MVP to market with validated user feedback and established banking partnerships."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 300
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 850
+      },
+      {
+        "month": "Jan",
+        "revenue": 1200,
+        "users": 1500
+      },
+      {
+        "month": "Feb",
+        "revenue": 2800,
+        "users": 2200
+      },
+      {
+        "month": "Mar",
+        "revenue": 4100,
+        "users": 3100
+      },
+      {
+        "month": "Apr",
+        "revenue": 5500,
+        "users": 4200
+      }
+    ],
+    "highlights": [
+      "Over $950,000 in past funding secured",
+      "Strategic launch partnership with a regional bank",
+      "Addresses critical 'Silver Tsunami' market needs",
+      "Repeat founder and notable angel investor backing"
+    ]
+  },
+  {
+    "id": "103406",
+    "slug": "blue-dot-motorworks",
+    "name": "Blue Dot Motorworks",
+    "tagline": "Convert gas vehicles into plug-in hybrids quickly and affordably",
+    "description": "Blue Dot Motorworks is a clean technology company developing innovative hardware that converts internal combustion engines into high-efficiency plug-in hybrids. Their patent-pending technology allows vehicle owners to significantly reduce emissions and fuel costs without the expense of purchasing a new EV. The system is designed for rapid installation and a short payback period for consumers.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/103406/xxl_blob.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/103406/company_card_retina_Blue_Dot_Motorworks_1764699790969.jpg",
+    "sector": "CleanTech",
+    "stage": "Seed",
+    "location": "Seattle, WA",
+    "founded": "2019",
+    "raising": 100941,
+    "valuation": 15000000,
+    "raised": 419856,
+    "credibility": 79,
+    "momentum": 72,
+    "followers": 9,
+    "founders": [
+      {
+        "name": "Tom Gurski",
+        "role": "Founder and CEO",
+        "bio": "MIT-trained engineer and serial entrepreneur with 25 years of experience in alternative energy and e-mobility.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-103406-1",
+        "date": "2023-12-02",
+        "type": "product",
+        "title": "Hardware Development Milestone",
+        "body": "Achieved significant testing benchmarks showing a potential $50,000 lifetime savings per converted vehicle."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 10
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 25
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 60
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 120
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 185
+      },
+      {
+        "month": "Mar",
+        "revenue": 5000,
+        "users": 240
+      }
+    ],
+    "highlights": [
+      "MIT-engineered retrofit technology",
+      "Estimated lifetime savings of $50,000 per vehicle",
+      "Product pays for itself in under 2 years",
+      "Large-scale environmental impact potential for existing fleets"
+    ]
+  },
+  {
+    "id": "168627",
+    "slug": "tripmix",
+    "name": "Tripmix",
+    "tagline": "Make any travel content shoppable with AI",
+    "description": "Tripmix is an AI-powered social travel marketplace that transforms static travel content into interactive, shoppable experiences. By bridging the gap between social media inspiration and actual booking, Tripmix allows creators to monetize their journeys and travelers to book trips instantly. The platform is built by repeat SaaS founders and is currently seeing early organic growth.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/168627/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/168627/company_card_retina_Tripmix_1773765283836.jpg",
+    "sector": "TravelTech",
+    "stage": "Pre-seed",
+    "location": "San Francisco, CA",
+    "founded": "2022",
+    "raising": 62450,
+    "valuation": 9000000,
+    "raised": 62450,
+    "credibility": 71,
+    "momentum": 58,
+    "followers": 6,
+    "founders": [
+      {
+        "name": "Rajiv Chopra",
+        "role": "Founder",
+        "bio": "2x Founder with a successful SaaS fintech exit. Early investor in AI automation and pioneer in travel creator technology.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-168627-1",
+        "date": "2024-03-17",
+        "type": "traction",
+        "title": "Early Revenue Milestone",
+        "body": "Successfully launched the AI marketplace and recorded initial revenue from organic travel creator integrations."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 150
+      },
+      {
+        "month": "Nov",
+        "revenue": 50,
+        "users": 400
+      },
+      {
+        "month": "Dec",
+        "revenue": 120,
+        "users": 850
+      },
+      {
+        "month": "Jan",
+        "revenue": 240,
+        "users": 1400
+      },
+      {
+        "month": "Feb",
+        "revenue": 450,
+        "users": 2100
+      },
+      {
+        "month": "Mar",
+        "revenue": 800,
+        "users": 2900
+      }
+    ],
+    "highlights": [
+      "Led by a 2x founder with a prior fintech exit",
+      "First AI & low-code platform for travel creators",
+      "Organic growth in the booming travel social commerce space",
+      "San Francisco-based tech with global applicability"
+    ]
+  }
+]

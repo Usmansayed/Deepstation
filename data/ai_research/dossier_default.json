@@ -1,0 +1,171 @@
+{
+  "memo": {
+    "oneLiner": "Tracked name — wire issuer data to produce a scored brief.",
+    "snapshotLine": "No fused signals yet: connect filings, alt data, and peer benchmarks before treating any score as live.",
+    "sentiment": "Under review",
+    "overview": "This company is tracked in the AI research universe; detailed memo copy can be expanded per issuer.",
+    "thesis": "No firm call until growth quality, falsifiers, and cross-source checks converge — conflicting inputs stay visible instead of being smoothed away.",
+    "whyBullets": [
+      "Diligence hooks exist but need issuer-specific data.",
+      "Risk vectors are mappable once fundamentals connect.",
+      "Sector context is neutral until your feed loads."
+    ],
+    "supportingSignals": [
+      "Validation pipeline idle pending data fusion.",
+      "Peer set not locked for this issuer.",
+      "Sentiment weights default to conservative."
+    ],
+    "marketOpportunity": "Spend pools matter only after you map this company’s wedge vs. incumbents — placeholder until connected.",
+    "competitiveAdvantage": "Moat thesis pending: workflow depth vs. feature parity requires account-level evidence.",
+    "risks": [
+      "Data gap: thesis is illustrative until feeds connect.",
+      "Peer rubric not calibrated to this issuer.",
+      "Timing risk if you size before signals fuse."
+    ],
+    "reasoningNarrative": "Structured fundamentals, alt signals, and consistency checks run in parallel; where they disagree, the score stays capped.",
+    "investorSummary": [
+      "Do not size off placeholder copy — expand data layer first.",
+      "Use assistant to pull peers and stress cases once connected."
+    ],
+    "chartCaption": "AI composite signal (indexed).",
+    "chartValues": [
+      20,
+      24,
+      29,
+      34,
+      40,
+      46,
+      52,
+      58,
+      64,
+      70,
+      76,
+      82
+    ],
+    "secondaryInsight": {
+      "title": "Note",
+      "body": "Expand company-specific memo content in data layer when connected to live research feeds."
+    }
+  },
+  "intel": {
+    "marketSentimentScore": "Neutral",
+    "growthTrajectory": "Tracking",
+    "riskProfile": "Moderate",
+    "momentumTags": [
+      "Diligence",
+      "Multi-signal"
+    ],
+    "primaryGrowthSignal": "Connect issuer-specific metrics to surface the primary growth signal.",
+    "whyNow": "Timing improves when live data confirms demand inflection and budget availability in the sector.",
+    "structuralTailwind": "Digital workflow adoption and compliance burden typically expand addressable software spend over time.",
+    "opportunityType": "Under review — connect data",
+    "evidenceSectionIntro": "Charts below are illustrative until live feeds land; each panel states what insight it would prove once populated.",
+    "chartConvictionProves": "How AI conviction should evolve as independent evidence layers stack.",
+    "chartConvictionInterpretation": "Wire real series to replace placeholders; interpretation tightens with issuer data.",
+    "chartPositioningProves": "Relative positioning vs. peers on dimensions you define (e.g. reliability, depth, price).",
+    "chartPositioningInterpretation": "Populate peer scores from your benchmark set for meaningful comparison.",
+    "chartSentimentProves": "Whether informed sentiment leads or lags fundamentals for this category.",
+    "chartSentimentInterpretation": "Source-weighted sentiment reduces noise vs. raw social volume.",
+    "riskFraming": "Risks are listed generically until company-specific diligence is connected; treat as a checklist, not a verdict.",
+    "aiReasoningTimeline": [
+      "Awaiting structured fundamentals",
+      "Awaiting alternative signals",
+      "Cross-check hiring vs. revenue narrative",
+      "Validate sentiment sources",
+      "Stress downside scenarios",
+      "Publish falsifiers when data connects"
+    ],
+    "metrics": [
+      {
+        "label": "Rev. growth",
+        "value": "—",
+        "implication": "Connect live feeds for issuer-specific metrics."
+      },
+      {
+        "label": "Retention",
+        "value": "—",
+        "implication": "NRR and cohort data will anchor conviction."
+      },
+      {
+        "label": "Hiring",
+        "value": "—",
+        "implication": "Role mix signals delivery vs. hype."
+      },
+      {
+        "label": "Sentiment",
+        "value": "—",
+        "implication": "Expert vs. retail divergence matters."
+      },
+      {
+        "label": "Expansion",
+        "value": "—",
+        "implication": "Geographic or segment repeatability reduces risk."
+      },
+      {
+        "label": "Burn eff.",
+        "value": "—",
+        "implication": "Efficiency vs. growth trade-off context."
+      },
+      {
+        "label": "Investor flow",
+        "value": "—",
+        "implication": "Quality vs. crowded momentum."
+      }
+    ],
+    "positioningPeers": [
+      {
+        "name": "Target",
+        "score": 60
+      },
+      {
+        "name": "Peer 1",
+        "score": 55
+      },
+      {
+        "name": "Peer 2",
+        "score": 48
+      }
+    ],
+    "sentimentSeries": [
+      {
+        "period": "W1",
+        "net": 45
+      },
+      {
+        "period": "W2",
+        "net": 48
+      },
+      {
+        "period": "W3",
+        "net": 50
+      },
+      {
+        "period": "W4",
+        "net": 52
+      }
+    ],
+    "evidence": [
+      {
+        "headline": "Placeholders until live data",
+        "supportingSignal": "Wire fundamentals and alternative datasets for full evidence blocks.",
+        "confidence": "emerging",
+        "implication": "Interpretation will tighten with real inputs.",
+        "inference": "Use assistant to request deeper pulls."
+      }
+    ],
+    "aiSignals": [
+      {
+        "text": "Signals pending full data fusion",
+        "kind": "watch"
+      }
+    ],
+    "aiDetected": [
+      "No proprietary detections until feeds connected."
+    ],
+    "marketAnalysis": "Expand with sector model and TAM drivers.",
+    "competitorBreakdown": "Expand with live peer set.",
+    "sentimentDeepDive": "Expand with source-weighted sentiment.",
+    "fundingHistory": "Expand with cap table and round history.",
+    "riskScenarios": "Expand with stress tests."
+  }
+}

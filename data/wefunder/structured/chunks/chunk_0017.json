@@ -1,0 +1,372 @@
+[
+  {
+    "id": "161889",
+    "slug": "schoolryde",
+    "name": "SchoolRyde",
+    "tagline": "Affordable & safe daily rides for kids - powered by smart taxi dispatch technology",
+    "description": "SchoolRyde provides a safe and affordable daily transportation solution for K-12 students by leveraging smart taxi dispatch technology. By partnering with high-growth taxi fleets, the platform ensures reliable transit for children while offering parents peace of mind through vetted drivers and real-time tracking. The service integrates directly with existing local transportation infrastructure to scale rapidly across urban areas.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/161889/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/161889/standard_blob.jpg",
+    "sector": "Logistics",
+    "stage": "Seed",
+    "location": "Fremont, CA",
+    "founded": "2021",
+    "raising": 86007,
+    "valuation": 8000000,
+    "raised": 136007,
+    "credibility": 65,
+    "momentum": 72,
+    "followers": 18,
+    "founders": [
+      {
+        "name": "Naveen Tulseela",
+        "role": "Founder & CEO",
+        "bio": "Technical Advisor at Liscio and former Technologist at Docusign; University of Illinois at Urbana-Champaign (UIUC) Alumni.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-161889-1",
+        "date": "2024-11-12",
+        "type": "traction",
+        "title": "Expansion of Fleet Partnerships",
+        "body": "Now partnered with high-growth taxi fleets comprising over 300 drivers each."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 15,
+        "users": 10
+      },
+      {
+        "month": "Oct",
+        "revenue": 25,
+        "users": 18
+      },
+      {
+        "month": "Nov",
+        "revenue": 35,
+        "users": 25
+      },
+      {
+        "month": "Dec",
+        "revenue": 40,
+        "users": 30
+      },
+      {
+        "month": "Jan",
+        "revenue": 55,
+        "users": 42
+      },
+      {
+        "month": "Feb",
+        "revenue": 70,
+        "users": 55
+      }
+    ],
+    "highlights": [
+      "Partnered with fleets of 300+ drivers",
+      "Smart taxi dispatch integration",
+      "Focused on safe K-12 transit",
+      "Proprietary child-safety technology"
+    ]
+  },
+  {
+    "id": "138115",
+    "slug": "aspectavy",
+    "name": "AspectAvy",
+    "tagline": "App to help you avoid avalanches as you navigate the backcountry.",
+    "description": "AspectAvy is a mobile safety application designed to prevent avalanche accidents for backcountry skiers and snowsports enthusiasts. Developed by certified IFMGA guides, the app uses predictive data and terrain analysis to help users identify high-risk areas before they enter them. By providing expert-level safety insights on a consumer-friendly interface, it aims to reduce fatalities in the wilderness.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/138115/xxl_AspectAvy_logo_1727811081633.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/138115/standard_blob.jpg",
+    "sector": "SportsTech",
+    "stage": "Seed",
+    "location": "Gunnison, CO",
+    "founded": "2021",
+    "raising": 574350,
+    "valuation": 4000000,
+    "raised": 1069350,
+    "credibility": 74,
+    "momentum": 68,
+    "followers": 33,
+    "founders": [
+      {
+        "name": "Jeff Banks",
+        "role": "Founder & CEO",
+        "bio": "Certified IFMGA guide and avalanche survivor with over 20 years of experience teaching safety courses in Europe and the US.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-138115-1",
+        "date": "2024-10-01",
+        "type": "milestone",
+        "title": "Beta Launch Complete",
+        "body": "Successfully raised $300k to complete beta testing and launch the MVP."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 0,
+        "users": 1200
+      },
+      {
+        "month": "Oct",
+        "revenue": 500,
+        "users": 2500
+      },
+      {
+        "month": "Nov",
+        "revenue": 2500,
+        "users": 4800
+      },
+      {
+        "month": "Dec",
+        "revenue": 8000,
+        "users": 7200
+      },
+      {
+        "month": "Jan",
+        "revenue": 12000,
+        "users": 9500
+      },
+      {
+        "month": "Feb",
+        "revenue": 15000,
+        "users": 11000
+      }
+    ],
+    "highlights": [
+      "Founded by IFMGA certified guides",
+      "Proprietary avalanche prevention algorithm",
+      "Significant user growth during winter beta",
+      "Critical safety tool for backcountry athletes"
+    ]
+  },
+  {
+    "id": "188083",
+    "slug": "iteropus",
+    "name": "Iter Opus",
+    "tagline": "How talent meets opportunity - AI career concierge and intelligent workforce platform",
+    "description": "Iter Opus is an AI-driven workforce platform that functions as a career concierge, matching professional talent with the most relevant opportunities. The platform leverages intelligent algorithms to streamline recruitment and digital transformation in the HR sector. Managed by veterans of the tech industry, the platform focuses on long-term career growth rather than simple job placement.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/188083/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/188083/company_card_retina_Iter_Opus_Corporation_1773766087218.jpg",
+    "sector": "HRTech",
+    "stage": "Pre-seed",
+    "location": "Rochester, NY",
+    "founded": "2024",
+    "raising": 74950,
+    "valuation": 12000000,
+    "raised": 74950,
+    "credibility": 70,
+    "momentum": 58,
+    "followers": 22,
+    "founders": [
+      {
+        "name": "Andrew Dimock",
+        "role": "CEO",
+        "bio": "Digital transformation expert with 28+ years of experience; former Visiting Lecturer at RIT and Co-Founder of Vessel Strategy.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-188083-1",
+        "date": "2025-03-17",
+        "type": "fundraise",
+        "title": "Campaign Launch",
+        "body": "Iter Opus goes live on Wefunder with backing from notable angel investors."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 150
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 400
+      },
+      {
+        "month": "Dec",
+        "revenue": 1200,
+        "users": 850
+      },
+      {
+        "month": "Jan",
+        "revenue": 2500,
+        "users": 1400
+      },
+      {
+        "month": "Feb",
+        "revenue": 4800,
+        "users": 2200
+      },
+      {
+        "month": "Mar",
+        "revenue": 7500,
+        "users": 3100
+      }
+    ],
+    "highlights": [
+      "AI-driven workforce concierge",
+      "Founded by tech industry veterans",
+      "Backing from established angel investors",
+      "Focus on digital transformation in HR"
+    ]
+  },
+  {
+    "id": "35087",
+    "slug": "islandcompanyrum",
+    "name": "Island Company Rum",
+    "tagline": "A true ‘Luxury Rum’™ appealing to health-conscious escapists",
+    "description": "Island Company Rum is a high-end spirits brand catering to the luxury resort market with a focus on clean, health-conscious production. The product is both sugar-free and gluten-free, designed to meet the demands of sophisticated consumers seeking premium experiences. Built as an extension of the established Island Company lifestyle brand, it utilizes a proven distribution model across elite tropical destinations.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/35087/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/35087/standard_blob.jpg",
+    "sector": "Beverage",
+    "stage": "Series A",
+    "location": "West Palm Beach, FL",
+    "founded": "2017",
+    "raising": 71301,
+    "valuation": 20000000,
+    "raised": 2202821,
+    "credibility": 88,
+    "momentum": 64,
+    "followers": 32,
+    "founders": [
+      {
+        "name": "Spencer Antle",
+        "role": "CEO/Creative Director",
+        "bio": "Founder of Island Company lifestyle brand; six-time Inc 5000 fastest-growing company leader and award-winning filmmaker.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-35087-1",
+        "date": "2024-04-24",
+        "type": "milestone",
+        "title": "Scaling Luxury Relaunch",
+        "body": "Island Company Rum is executing a fully operational relaunch targeting the 5-star tropical resort market."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 1050,
+        "users": 40
+      },
+      {
+        "month": "Oct",
+        "revenue": 1200,
+        "users": 55
+      },
+      {
+        "month": "Nov",
+        "revenue": 1800,
+        "users": 80
+      },
+      {
+        "month": "Dec",
+        "revenue": 3500,
+        "users": 150
+      },
+      {
+        "month": "Jan",
+        "revenue": 4200,
+        "users": 210
+      },
+      {
+        "month": "Feb",
+        "revenue": 5500,
+        "users": 280
+      }
+    ],
+    "highlights": [
+      "Targeting 5-star tropical resort market",
+      "Sugar-free and gluten-free luxury profile",
+      "Leveraging established lifestyle brand network",
+      "Founder has 6x Inc 5000 track record"
+    ]
+  },
+  {
+    "id": "182332",
+    "slug": "forknfilm",
+    "name": "Fork N' Film",
+    "tagline": "A movie-theater plus restaurant where you eat, drink and watch film in one cool experience.",
+    "description": "Fork N' Film delivers an immersive cinema-dining experience that synchronizes gourmet multi-course meals with specific moments in films. The concept has seen explosive growth, generating over $22M in retail sales within its first two years of operation. With locations in major international hubs, the company is redefining the traditional movie theater model through high-engagement experiential hospitality.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/182332/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/182332/standard_blob.jpg",
+    "sector": "Entertainment",
+    "stage": "Seed",
+    "location": "Los Angeles, CA",
+    "founded": "2021",
+    "raising": 64070,
+    "valuation": 30000000,
+    "raised": 64070,
+    "credibility": 84,
+    "momentum": 92,
+    "followers": 67,
+    "founders": [
+      {
+        "name": "Nicholas Houston",
+        "role": "Co-Founder + CEO",
+        "bio": "Expert in experiential hospitality and AI; focuses on scaling the guest experience and strategic global partnerships.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-182332-1",
+        "date": "2025-07-29",
+        "type": "traction",
+        "title": "Global Footprint Milestone",
+        "body": "Reached 22 top international destinations with $22.9M in total retail sales to date."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 1200000,
+        "users": 15000
+      },
+      {
+        "month": "Oct",
+        "revenue": 1450000,
+        "users": 18000
+      },
+      {
+        "month": "Nov",
+        "revenue": 1700000,
+        "users": 22000
+      },
+      {
+        "month": "Dec",
+        "revenue": 2100000,
+        "users": 28000
+      },
+      {
+        "month": "Jan",
+        "revenue": 2300000,
+        "users": 31000
+      },
+      {
+        "month": "Feb",
+        "revenue": 2600000,
+        "users": 35000
+      }
+    ],
+    "highlights": [
+      "$22.9M retail sales in 24 months",
+      "Presence in 22 international destinations",
+      "Unique immersive dining concept",
+      "Scalable high-growth hospitality model"
+    ]
+  }
+]

@@ -1,0 +1,216 @@
+{
+  "id": "orbital-logix",
+  "memo": {
+    "oneLiner": "Supply-chain intelligence layer with early enterprise traction but higher execution variance.",
+    "snapshotLine": "Supplier-risk workflow layer — pilot-to-prod conversion is inflecting but NRR is still mid-pack; the equity is a convex bet on execution, not a proven compounder.",
+    "sentiment": "Watchlist — asymmetric, not yet proven",
+    "overview": "Orbital Logix helps large enterprises forecast supplier risk and optimize procurement decisions using alternative data and workflow automation. The opportunity is real, but the company is earlier in proving repeatable enterprise expansion.",
+    "thesis": "Conditional long: procurement-leader sentiment is warming from a low base and CS hiring leads sales, but the model will not upgrade conviction until enterprise NRR prints validate the pilot conversion story. This is deliberate asymmetry — you are paid for patience only if expansion metrics cooperate; otherwise bundlers eat the workflow.",
+    "whyBullets": [
+      "Pilot-to-production conversion improved sequentially — an early sign of playbook maturity.",
+      "Sector spend on resilience and visibility remains elevated post-shock.",
+      "Product surface area is narrowing to fewer, deeper modules — often a precursor to stronger retention."
+    ],
+    "supportingSignals": [
+      "Hiring in customer success outpaced sales — consistent with install-base focus.",
+      "Sentiment among procurement leaders is warming, but still below euphoria — room for upside if execution holds.",
+      "Competitive churn anecdotes suggest incumbents are slow to ship integrated forecasting + workflow."
+    ],
+    "marketOpportunity": "Enterprises will continue to pay for fewer surprises in supplier networks. The AI sizes the problem as structural: complexity rises faster than headcount in most procurement teams, which pushes automation budgets upward over time.",
+    "competitiveAdvantage": "Win condition is owning the procurement decision loop with live feedback data — not owning the biggest LLM. Loses if ERP bundles \"good enough\" forecasting with renewal leverage.",
+    "risks": [
+      "Quarter-to-quarter metric volatility until playbooks mature.",
+      "Incumbent bundles win on procurement friction, not product depth.",
+      "Macro elongates sales cycles — strategic need can stay true while ARR disappoints."
+    ],
+    "reasoningNarrative": "The AI treated Orbital as a show-me story: it overweighted pilot conversion, CS hiring, and qualitative customer references, and underweighted generic thematic momentum. Confidence is intentionally lower than Aether/Vertex-style names until expansion metrics stabilize.",
+    "investorSummary": [
+      "Starter/watchlist sizing until two clean NRR prints; convexity, not core.",
+      "Falsify on stalled conversion, mid-market churn, or incumbent bundle losses in flagship accounts."
+    ],
+    "chartCaption": "Conditional conviction — rises as operational proof points stack (indexed).",
+    "chartValues": [
+      14,
+      17,
+      21,
+      26,
+      30,
+      33,
+      37,
+      41,
+      45,
+      50,
+      54,
+      58
+    ],
+    "secondaryInsight": {
+      "title": "What would change our mind",
+      "body": "Two consecutive quarters of stable net revenue retention above category median would trigger a meaningful confidence upgrade; deepening churn in mid-market would trigger a downgrade regardless of narrative."
+    }
+  },
+  "intel": {
+    "marketSentimentScore": "+4 vs supply-chain AI",
+    "growthTrajectory": "Early inflection",
+    "riskProfile": "Elevated (execution)",
+    "momentumTags": [
+      "Pilot conversion",
+      "CS-led",
+      "Narrowing focus"
+    ],
+    "primaryGrowthSignal": "Pilot-to-production conversion improving with CS-heavy scaling — the inflection we need before upgrading conviction.",
+    "whyNow": "Enterprises still fund resilience and supplier visibility after shocks; budgets are tighter, so vendors that shorten time-to-value win discrete projects that can expand.",
+    "structuralTailwind": "Supplier networks grow in complexity faster than procurement headcount; automation and alternative-data signals become default infrastructure rather than nice-to-have analytics.",
+    "opportunityType": "Asymmetric / conditional (prove NRR next)",
+    "evidenceSectionIntro": "Evidence is staged: conviction chart shows capped enthusiasm until metrics confirm; positioning and sentiment explain where upside lives if execution lands.",
+    "chartConvictionProves": "Our model keeps conviction bounded until retention and expansion prove — appropriate for execution-variance names.",
+    "chartConvictionInterpretation": "You should expect muted conviction until two clean enterprise expansion prints; spikes without NRR are treated as noise.",
+    "chartPositioningProves": "Orbital trails incumbents on bundled reach but leads agile peers on workflow depth in this slice.",
+    "chartPositioningInterpretation": "Winning here requires owning the decision loop; the chart shows the gap to incumbents and the edge vs. thin analytics startups.",
+    "chartSentimentProves": "Procurement-leader sentiment is warming from a low base — classic setup for lagging revenue if product sticks.",
+    "chartSentimentInterpretation": "We read this as optionality: sentiment can run ahead of revenue, but we do not upgrade the call until cohort data agrees.",
+    "riskFraming": "Real upside, messy path — bundlers and lumpy enterprise cycles can break the story even when the category is fine.",
+    "aiReasoningTimeline": [
+      "Tracked pilot-to-production velocity vs. peer cohorts",
+      "Compared CS hiring mix to sales — install-base hypothesis",
+      "Monitored sentiment of procurement leaders (not Twitter)",
+      "Mapped module narrowing vs. expansion attempts",
+      "Stress-tested macro elongation of sales cycles",
+      "Published falsifiers: stalled NRR, incumbent bundle wins"
+    ],
+    "metrics": [
+      {
+        "label": "Pilot → prod.",
+        "value": "41%",
+        "delta": "+9pp",
+        "implication": "Playbook maturing — if sustained, NRR can follow with lag."
+      },
+      {
+        "label": "Net retention",
+        "value": "108%",
+        "implication": "Positive but not yet best-in-class — key metric to prove out."
+      },
+      {
+        "label": "Hiring (CS / sales)",
+        "value": "1.4×",
+        "implication": "Install-base focus — consistent with post-pilot scaling."
+      },
+      {
+        "label": "Sentiment",
+        "value": "58",
+        "implication": "Warming but not hot — room for upside if metrics confirm."
+      },
+      {
+        "label": "Market expansion",
+        "value": "1 new vert.",
+        "implication": "Disciplined focus preferred over scatter expansion."
+      },
+      {
+        "label": "Burn efficiency",
+        "value": "0.71×",
+        "implication": "Still investing; efficiency acceptable for stage if conversion holds."
+      },
+      {
+        "label": "Investor activity",
+        "value": "Niche",
+        "implication": "Less crowded — asymmetric if execution proves."
+      }
+    ],
+    "positioningPeers": [
+      {
+        "name": "Orbital",
+        "score": 64
+      },
+      {
+        "name": "Incumbent A",
+        "score": 78
+      },
+      {
+        "name": "Startup B",
+        "score": 52
+      },
+      {
+        "name": "Startup C",
+        "score": 45
+      }
+    ],
+    "sentimentSeries": [
+      {
+        "period": "W1",
+        "net": 38
+      },
+      {
+        "period": "W2",
+        "net": 40
+      },
+      {
+        "period": "W3",
+        "net": 39
+      },
+      {
+        "period": "W4",
+        "net": 45
+      },
+      {
+        "period": "W5",
+        "net": 52
+      },
+      {
+        "period": "W6",
+        "net": 54
+      },
+      {
+        "period": "W7",
+        "net": 57
+      },
+      {
+        "period": "W8",
+        "net": 58
+      }
+    ],
+    "evidence": [
+      {
+        "headline": "Pilot conversion is the swing metric",
+        "supportingSignal": "Conversion +9pp over two quarters while sales cycle length flat.",
+        "confidence": "medium",
+        "implication": "If real, revenue growth can re-accelerate without proportional S&M.",
+        "inference": "Investors should track conversion and CS ratios more than headline ARR."
+      },
+      {
+        "headline": "Category spend remains elevated",
+        "supportingSignal": "Enterprise procurement indices for supply resilience +7% YoY.",
+        "confidence": "high",
+        "implication": "Tailwind exists; company-specific execution still the bottleneck.",
+        "inference": "Macro helps, but does not replace proof of expansion and retention."
+      }
+    ],
+    "aiSignals": [
+      {
+        "text": "Pilot conversion improving sequentially",
+        "kind": "up"
+      },
+      {
+        "text": "CS investment ahead of sales",
+        "kind": "steady"
+      },
+      {
+        "text": "NRR not yet at proof level",
+        "kind": "watch"
+      },
+      {
+        "text": "Incumbent bundles still a threat",
+        "kind": "watch"
+      }
+    ],
+    "aiDetected": [
+      "Enterprise RFP text volume for “supplier risk AI” rose three months straight — budget line exists.",
+      "CS reqs spiked in two named accounts pre-renewal — possible land-and-expand, not yet in reported NRR.",
+      "Mid-market peer NRR rolled while Orbital flat — relative resilience, not proof of leadership.",
+      "Module roadmap narrowed to forecasting + workflow — focus often precedes retention inflection."
+    ],
+    "marketAnalysis": "Supply-chain visibility spend is structural post-shock. Orbital benefits if it can convert pilots before incumbents bundle lightweight modules. AI sizes opportunity using procurement stress indices and supplier count inflation in large enterprises.",
+    "competitorBreakdown": "ERP incumbents bundle broad tools; startups win on workflow focus. Orbital must own the decision layer — not just alerts.",
+    "sentimentDeepDive": "Sentiment improving from a low base — constructive, but conviction requires NRR confirmation.",
+    "fundingHistory": "Last round conservative; runway adequate for two execution cycles. Watch for dilution if conversion stalls.",
+    "riskScenarios": "Bear: conversion stalls + churn rises. Base: gradual proof. Bull: NRR inflects and vertical focus pays off."
+  }
+}

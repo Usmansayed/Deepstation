@@ -1,0 +1,372 @@
+[
+  {
+    "id": "42453",
+    "slug": "urb.sciences",
+    "name": "URB Sciences",
+    "tagline": "A \"picks and shovels\" supplier to the cannabis industry",
+    "description": "URB Sciences is a specialized supplier providing essential infrastructure and agricultural technology to the cannabis sector. The company focuses on high-performance nutrients and cultivation solutions that improve crop yields and quality. As a profitable enterprise in a rapidly expanding market, URB Sciences positions itself as a critical B2B partner for industrial growers.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/42453/xxl_cropped_New_Logo.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/42453/standard_cropped_2ig0KdVeRT0OVJ6c.jpg",
+    "sector": "AgTech",
+    "stage": "Seed",
+    "location": "Holmdel, NJ, USA",
+    "founded": "2015",
+    "raising": 250000,
+    "valuation": 29400000,
+    "raised": 56399,
+    "credibility": 82,
+    "momentum": 78,
+    "followers": 106,
+    "founders": [
+      {
+        "name": "Lou Elwell",
+        "role": "President",
+        "bio": "Lou has been a co-founder, Director, and officer of three public companies. With over three decades of entrepreneurial experience, he is scaling URB as a leader in industrial agricultural supply.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-42453-1",
+        "date": "2024-05-15",
+        "type": "traction",
+        "title": "Profitable Growth Milestone",
+        "body": "The company successfully grew sales by 530% last year and maintains a profitable bottom line while expanding B2B partnerships."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jan",
+        "revenue": 12000,
+        "users": 45
+      },
+      {
+        "month": "Feb",
+        "revenue": 18000,
+        "users": 52
+      },
+      {
+        "month": "Mar",
+        "revenue": 24000,
+        "users": 68
+      },
+      {
+        "month": "Apr",
+        "revenue": 35000,
+        "users": 85
+      },
+      {
+        "month": "May",
+        "revenue": 48000,
+        "users": 110
+      },
+      {
+        "month": "Jun",
+        "revenue": 62000,
+        "users": 145
+      }
+    ],
+    "highlights": [
+      "530% sales growth in the previous fiscal year",
+      "Company is currently profitable",
+      "Founder has experience leading three public companies",
+      "Strategic 'picks and shovels' position in the cannabis market"
+    ]
+  },
+  {
+    "id": "179427",
+    "slug": "gigmarket",
+    "name": "Gig Market",
+    "tagline": "Reshaping how neighborhoods get work done with local labor",
+    "description": "Gig Market (Hustlr, Inc.) is a localized labor marketplace designed to connect community members with reliable help for short-term tasks. The platform reduces the friction of hiring local help through a mobile-first interface and verified peer reviews. By focusing on organic growth and neighborhood density, the company aims to solve the inefficiency of the modern gig economy.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/179427/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/179427/company_card_retina_HUSTLR__INC._1755523941046.jpg",
+    "sector": "Marketplace",
+    "stage": "Seed",
+    "location": "Fairfax, VA, USA",
+    "founded": "2016",
+    "raising": 100000,
+    "valuation": 10300000,
+    "raised": 55361,
+    "credibility": 75,
+    "momentum": 88,
+    "followers": 420,
+    "founders": [
+      {
+        "name": "Doug Nguyen",
+        "role": "Founder & CEO",
+        "bio": "Marketplace veteran with 18+ years of experience and two successful e-commerce exits. Expert in building scalable digital platforms with low customer acquisition costs.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-179427-1",
+        "date": "2025-08-27",
+        "type": "traction",
+        "title": "25,000 User Milestone",
+        "body": "Achieved over 25,000 organic users with nearly zero marketing spend, proving strong product-market fit."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 1050,
+        "users": 18000
+      },
+      {
+        "month": "Oct",
+        "revenue": 1200,
+        "users": 19500
+      },
+      {
+        "month": "Nov",
+        "revenue": 1500,
+        "users": 21000
+      },
+      {
+        "month": "Dec",
+        "revenue": 1800,
+        "users": 22500
+      },
+      {
+        "month": "Jan",
+        "revenue": 2100,
+        "users": 24000
+      },
+      {
+        "month": "Feb",
+        "revenue": 2600,
+        "users": 25000
+      }
+    ],
+    "highlights": [
+      "25,000+ users acquired almost entirely through organic growth",
+      "Zero-to-low CAC model driven by neighborhood word-of-mouth",
+      "Founder has two prior successful e-commerce exits",
+      "Addressable market includes local services and peer-to-peer labor"
+    ]
+  },
+  {
+    "id": "129991",
+    "slug": "laundryhero",
+    "name": "Laundry Hero Inc",
+    "tagline": "The \"Uber\" of laundry service for B2C and B2B clients",
+    "description": "Laundry Hero is an app-based logistics platform that provides on-demand laundry and dry-cleaning services. Serving both residential and commercial clients, the platform optimizes pickup and delivery routes to provide a convenient, affordable solution to a universal chore. The company is currently scaling its commercial division with significant purchase orders.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/129991/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/129991/standard_blob.jpg",
+    "sector": "Logistics",
+    "stage": "Seed",
+    "location": "Hilton, NY, USA",
+    "founded": "2021",
+    "raising": 250000,
+    "valuation": 5000000,
+    "raised": 55342,
+    "credibility": 72,
+    "momentum": 85,
+    "followers": 2,
+    "founders": [
+      {
+        "name": "Steven Liotta",
+        "role": "Founder and CEO",
+        "bio": "PharmD and MBA graduate with a focus on operational efficiency. Built Laundry Hero to disrupt the traditional laundromat model through mobile logistics.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-129991-1",
+        "date": "2024-05-15",
+        "type": "traction",
+        "title": "Explosive Quarterly Growth",
+        "body": "The company reported 276% growth over the most recent quarter, driven by $100k in new commercial purchase orders."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jul",
+        "revenue": 5000,
+        "users": 120
+      },
+      {
+        "month": "Aug",
+        "revenue": 8500,
+        "users": 180
+      },
+      {
+        "month": "Sep",
+        "revenue": 12000,
+        "users": 250
+      },
+      {
+        "month": "Oct",
+        "revenue": 22000,
+        "users": 310
+      },
+      {
+        "month": "Nov",
+        "revenue": 34000,
+        "users": 380
+      },
+      {
+        "month": "Dec",
+        "revenue": 45000,
+        "users": 460
+      }
+    ],
+    "highlights": [
+      "$100k+ in commercial purchase orders secured in 90 days",
+      "276% revenue growth quarter-over-quarter",
+      "Scalable model serving both B2C and B2B segments",
+      "Proprietary app platform for route and order management"
+    ]
+  },
+  {
+    "id": "123493",
+    "slug": "healthmonde",
+    "name": "Healthmonde",
+    "tagline": "AI-powered global health platform for affordable treatment",
+    "description": "Healthmonde is an AI-driven healthcare platform designed to democratize access to medical treatments globally. By leveraging artificial intelligence to optimize healthcare supply chains and patient matching, Healthmonde reduces costs significantly for patients. The platform bridges the gap between high-quality medical providers and underserved populations through telehealth and data-driven coordination.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/123493/xxl_Healthmonde_logo_1673634751509.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/123493/standard_blob.jpg",
+    "sector": "HealthTech",
+    "stage": "Seed",
+    "location": "Dover, DE, USA",
+    "founded": "2020",
+    "raising": 500000,
+    "valuation": 15000000,
+    "raised": 54300,
+    "credibility": 80,
+    "momentum": 74,
+    "followers": 124,
+    "founders": [
+      {
+        "name": "Onur Durmusoglu",
+        "role": "CEO",
+        "bio": "Serial entrepreneur with three companies founded and two successful exits in the digital communication space. Former strategist for major organizations like Turk Telekom.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-123493-1",
+        "date": "2022-11-11",
+        "type": "milestone",
+        "title": "Platform Promotion",
+        "body": "Officially promoted the global platform to B2B healthcare partners, targeting the $10.3B medical tourism and telehealth market."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 500
+      },
+      {
+        "month": "Feb",
+        "revenue": 500,
+        "users": 1200
+      },
+      {
+        "month": "Mar",
+        "revenue": 1500,
+        "users": 2800
+      },
+      {
+        "month": "Apr",
+        "revenue": 3000,
+        "users": 4500
+      },
+      {
+        "month": "May",
+        "revenue": 4500,
+        "users": 6200
+      },
+      {
+        "month": "Jun",
+        "revenue": 7200,
+        "users": 8500
+      }
+    ],
+    "highlights": [
+      "Operating in a market growing at a 32.5% CAGR",
+      "Proprietary AI matching for medical treatment affordability",
+      "Founder has two prior successful exits",
+      "Dual focus on B2B and B2C health coordination"
+    ]
+  },
+  {
+    "id": "153110",
+    "slug": "biggunscoffeeandfarmllc",
+    "name": "Big Guns Coffee and Farm",
+    "tagline": "Indoor hydroponic coffee farms for retail giants",
+    "description": "Big Guns Coffee and Farm is an innovative agriculture venture that utilizes indoor hydroponics to grow high-quality coffee beans. Founded by a veteran and his young daughter, the company aims to disrupt the coffee supply chain by growing fresh beans in the USA. They are currently preparing for a major retail launch across multiple national grocery chains.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/153110/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/153110/standard_blob.jpg",
+    "sector": "AgTech",
+    "stage": "Pre-seed",
+    "location": "Tryon, NC, USA",
+    "founded": "2021",
+    "raising": 100000,
+    "valuation": 4000000,
+    "raised": 54066,
+    "credibility": 70,
+    "momentum": 82,
+    "followers": 95,
+    "founders": [
+      {
+        "name": "Timothy Johnson",
+        "role": "Founder",
+        "bio": "Marine Corps Veteran, bestselling author, and motivational speaker. Timothy is applying military-grade logistics and resilience to revolutionize the coffee industry.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-153110-1",
+        "date": "2024-12-11",
+        "type": "fundraise",
+        "title": "Preparing for National Retail",
+        "body": "Secured preliminary interest for a 2025 launch in Walmart, Sprouts, and military commissaries (AAFES)."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Aug",
+        "revenue": 2000,
+        "users": 150
+      },
+      {
+        "month": "Sep",
+        "revenue": 2500,
+        "users": 180
+      },
+      {
+        "month": "Oct",
+        "revenue": 3100,
+        "users": 220
+      },
+      {
+        "month": "Nov",
+        "revenue": 3800,
+        "users": 290
+      },
+      {
+        "month": "Dec",
+        "revenue": 4500,
+        "users": 350
+      },
+      {
+        "month": "Jan",
+        "revenue": 5200,
+        "users": 410
+      }
+    ],
+    "highlights": [
+      "Planned 2025 launch in Walmart and Sprouts",
+      "Veteran-owned and operated business",
+      "Innovative indoor hydroponic coffee cultivation model",
+      "Direct-to-consumer and major retail distribution strategy"
+    ]
+  }
+]

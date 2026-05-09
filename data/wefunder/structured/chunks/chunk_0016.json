@@ -1,0 +1,372 @@
+[
+  {
+    "id": "174458",
+    "slug": "150-panoramic",
+    "name": "Collab - 150 Panoramic",
+    "tagline": "Bringing institutional-quality student housing opportunities to everyday investors.",
+    "description": "Collab is a real estate investment platform specializing in institutional-quality student housing. Their featured property, 150 Panoramic Way, is a premium residential building located steps from the UC Berkeley campus. By leveraging a co-ownership model, the company allows everyday investors to access high-yield real estate assets traditionally reserved for institutional funds. The property is strategically positioned in a high-demand student market with consistent occupancy rates.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/174458/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/174458/standard_blob.jpg",
+    "sector": "Real Estate",
+    "stage": "Seed",
+    "location": "Berkeley, CA, USA",
+    "founded": "2020",
+    "raising": 500000,
+    "valuation": 0,
+    "raised": 3232222,
+    "credibility": 82,
+    "momentum": 65,
+    "followers": 13,
+    "founders": [
+      {
+        "name": "Qian Wang",
+        "role": "Founder/Chairman",
+        "bio": "An alumnus of MIT and Harvard, spent 22 years building and operating $3.1 billion in real‑estate projects across China and the United States with top‑tier partners.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-174458-1",
+        "date": "2025-02-14",
+        "type": "fundraise",
+        "title": "Campaign Launch",
+        "body": "Collab launched its latest property-specific fundraise for 150 Panoramic Way, targeting institutional-grade student housing."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 45000,
+        "users": 110
+      },
+      {
+        "month": "Oct",
+        "revenue": 48000,
+        "users": 125
+      },
+      {
+        "month": "Nov",
+        "revenue": 52000,
+        "users": 138
+      },
+      {
+        "month": "Dec",
+        "revenue": 51000,
+        "users": 142
+      },
+      {
+        "month": "Jan",
+        "revenue": 55000,
+        "users": 154
+      },
+      {
+        "month": "Feb",
+        "revenue": 58000,
+        "users": 166
+      }
+    ],
+    "highlights": [
+      "Property located steps from UC Berkeley",
+      "Democratizing institutional real estate",
+      "Managed by MIT/Harvard alum with $3B+ experience",
+      "Debt security offering with 2.0x-2.2x payback multiple"
+    ]
+  },
+  {
+    "id": "165244",
+    "slug": "wild-rye",
+    "name": "Wild Rye",
+    "tagline": "Beautifully designed technical apparel to empower women in the outdoors and beyond.",
+    "description": "Wild Rye is a premium outdoor apparel brand dedicated to creating high-performance technical gear specifically for women. Founded by industry veteran Cassie Abel, the company addresses the historical gap in the market for women's-first design in mountain biking and skiing. The brand is a certified B-Corp and has achieved significant retail penetration, securing placements in major outlets including REI, Title Nine, and Evo. They focus on sustainability, contemporary aesthetics, and inclusive sizing for active women.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/165244/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/165244/company_card_retina_open-uri20250611-1-opojw2.jpg",
+    "sector": "Fashion",
+    "stage": "Series A",
+    "location": "Ketchum, ID, USA",
+    "founded": "2016",
+    "raising": 1217922,
+    "valuation": 13000000,
+    "raised": 6235922,
+    "credibility": 91,
+    "momentum": 88,
+    "followers": 4,
+    "founders": [
+      {
+        "name": "Cassie Abel",
+        "role": "Founder & CEO",
+        "bio": "Cassie has worked in the outdoor industry for nearly 20 years. She is a 3x All-American lacrosse player turned adventure athlete and recognized outdoor industry leader.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-165244-1",
+        "date": "2025-06-11",
+        "type": "traction",
+        "title": "300 Doors Milestone",
+        "body": "Wild Rye is now sold in every REI door and over 75 specialty retailers, totaling 300 locations nationwide."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 320000,
+        "users": 18500
+      },
+      {
+        "month": "Oct",
+        "revenue": 345000,
+        "users": 19200
+      },
+      {
+        "month": "Nov",
+        "revenue": 410000,
+        "users": 21000
+      },
+      {
+        "month": "Dec",
+        "revenue": 450000,
+        "users": 22500
+      },
+      {
+        "month": "Jan",
+        "revenue": 375000,
+        "users": 23100
+      },
+      {
+        "month": "Feb",
+        "revenue": 390000,
+        "users": 24000
+      }
+    ],
+    "highlights": [
+      "Sold in every REI, Evo, and Title Nine location",
+      "Certified B-Corp status",
+      "Founder has 20 years of outdoor industry experience",
+      "$4.5M annual revenue scale"
+    ]
+  },
+  {
+    "id": "122734",
+    "slug": "evolving-palate-inc-2",
+    "name": "Evolving Palate Inc.",
+    "tagline": "“Best Casual Contemporary Indian Restaurant,” growing at 30% YOY.",
+    "description": "Evolving Palate Inc. operates Desi, an award-winning contemporary Indian restaurant concept. Desi offers a modern take on traditional Indian street food and classics, positioned in the fast-growing casual dining segment. Since its opening in 2019, the brand has doubled its annual revenue and received critical acclaim for its unique flavor profiles and high-quality ingredients. The company is currently focused on scaling its successful restaurant model to new locations to meet high consumer demand.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/122734/xxl_cropped_Screen_Shot_2022-09-07_at_3.03.34_PM.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/122734/standard_cropped_0_-_Video_cover.jpg",
+    "sector": "Food & Beverage",
+    "stage": "Seed",
+    "location": "Campbell, CA, USA",
+    "founded": "2019",
+    "raising": 55850,
+    "valuation": 15000000,
+    "raised": 55850,
+    "credibility": 74,
+    "momentum": 60,
+    "followers": 10,
+    "founders": [
+      {
+        "name": "Mohit Nagrath",
+        "role": "Founder and CEO",
+        "bio": "Recipient of 'Best Casual Contemporary Indian Restaurant' in Santa Clara County. Expert in hospitality and restaurant management.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-122734-1",
+        "date": "2023-11-29",
+        "type": "milestone",
+        "title": "Revenue Growth",
+        "body": "Doubled annual revenue since 2019, now exceeding $1 million in trailing twelve-month sales."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 72000,
+        "users": 2100
+      },
+      {
+        "month": "Oct",
+        "revenue": 75000,
+        "users": 2250
+      },
+      {
+        "month": "Nov",
+        "revenue": 88000,
+        "users": 2600
+      },
+      {
+        "month": "Dec",
+        "revenue": 95000,
+        "users": 2800
+      },
+      {
+        "month": "Jan",
+        "revenue": 82000,
+        "users": 2400
+      },
+      {
+        "month": "Feb",
+        "revenue": 85000,
+        "users": 2550
+      }
+    ],
+    "highlights": [
+      "Named Best Casual Contemporary Indian Restaurant in Santa Clara County",
+      "30% Year-over-Year revenue growth",
+      "Over $1M in annual revenue",
+      "Proven unit economics in the competitive CA market"
+    ]
+  },
+  {
+    "id": "121685",
+    "slug": "bam",
+    "name": "Battle Approved Motors",
+    "tagline": "An elite, electric, off-road vehicle",
+    "description": "Battle Approved Motors (BAM) is developing high-performance, electric off-road vehicles designed for extreme sports and utility. Their flagship R101 prototype is currently in production, targeting a niche market of off-road enthusiasts and professional racers. The company has already secured significant interest with over $16 million in pre-orders. BAM aims to combine extreme durability with zero-emission electric powertrains, positioning itself as a leader in the next generation of rugged transportation.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/121685/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/121685/company_card_retina_cropped__STEALTH_.jpg",
+    "sector": "Transportation",
+    "stage": "Seed",
+    "location": "Phoenix, AZ, USA",
+    "founded": "2018",
+    "raising": 158768,
+    "valuation": 56900000,
+    "raised": 1429773,
+    "credibility": 79,
+    "momentum": 72,
+    "followers": 25,
+    "founders": [
+      {
+        "name": "Chris James",
+        "role": "Founder / CEO",
+        "bio": "Creator and producer of 'Mod Kids USA' on Prime Video. Former professional BMX racer with deep roots in motorsports and extreme sports production.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-121685-1",
+        "date": "2024-05-30",
+        "type": "product",
+        "title": "R101 Prototype Update",
+        "body": "The R101 prototype has entered production phase to fulfill a growing backlog of pre-orders."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 0,
+        "users": 450
+      },
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 520
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 680
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 810
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 950
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 1100
+      }
+    ],
+    "highlights": [
+      "Over $16M in P1 pre-orders",
+      "R101 prototype in active production",
+      "Led by a veteran extreme sports producer and racer",
+      "Targeting the high-growth electric off-road vehicle sector"
+    ]
+  },
+  {
+    "id": "159432",
+    "slug": "plusfan",
+    "name": "Plus.Fan",
+    "tagline": "Working to redefine the future of fan engagement",
+    "description": "Plus.Fan is a sports technology company providing a SaaS platform for teams to enhance fan engagement through artificial intelligence and interactive digital experiences. Since its launch, the platform has quickly expanded, signing 20 professional teams across eight countries and four different sports. Plus.Fan focuses on helping clubs monetize their global fanbases and improve retention through personalized content and data-driven insights. The company is scaling rapidly, averaging more than one new club signing per month.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/159432/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/159432/company_card_retina_Plus.Fan_1753726450767.jpg",
+    "sector": "SportsTech",
+    "stage": "Pre-seed",
+    "location": "Worcester, MA, USA",
+    "founded": "2023",
+    "raising": 163326,
+    "valuation": 8000000,
+    "raised": 331526,
+    "credibility": 70,
+    "momentum": 78,
+    "followers": 2,
+    "founders": [
+      {
+        "name": "Steve Paris",
+        "role": "Chief Executive Officer",
+        "bio": "Repeat founder with a focus on sports technology and fan interaction systems.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-159432-1",
+        "date": "2025-07-28",
+        "type": "traction",
+        "title": "International Expansion",
+        "body": "Plus.Fan has now signed 20 teams across 8 countries, maintaining a growth rate of over one club per month."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 450,
+        "users": 8
+      },
+      {
+        "month": "Oct",
+        "revenue": 520,
+        "users": 10
+      },
+      {
+        "month": "Nov",
+        "revenue": 600,
+        "users": 12
+      },
+      {
+        "month": "Dec",
+        "revenue": 750,
+        "users": 15
+      },
+      {
+        "month": "Jan",
+        "revenue": 1050,
+        "users": 18
+      },
+      {
+        "month": "Feb",
+        "revenue": 1200,
+        "users": 20
+      }
+    ],
+    "highlights": [
+      "20 teams signed across 8 countries and 4 sports",
+      "Averaging 1+ new club signing per month",
+      "AI-driven fan engagement SaaS model",
+      "Repeat founder at the helm"
+    ]
+  }
+]

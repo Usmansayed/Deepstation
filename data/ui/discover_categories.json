@@ -1,0 +1,27 @@
+{
+  "categories": [
+    { "label": "AI & Machine Learning", "iconKey": "Cpu" },
+    { "label": "Fintech", "iconKey": "Landmark" },
+    { "label": "Climate & Energy", "iconKey": "Leaf" },
+    { "label": "Mobility & Auto", "iconKey": "Car" },
+    { "label": "Health & Bio", "iconKey": "HeartPulse" },
+    { "label": "Consumer Apps", "iconKey": "ShoppingBag" },
+    { "label": "Cybersecurity", "iconKey": "Shield" },
+    { "label": "Developer Tools", "iconKey": "Wrench" },
+    { "label": "Robotics", "iconKey": "Wrench" },
+    { "label": "SpaceTech", "iconKey": "Rocket" },
+    { "label": "Logistics", "iconKey": "Truck" },
+    { "label": "FoodTech", "iconKey": "UtensilsCrossed" },
+    { "label": "Retail & Commerce", "iconKey": "Store" },
+    { "label": "Travel", "iconKey": "Plane" },
+    { "label": "Gaming", "iconKey": "Gamepad2" },
+    { "label": "Web3 & Crypto", "iconKey": "Globe" },
+    { "label": "Biotech", "iconKey": "FlaskConical" },
+    { "label": "Manufacturing", "iconKey": "Package" }
+  ],
+  "stages": ["All", "Pre-seed", "Seed", "Series A", "Series B"],
+  "businessModels": ["All", "B2B", "B2C", "Marketplace", "SaaS", "Enterprise"],
+  "sizes": ["All", "Micro", "Early Growth", "Scale-up"],
+  "regions": ["All", "North America", "Europe", "Middle East", "Asia-Pacific", "LATAM"],
+  "sortOptions": ["Trending", "Most Raised", "Most Followed", "Newest"]
+}

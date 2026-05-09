@@ -1,0 +1,8 @@
+{
+  "fetchedAt": "2026-05-09T01:25:58.150112+00:00",
+  "actor": "jupri/wefunder",
+  "runId": "OXw4nyUsFf8tnpO4t",
+  "itemCount": 95,
+  "limitRequested": 300,
+  "note": "Raising limit above ~95 does not add rows: this actor's index caps around 95 distinct campaigns. Merging many search/category runs dedupes to the same ids."
+}

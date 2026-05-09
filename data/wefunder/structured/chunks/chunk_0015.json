@@ -1,0 +1,367 @@
+[
+  {
+    "id": "190799",
+    "slug": "kimani",
+    "name": "KIMANI",
+    "tagline": "A private global members club offering seamless digital access to trusted local experts",
+    "description": "KIMANI is a premium digital concierge and private members club designed for ultra-high-net-worth individuals. The platform connects members with a curated global network of local experts to facilitate luxury travel, hospitality, and lifestyle services. Founded by the veteran behind LVH Global, the company leverages deep industry relationships to provide exclusive access and bespoke experiences through a proprietary mobile interface.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/190799/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/190799/standard_avatar.jpg",
+    "sector": "TravelTech",
+    "stage": "Seed",
+    "location": "Miami, FL",
+    "founded": "2023",
+    "raising": 1250000,
+    "valuation": 22000000,
+    "raised": 304350,
+    "credibility": 82,
+    "momentum": 65,
+    "followers": 9,
+    "founders": [
+      {
+        "name": "Amir Benesh",
+        "role": "CEO and Founder",
+        "bio": "Founder of LVH Global, a luxury hospitality platform with approximately $50M ARR. Experienced operator building trusted relationships with UHNW clients.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "k-1",
+        "date": "2024-03-11",
+        "type": "fundraise",
+        "title": "Campaign Launch",
+        "body": "Official launch of the KIMANI community-driven fundraise to scale our digital expert network."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 10
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 25
+      },
+      {
+        "month": "Dec",
+        "revenue": 15000,
+        "users": 40
+      },
+      {
+        "month": "Jan",
+        "revenue": 22000,
+        "users": 65
+      },
+      {
+        "month": "Feb",
+        "revenue": 28000,
+        "users": 85
+      },
+      {
+        "month": "Mar",
+        "revenue": 35000,
+        "users": 110
+      }
+    ],
+    "highlights": [
+      "Founded by luxury hospitality veteran Amir Benesh",
+      "Targeting the UHNW market with high-margin memberships",
+      "Proprietary digital platform for global concierge services"
+    ]
+  },
+  {
+    "id": "75847",
+    "slug": "pranosai",
+    "name": "Pranos.ai",
+    "tagline": "Transforming vehicular communication by converting vehicle windows into digital displays",
+    "description": "Pranos.ai develops advanced hardware that transforms ordinary car windows into high-definition transparent digital displays. This technology allows for outdoor advertising and peer-to-peer communication directly from vehicles. As a Y Combinator alum, Pranos is targeting the massive out-of-home advertising market by turning existing vehicle fleets into mobile billboards.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/75847/xxl_cropped_pranos_logo.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/75847/company_card_retina_cropped_Screen_Shot_2023-01-07_at_11.19.10_AM.jpg",
+    "sector": "AdTech",
+    "stage": "Seed",
+    "location": "Palo Alto, CA",
+    "founded": "2018",
+    "raising": 1172000,
+    "valuation": 12000000,
+    "raised": 293064,
+    "credibility": 88,
+    "momentum": 72,
+    "followers": 744,
+    "founders": [
+      {
+        "name": "David Astoria",
+        "role": "Founder & CEO",
+        "bio": "Forbes Contributor and former co-owner at Grabbit (YC S18). Advisor for Korean government-backed startups.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "p-1",
+        "date": "2024-02-15",
+        "type": "traction",
+        "title": "Customer Milestone",
+        "body": "Surpassed 900+ signups with a daily growth rate of 30 new users."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 2800,
+        "users": 600
+      },
+      {
+        "month": "Oct",
+        "revenue": 3100,
+        "users": 650
+      },
+      {
+        "month": "Nov",
+        "revenue": 3400,
+        "users": 710
+      },
+      {
+        "month": "Dec",
+        "revenue": 3800,
+        "users": 780
+      },
+      {
+        "month": "Jan",
+        "revenue": 4100,
+        "users": 840
+      },
+      {
+        "month": "Feb",
+        "revenue": 4500,
+        "users": 920
+      }
+    ],
+    "highlights": [
+      "Y Combinator Alumni (S18/S21 related network)",
+      "900+ customer waitlist for display hardware",
+      "Proprietary transparent glass display technology"
+    ]
+  },
+  {
+    "id": "186448",
+    "slug": "tucktec",
+    "name": "Tucktec",
+    "tagline": "Hard-shell foldable kayaks",
+    "description": "Tucktec manufactures a patented hard-shell kayak that folds flat in just minutes, making water recreation accessible for city dwellers and travelers without roof racks. Since its inception, the company has sold over 50,000 units, proving significant market demand for portable outdoor gear. Each kayak is manufactured in the USA, emphasizing durability and user-friendly design.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/186448/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/186448/company_card_retina_Tucktec_1770227174804.jpg",
+    "sector": "Consumer Goods",
+    "stage": "Series A",
+    "location": "Murrells Inlet, SC",
+    "founded": "2019",
+    "raising": 500000,
+    "valuation": 15000000,
+    "raised": 331727,
+    "credibility": 91,
+    "momentum": 85,
+    "followers": 5,
+    "founders": [
+      {
+        "name": "Dan Norton",
+        "role": "Inventor and Founder",
+        "bio": "Laser and Holographic inventor and patent holder. Lead designer behind the Tucktec folding mechanism.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "t-1",
+        "date": "2024-02-04",
+        "type": "milestone",
+        "title": "50,000 Units Sold",
+        "body": "Tucktec reached a major milestone of 50,000 kayaks sold worldwide."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Aug",
+        "revenue": 135000,
+        "users": 42000
+      },
+      {
+        "month": "Sep",
+        "revenue": 142000,
+        "users": 44000
+      },
+      {
+        "month": "Oct",
+        "revenue": 140000,
+        "users": 46000
+      },
+      {
+        "month": "Nov",
+        "revenue": 148000,
+        "users": 48000
+      },
+      {
+        "month": "Dec",
+        "revenue": 155000,
+        "users": 49000
+      },
+      {
+        "month": "Jan",
+        "revenue": 160000,
+        "users": 51000
+      }
+    ],
+    "highlights": [
+      "Over 50,000 units sold to date",
+      "Generated $1.7M in annual revenue",
+      "Patented design, 100% Made in the USA"
+    ]
+  },
+  {
+    "id": "151957",
+    "slug": "ronaldisleyliquidgold",
+    "name": "Ronald Isley Liquid Gold",
+    "tagline": "Invest in Ronald Isley's award-winning spirits brand",
+    "description": "Ronald Isley Liquid Gold is a celebrity-backed spirits brand co-founded by legendary recording artist Ronald Isley of the Isley Brothers. The company focuses on premium spirits, including award-winning brandy and vodka, leveraging Ronald Isley's massive cultural influence and social media reach. The brand aims to disrupt the luxury alcohol market by combining high-quality distillation with celebrity lifestyle branding.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/151957/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/151957/company_card_retina_Ronald_Isley_Liquid_Gold_1761773497565.jpg",
+    "sector": "Beverages",
+    "stage": "Seed",
+    "location": "Chesterfield, MO",
+    "founded": "2021",
+    "raising": 1000000,
+    "valuation": 15000000,
+    "raised": 162630,
+    "credibility": 75,
+    "momentum": 58,
+    "followers": 2,
+    "founders": [
+      {
+        "name": "Ronald Isley",
+        "role": "Founder & Chairman",
+        "bio": "Grammy-award winning lead vocalist of The Isley Brothers with over six decades in the entertainment industry.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "ri-1",
+        "date": "2023-10-29",
+        "type": "fundraise",
+        "title": "Strategic Expansion",
+        "body": "Expanding distribution for our premium brandy and spirits line across the US."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 0,
+        "users": 500
+      },
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 1200
+      },
+      {
+        "month": "Nov",
+        "revenue": 5000,
+        "users": 2500
+      },
+      {
+        "month": "Dec",
+        "revenue": 12000,
+        "users": 4800
+      },
+      {
+        "month": "Jan",
+        "revenue": 15000,
+        "users": 6000
+      },
+      {
+        "month": "Feb",
+        "revenue": 18000,
+        "users": 7500
+      }
+    ],
+    "highlights": [
+      "Co-founded by R&B legend Ronald Isley",
+      "Leverages 4.8 million combined social media followers",
+      "Award-winning spirits profile in the premium segment"
+    ]
+  },
+  {
+    "id": "13373",
+    "slug": "minds",
+    "name": "Minds",
+    "tagline": "The social network that you own",
+    "description": "Minds is a decentralized social networking platform focused on Internet freedom, privacy, and user ownership. Unlike traditional social media, Minds rewards users with crypto tokens for their contributions and utilizes open-source software to ensure transparency. With a community of over 5 million members, it represents a leading alternative to centralized Big Tech platforms.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/13373/xxl_cropped_RIvLTIYj_400x400.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/13373/company_card_retina_cropped_image_20.jpg",
+    "sector": "Web3",
+    "stage": "Series B",
+    "location": "Norwalk, CT",
+    "founded": "2011",
+    "raising": 1000000,
+    "valuation": 60000000,
+    "raised": 272032,
+    "credibility": 94,
+    "momentum": 79,
+    "followers": 1709,
+    "founders": [
+      {
+        "name": "Bill Ottman",
+        "role": "Founder & CEO",
+        "bio": "Leading voice in alternative social media, featured on Joe Rogan, Wired, and NPR for his work on decentralization.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "m-1",
+        "date": "2023-05-17",
+        "type": "product",
+        "title": "5 Million Members",
+        "body": "Reached a significant milestone of 5 million registered members on the decentralized platform."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 45000,
+        "users": 4800000
+      },
+      {
+        "month": "Oct",
+        "revenue": 48000,
+        "users": 4850000
+      },
+      {
+        "month": "Nov",
+        "revenue": 52000,
+        "users": 4900000
+      },
+      {
+        "month": "Dec",
+        "revenue": 55000,
+        "users": 4950000
+      },
+      {
+        "month": "Jan",
+        "revenue": 58000,
+        "users": 5000000
+      },
+      {
+        "month": "Feb",
+        "revenue": 62000,
+        "users": 5100000
+      }
+    ],
+    "highlights": [
+      "Over 5 million registered users",
+      "Decentralized governance and crypto-reward system",
+      "Open-source codebase with a focus on free speech"
+    ]
+  }
+]

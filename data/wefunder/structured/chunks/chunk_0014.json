@@ -1,0 +1,372 @@
+[
+  {
+    "id": "170272",
+    "slug": "healrapidly",
+    "name": "Heal Rapidly",
+    "tagline": "A new liquid band-aid promoting a healthier, infection-free healing process",
+    "description": "Heal Rapidly is developing a revolutionary liquid bandage technology designed to accelerate recovery and prevent infections. The product is market-ready with completed safety and stability studies, positioning it for FDA approval. Founded by a veteran research scientist with 27 pharmaceutical patents, the company aims to disrupt the traditional wound care market with a more effective, easy-to-apply solution.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/170272/xxl_blob.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/170272/standard_blob.jpg",
+    "sector": "MedTech",
+    "stage": "Seed",
+    "location": "Newport, OR, USA",
+    "founded": "2021",
+    "raising": 250000,
+    "valuation": 3500000,
+    "raised": 156710,
+    "credibility": 72,
+    "momentum": 65,
+    "followers": 142,
+    "founders": [
+      {
+        "name": "Thomas Konowalchuk",
+        "role": "Manager & Founder",
+        "bio": "Research scientist, MD, and Attorney with 20+ years of medical research experience. Holds 27 pharmaceutical patents and has founded multiple biotech ventures.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-170272-1",
+        "date": "2025-02-21",
+        "type": "milestone",
+        "title": "Campaign Launch",
+        "body": "Heal Rapidly officially launched its Wefunder campaign to fund FDA approval and initial production runs."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 0,
+        "users": 100
+      },
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 150
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 210
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 340
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 480
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 620
+      }
+    ],
+    "highlights": [
+      "27 Pharmaceutical patents held by founder",
+      "Safety and stability studies complete",
+      "Veteran-led biotechnology company",
+      "Product ready for FDA approval phase"
+    ]
+  },
+  {
+    "id": "166276",
+    "slug": "sonical",
+    "name": "Sonical",
+    "tagline": "Everyone hears better: using AI to turn headphones into smart devices",
+    "description": "Sonical is building CosmOS, an operating system for the ear that transforms standard headphones into powerful smart devices. By utilizing AI and low-latency processing, Sonical enables personalized hearing health, wellness monitoring, and advanced audio experiences. The company is backed by strategic investors and over 100 technology developers currently building on their platform.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/166276/xxl_blob.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/166276/company_card_retina_Sonical_1752706366108.jpg",
+    "sector": "AudioTech",
+    "stage": "Seed",
+    "location": "San Mateo, CA, USA",
+    "founded": "2018",
+    "raising": 2000000,
+    "valuation": 27000000,
+    "raised": 1507455,
+    "credibility": 88,
+    "momentum": 82,
+    "followers": 7,
+    "founders": [
+      {
+        "name": "Dr. Gary Spittle",
+        "role": "CEO",
+        "bio": "PhD in binaural hearing with 30+ years of experience in audio product development. Expert in silicon, software, and system architecture.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-166276-1",
+        "date": "2025-07-17",
+        "type": "traction",
+        "title": "Developer Ecosystem Growth",
+        "body": "Now over 100 developers are actively utilizing CosmOS to create next-generation hearing applications."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Aug",
+        "revenue": 5000,
+        "users": 120
+      },
+      {
+        "month": "Sep",
+        "revenue": 8000,
+        "users": 180
+      },
+      {
+        "month": "Oct",
+        "revenue": 12000,
+        "users": 250
+      },
+      {
+        "month": "Nov",
+        "revenue": 15000,
+        "users": 310
+      },
+      {
+        "month": "Dec",
+        "revenue": 22000,
+        "users": 400
+      },
+      {
+        "month": "Jan",
+        "revenue": 30000,
+        "users": 520
+      }
+    ],
+    "highlights": [
+      "100+ technology developers on platform",
+      "Proprietary CosmOS operating system",
+      "Targeting the multi-billion dollar hearables market",
+      "Led by PhD audio expert with 30 years experience"
+    ]
+  },
+  {
+    "id": "181630",
+    "slug": "careverse",
+    "name": "CAREVERSE AI",
+    "tagline": "Search, compare, and get care anywhere",
+    "description": "CAREVERSE AI, powered by Care Access PBC, is a global healthcare navigation platform that uses artificial intelligence to simplify the patient journey. The platform allows users to find, compare, and schedule healthcare services globally without the need for traditional insurance. By consolidating care options into one interface, CAREVERSE aims to lower costs and increase accessibility in a $25 trillion market.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/181630/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/181630/company_card_retina_CAREVERSE__AI___POWERED_BY_CARE_ACCESS_PBC__1773869096624.jpg",
+    "sector": "HealthTech",
+    "stage": "Seed",
+    "location": "Washington, DC, USA",
+    "founded": "2024",
+    "raising": 500000,
+    "valuation": 50000000,
+    "raised": 205871,
+    "credibility": 75,
+    "momentum": 79,
+    "followers": 3,
+    "founders": [
+      {
+        "name": "Alex Shchekin",
+        "role": "CEO & Founder",
+        "bio": "Entrepreneur with a background in logistics, tech, and media innovation. Focused on solving complex healthcare infrastructure challenges through AI.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-181630-1",
+        "date": "2026-03-18",
+        "type": "fundraise",
+        "title": "Early Bird Funding Active",
+        "body": "Campaign launched with active early-bird terms to accelerate the development of the AI care coordination engine."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 500
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 1200
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 2800
+      },
+      {
+        "month": "Jan",
+        "revenue": 1200,
+        "users": 4500
+      },
+      {
+        "month": "Feb",
+        "revenue": 3500,
+        "users": 6200
+      },
+      {
+        "month": "Mar",
+        "revenue": 7200,
+        "users": 8900
+      }
+    ],
+    "highlights": [
+      "AI-driven global care navigation",
+      "No insurance required model",
+      "Multilingual support for international health travel",
+      "Addressing $25T global healthcare market"
+    ]
+  },
+  {
+    "id": "91701",
+    "slug": "gesture",
+    "name": "Gesture",
+    "tagline": "Simplifying how people send & receive tangible gifts in realtime",
+    "description": "Gesture is a mobile platform designed to make gifting as easy as sending a text message. By removing the need for a recipient's physical address, Gesture allows users to send flowers, wine, and other tangible gifts instantly using only a phone number or social handle. The company operates a lean, high-efficiency model and previously raised $1.5M to scale its logistics and delivery network.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/91701/xxl_Gesture_logo_1673897436157.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/91701/standard_cropped_Main_We.jpg",
+    "sector": "E-commerce",
+    "stage": "Seed",
+    "location": "New York, NY, USA",
+    "founded": "2019",
+    "raising": 500000,
+    "valuation": 15000000,
+    "raised": 1554800,
+    "credibility": 81,
+    "momentum": 68,
+    "followers": 16,
+    "founders": [
+      {
+        "name": "Ben Labra",
+        "role": "CEO & Co-Founder",
+        "bio": "20+ years of experience across ops, tech, and law. Columbia Business School alumnus with a previous successful soft exit.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-91701-1",
+        "date": "2023-01-16",
+        "type": "product",
+        "title": "Logistics Expansion",
+        "body": "Gesture expanded its delivery network to include more real-time gift categories in the New York tri-state area."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jul",
+        "revenue": 45000,
+        "users": 15000
+      },
+      {
+        "month": "Aug",
+        "revenue": 48000,
+        "users": 16200
+      },
+      {
+        "month": "Sep",
+        "revenue": 52000,
+        "users": 17500
+      },
+      {
+        "month": "Oct",
+        "revenue": 61000,
+        "users": 19000
+      },
+      {
+        "month": "Nov",
+        "revenue": 85000,
+        "users": 24000
+      },
+      {
+        "month": "Dec",
+        "revenue": 142000,
+        "users": 35000
+      }
+    ],
+    "highlights": [
+      "Raised $1.5M in previous funding rounds",
+      "Patented address-free delivery technology",
+      "Minority-founded with a lean operating model",
+      "High seasonal ROI during gifting holidays"
+    ]
+  },
+  {
+    "id": "176960",
+    "slug": "racecarmonks",
+    "name": "RACE CAR MONKS The Movie",
+    "tagline": "To save the monastery they must take the checkered flag",
+    "description": "RACE CAR MONKS is a feature film project currently in pre-production. The story follows a group of monks who enter a high-stakes auto race to save their monastery from financial ruin. The project is led by an Emmy-winning producer and a veteran film team with a combined century of industry experience, focusing on high-quality family and faith-based entertainment with strong commercial potential.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/176960/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/176960/company_card_retina_RACE_CAR_MONKS_The_Movie_1760560857049.jpg",
+    "sector": "Entertainment",
+    "stage": "Seed",
+    "location": "Jacksonville, FL, USA",
+    "founded": "2024",
+    "raising": 300000,
+    "valuation": 0,
+    "raised": 277464,
+    "credibility": 70,
+    "momentum": 85,
+    "followers": 2,
+    "founders": [
+      {
+        "name": "Brian Shields",
+        "role": "Producer/Director",
+        "bio": "Experienced filmmaker whose credits include the Emmy Award-winning series 'From the Earth to the Moon.' Specializes in independent films with high per-theater revenue.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-176960-1",
+        "date": "2025-10-15",
+        "type": "milestone",
+        "title": "Pre-Production Goal Met",
+        "body": "The campaign has successfully raised the necessary funds to begin full pre-production and casting."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 100
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 250
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 400
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 650
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 820
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 1100
+      }
+    ],
+    "highlights": [
+      "Led by Emmy-winning industry veteran",
+      "Strong historical performance in faith-based genre",
+      "Pre-production funding goal achieved",
+      "Combined 100+ years of film industry team experience"
+    ]
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "id": "186418",
+    "slug": "scum-and-villainy-cantina",
+    "name": "Scum and Villainy Cantina",
+    "tagline": "A real-world sci-fi hangout for events, fans, and shared experiences",
+    "description": "Scum and Villainy Cantina is an immersive themed bar and event space that caters to sci-fi fans and pop-culture enthusiasts. Operating for over eight years, the venue has hosted major studio events and maintained consistent year-over-year growth. The company is now expanding into new immersive locations to scale its unique hospitality brand.",
+    "logo": "https://uploads.wefunder.com/uploads/company/custom_card_photo/186418/company_card_retina_Scum_and_Villainy_Cantina_1771956155441.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/186418/standard_blob.jpg",
+    "sector": "Entertainment",
+    "stage": "Seed",
+    "location": "Burbank, USA",
+    "founded": "2017",
+    "raising": 614250,
+    "valuation": 8500000,
+    "raised": 614250,
+    "credibility": 82,
+    "momentum": 75,
+    "followers": 72,
+    "founders": [
+      {
+        "name": "James Reifenberg",
+        "role": "Creator & Managing Partner",
+        "bio": "Raised over $1 Million in pre-sales for the initial Hollywood pop-up; experienced in immersive hospitality and event production.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-186418",
+        "date": "2024-05-01",
+        "type": "traction",
+        "title": "Expansion Underway",
+        "body": "8+ years of operation with 20%+ YoY growth and major studio partnerships secured for upcoming events."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Nov",
+        "revenue": 145000,
+        "users": 3200
+      },
+      {
+        "month": "Dec",
+        "revenue": 168000,
+        "users": 3800
+      },
+      {
+        "month": "Jan",
+        "revenue": 132000,
+        "users": 3100
+      },
+      {
+        "month": "Feb",
+        "revenue": 138000,
+        "users": 3300
+      },
+      {
+        "month": "Mar",
+        "revenue": 155000,
+        "users": 3500
+      },
+      {
+        "month": "Apr",
+        "revenue": 162000,
+        "users": 3650
+      }
+    ],
+    "highlights": [
+      "8+ years of profitable operations",
+      "20% Year-over-Year revenue growth",
+      "Major studio partnerships for immersive events",
+      "New location expansion in development"
+    ]
+  },
+  {
+    "id": "75960",
+    "slug": "swopblock",
+    "name": "Swopblock",
+    "tagline": "Crypto’s first autonomous trading network—100% owned by the people",
+    "description": "Swopblock is developing a decentralized liquidity protocol designed to enable autonomous, cross-chain crypto trading without central intermediaries. The network is built to be entirely owned and operated by its community of users. By utilizing a unique peer-to-peer architecture, it aims to solve liquidity and security issues prevalent in current exchange models.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/75960/xxl_blob.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/75960/standard_blob.jpg",
+    "sector": "Web3",
+    "stage": "Seed",
+    "location": "Martinsburg, USA",
+    "founded": "2021",
+    "raising": 199953,
+    "valuation": 3500000,
+    "raised": 208829,
+    "credibility": 74,
+    "momentum": 68,
+    "followers": 849,
+    "founders": [
+      {
+        "name": "Jeff Hilde",
+        "role": "CEO & Founder",
+        "bio": "Research Engineer who led AI innovations for the Office of Naval Research; inventor with 11 patents and 30+ years in software.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-75960",
+        "date": "2024-04-15",
+        "type": "product",
+        "title": "Token Reservation Growth",
+        "body": "Over 20 million SWOBL tokens have been reserved by the community as we move toward mainnet launch."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 4200
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 4800
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 5500
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 6200
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 7100
+      },
+      {
+        "month": "Apr",
+        "revenue": 0,
+        "users": 8400
+      }
+    ],
+    "highlights": [
+      "Autonomous cross-chain trading protocol",
+      "20M+ tokens reserved for community",
+      "Led by an inventor with 11 patents",
+      "Decentralized liquidity pool architecture"
+    ]
+  },
+  {
+    "id": "181747",
+    "slug": "harmonybabynutrition",
+    "name": "Harmony Baby Nutrition",
+    "tagline": "Baby formulas inspired by human milk",
+    "description": "Harmony Baby Nutrition is a biotech-driven food company creating the next generation of infant formula. Using advanced food science, they replicate the specific protein profiles found in human breast milk to provide superior nutrition for infants. The company is backed by prominent venture capitalists and is developing a patent-protected portfolio to disrupt the global formula market.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/181747/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/181747/company_card_retina_Harmony_Baby_Nutrition_1774888010583.jpg",
+    "sector": "HealthTech",
+    "stage": "Series A",
+    "location": "Natick, USA",
+    "founded": "2018",
+    "raising": 288583,
+    "valuation": 35000000,
+    "raised": 14047583,
+    "credibility": 91,
+    "momentum": 88,
+    "followers": 55,
+    "founders": [
+      {
+        "name": "Wendel Afonso",
+        "role": "CEO & Founder",
+        "bio": "Serial entrepreneur and MIT Sloan MBA; previously founded INVITA Specialized Nutrition, scaling it to a top-tier SME in Brazil.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-181747",
+        "date": "2024-05-02",
+        "type": "fundraise",
+        "title": "VC Backing Secured",
+        "body": "Total funding has reached $13.5M from top venture capital firms and research grants."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Nov",
+        "revenue": 5000,
+        "users": 120
+      },
+      {
+        "month": "Dec",
+        "revenue": 8000,
+        "users": 200
+      },
+      {
+        "month": "Jan",
+        "revenue": 12000,
+        "users": 350
+      },
+      {
+        "month": "Feb",
+        "revenue": 18000,
+        "users": 500
+      },
+      {
+        "month": "Mar",
+        "revenue": 25000,
+        "users": 720
+      },
+      {
+        "month": "Apr",
+        "revenue": 32000,
+        "users": 950
+      }
+    ],
+    "highlights": [
+      "$13.5M raised from top VCs and grants",
+      "4 patents filed for human milk biology replication",
+      "Experts from Harvard and Johns Hopkins",
+      "Targeting the multi-billion dollar infant formula market"
+    ]
+  },
+  {
+    "id": "180490",
+    "slug": "organictransit",
+    "name": "Organic Transit",
+    "tagline": "The world's first production solar vehicle",
+    "description": "Organic Transit is the manufacturer of the ELF, a solar-electric hybrid vehicle designed for urban commuting and cargo delivery. Combining the benefits of a bicycle with the protection and stability of a car, the ELF provides an ultra-efficient transportation solution. The company focuses on sustainable manufacturing and has successfully delivered hundreds of units to customers globally.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/180490/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/180490/company_card_retina_Organic_Transit_1764705404980.jpg",
+    "sector": "ClimateTech",
+    "stage": "Seed",
+    "location": "Efland, USA",
+    "founded": "2012",
+    "raising": 204239,
+    "valuation": 10000000,
+    "raised": 711301,
+    "credibility": 80,
+    "momentum": 72,
+    "followers": 25,
+    "founders": [
+      {
+        "name": "Rob Cotter",
+        "role": "CEO & Founder",
+        "bio": "Transportation design visionary and creator of the ELF; dedicated to building sustainable and efficient urban transit systems.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-180490",
+        "date": "2024-04-20",
+        "type": "traction",
+        "title": "Production Milestones",
+        "body": "Organic Transit has delivered 850 ELFs to date, generating over $7M in historical revenue."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Nov",
+        "revenue": 45000,
+        "users": 810
+      },
+      {
+        "month": "Dec",
+        "revenue": 48000,
+        "users": 820
+      },
+      {
+        "month": "Jan",
+        "revenue": 42000,
+        "users": 830
+      },
+      {
+        "month": "Feb",
+        "revenue": 55000,
+        "users": 840
+      },
+      {
+        "month": "Mar",
+        "revenue": 68000,
+        "users": 845
+      },
+      {
+        "month": "Apr",
+        "revenue": 72000,
+        "users": 855
+      }
+    ],
+    "highlights": [
+      "850 vehicles delivered globally",
+      "$7M+ in historical revenue",
+      "Solar-electric hybrid technology",
+      "Manufactured in the USA"
+    ]
+  },
+  {
+    "id": "178027",
+    "slug": "lumohs",
+    "name": "lumohs",
+    "tagline": "Safer tools for the procedures clinicians perform every day",
+    "description": "Lumohs, operated by Nano Surgical Inc., develops innovative surgical tools designed to improve safety and precision in dermatological and clinical procedures. Their patented platform combines high-quality instruments with integrated lighting technology to reduce risk and improve patient outcomes. The company is led by a repeat founder with multiple successful exits in the medical space.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/178027/xxl_blob",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/178027/company_card_retina_lumohs_1773882102441.jpg",
+    "sector": "HealthTech",
+    "stage": "Seed",
+    "location": "Delray Beach, USA",
+    "founded": "2023",
+    "raising": 612503,
+    "valuation": 22000000,
+    "raised": 3212503,
+    "credibility": 86,
+    "momentum": 70,
+    "followers": 34,
+    "founders": [
+      {
+        "name": "Steven Hacker",
+        "role": "CEO & President",
+        "bio": "Repeat founder of Skinstore.com (acquired by Walgreens) and PassportMD; holder of over 30 patents.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-178027",
+        "date": "2024-05-08",
+        "type": "traction",
+        "title": "Market Adoption",
+        "body": "Thousands of units have been sold into the dermatological market as the recurring revenue platform scales."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Nov",
+        "revenue": 2800,
+        "users": 45
+      },
+      {
+        "month": "Dec",
+        "revenue": 3200,
+        "users": 52
+      },
+      {
+        "month": "Jan",
+        "revenue": 3100,
+        "users": 58
+      },
+      {
+        "month": "Feb",
+        "revenue": 3600,
+        "users": 65
+      },
+      {
+        "month": "Mar",
+        "revenue": 4200,
+        "users": 74
+      },
+      {
+        "month": "Apr",
+        "revenue": 4500,
+        "users": 82
+      }
+    ],
+    "highlights": [
+      "Thousands of surgical units sold",
+      "Patented recurring revenue platform",
+      "Founder has multiple prior exits (Skinstore.com)",
+      "Addressing a $100B+ clinical tools market"
+    ]
+  }
+]

@@ -1,0 +1,493 @@
+[
+  {
+    "id": 160424,
+    "name": "RISE Robotics",
+    "legal_name": "LiftWave, Inc.",
+    "url": "riserobotics",
+    "tagline": "Electrifying heavy machines",
+    "region": "MA",
+    "logo": {
+      "url": "//uploads.wefunder.com/uploads/company/logo/160424/blob.jpeg",
+      "xxl": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/160424/xxl_blob.jpeg"
+      },
+      "xl": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/160424/xl_blob.jpeg"
+      },
+      "large": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/160424/large_blob.jpeg"
+      },
+      "medium": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/160424/medium_blob.jpeg"
+      },
+      "small": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/160424/small_blob.jpeg"
+      },
+      "thumbnail": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/160424/thumbnail_blob.jpeg"
+      }
+    },
+    "followers_counter_cache": 201,
+    "fact": "#1 Reg CF Campaign in 2025 (Kingscrowd): 2,500+ investors and $5.7M+ committed",
+    "label": "almost_fully_funded",
+    "total_raised_this_campaign": 17324017,
+    "terms": {
+      "nb": "$62.1M",
+      "eb": "$49.6M",
+      "txt": "pre-money valuation",
+      "localized": {
+        "de": {
+          "nb": "62,1\u00a0Mio.\u00a0$",
+          "eb": "49,6\u00a0Mio.\u00a0$",
+          "txt": "Pre-Money-Bewertung"
+        },
+        "es": {
+          "nb": "62,1\u00a0M$",
+          "eb": "49,6\u00a0M$",
+          "txt": "valoraci\u00f3n previa a la inversi\u00f3n"
+        },
+        "fr": {
+          "nb": "62,1\u00a0M\u00a0$",
+          "eb": "49,6\u00a0M\u00a0$",
+          "txt": "\u00e9valuation pr\u00e9financement"
+        },
+        "it": {
+          "nb": "62,1\u00a0Mio\u00a0$",
+          "eb": "49,6\u00a0Mio\u00a0$",
+          "txt": "valutazione premonetaria"
+        },
+        "nl": {
+          "nb": "$\u00a062,1\u00a0mln.",
+          "eb": "$\u00a049,6\u00a0mln.",
+          "txt": "pre-moneywaardering"
+        },
+        "pt": {
+          "nb": "$\u00a062,1\u00a0mi",
+          "eb": "$\u00a049,6\u00a0mi",
+          "txt": "avalia\u00e7\u00e3o pr\u00e9-investimento/financiamento"
+        }
+      }
+    },
+    "custom_card_photo_url": {
+      "retina": "//uploads.wefunder.com/uploads/company/custom_card_photo/160424/company_card_retina_open-uri20250625-1-5fv4j8.jpg",
+      "normal": "//uploads.wefunder.com/uploads/company/custom_card_photo/160424/company_card_open-uri20250625-1-5fv4j8.jpg"
+    },
+    "founder_info": {
+      "name": "Hiten Sonpal",
+      "bio": "Robotics & commercialization exec. Generated $2B+ revenue (9M+ units) at iRobot, grew deployments 3x at Electric Sheep, launched SaaS & HW products at Robin. Graze Robotics & Main Street Autonomy advisor. U of Evansville BS Comp. Eng., GA Tech MSCS (\u201828).",
+      "title": "CEO"
+    },
+    "founder_avatar_url": "//uploads.wefunder.com/uploads/company_role/custom_photo/5767116/square_blob.jpg?1777768336",
+    "fundraise_host_name": "Wefunder Portal LLC",
+    "total_investors_this_campaign": 377,
+    "video_url": "https://dcd73ta2suabk.cloudfront.net/jsy7ianvnk4da3h7co4w2v4lnlzu",
+    "video_cover_photo_url": "//uploads.wefunder.com/uploads/company/header_media_photo/160424/standard_avatar.jpg",
+    "eb_active": true,
+    "slug": "riserobotics",
+    "admin_tag_mappings": [
+      {
+        "standardizedName": "venture_backed",
+        "humanizedName": "VC-Backed"
+      },
+      {
+        "standardizedName": "repeat_founder",
+        "humanizedName": "Repeat Founder"
+      },
+      {
+        "standardizedName": "minority_founder",
+        "humanizedName": "Minority Founder"
+      }
+    ],
+    "latest_fundraise_currency": "USD",
+    "owner_published": true,
+    "privacy_search": true,
+    "vetted_level": 0,
+    "quality_score": 20.65277727209774,
+    "city": "Somerville",
+    "state": "MA",
+    "valuation": 0,
+    "funding_amount": 1499659,
+    "percent_funded": 121,
+    "past_funding": 27222665,
+    "age_in_months": 186,
+    "created_at_seconds": 1717519832,
+    "funding_started_at_seconds": 1775693276,
+    "funding_closed_at_seconds": 1788235199,
+    "funding_closed_at_in_past": 0,
+    "funding_closing_at_seconds": 0,
+    "funding_closing_at_in_future": 0,
+    "has_timeline_start_date": 0,
+    "timeline_start_date_seconds": 0,
+    "annual_revenue": 431460,
+    "cash_in_bank": 443878,
+    "investor_count": 2651,
+    "status_tier": 0,
+    "funding_amount_past_week": 73989,
+    "funding_amount_past_month": 335165,
+    "profile_promoted_at_seconds": "2026-04-07T16:33:38.552Z",
+    "security_type": "equity",
+    "country": [
+      "United States",
+      "US"
+    ],
+    "objectID": "160424",
+    "tags": [
+      "status_fundraising",
+      "has_non_draft_form_c",
+      "privacy_search_tag",
+      "exemption_reg_cf",
+      "security_equity",
+      "perks_exist",
+      "perks_active_early_bird",
+      "listed_campaign",
+      "most_raised",
+      "visible_by_non_accredited_investors",
+      "repeat_founder",
+      "investment_memo",
+      "venture_backed",
+      "minority_founder",
+      "almost_fully_funded",
+      "hot_this_week"
+    ],
+    "geoloc": {
+      "lat": 42.37911,
+      "lng": -71.09508
+    }
+  },
+  {
+    "id": 137512,
+    "name": "Aerial Resupply Coffee",
+    "legal_name": "Aerial Resupply, LLC",
+    "url": "aerialresupply",
+    "tagline": "Caffeine & support for a new generation of veterans",
+    "region": "VA",
+    "logo": {
+      "url": "//uploads.wefunder.com/uploads/company/logo/137512/blob.png",
+      "xxl": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/137512/xxl_blob.png"
+      },
+      "xl": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/137512/xl_blob.png"
+      },
+      "large": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/137512/large_blob.png"
+      },
+      "medium": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/137512/medium_blob.png"
+      },
+      "small": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/137512/small_blob.png"
+      },
+      "thumbnail": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/137512/thumbnail_blob.png"
+      }
+    },
+    "followers_counter_cache": 34,
+    "fact": "Over 20,000 customers and growing across DTC, retail, and B2B",
+    "label": "hot_this_week",
+    "total_raised_this_campaign": 471361,
+    "terms": {
+      "nb": "1.75X",
+      "txt": "payback multiple",
+      "localized": {
+        "de": {
+          "nb": "1.75X",
+          "txt": "R\u00fcckzahlungsmultiplikator"
+        },
+        "es": {
+          "nb": "1.75X",
+          "txt": "m\u00faltiplo de amortizaci\u00f3n"
+        },
+        "fr": {
+          "nb": "1.75X",
+          "txt": "multiple de remboursement"
+        },
+        "it": {
+          "nb": "1.75X",
+          "txt": "multiplo del rimborso"
+        },
+        "nl": {
+          "nb": "1.75X",
+          "txt": "terugbetalingsfactor"
+        },
+        "pt": {
+          "nb": "1.75X",
+          "txt": "m\u00faltiplo de retorno"
+        }
+      }
+    },
+    "custom_card_photo_url": {
+      "retina": "//uploads.wefunder.com/uploads/company/custom_card_photo/137512/company_card_retina_Aerial_Resupply_Coffee_1755888156682.jpg",
+      "normal": "//uploads.wefunder.com/uploads/company/custom_card_photo/137512/company_card_Aerial_Resupply_Coffee_1755888156682.jpg"
+    },
+    "founder_info": {
+      "name": "Michael Klemmer",
+      "bio": "20-Year U.S. Army Veteran and Bronze Star Recipient building Aerial Resupply Coffee",
+      "title": "Founder & CEO"
+    },
+    "founder_avatar_url": "//uploads.wefunder.com/uploads/company_role/custom_photo/3654488/square_blob.jpg?1773687983",
+    "fundraise_host_name": "Wefunder Portal LLC",
+    "total_investors_this_campaign": 228,
+    "video_cover_photo_url": "//uploads.wefunder.com/uploads/company/header_media_photo/137512/standard_blob.jpg",
+    "slug": "aerialresupply",
+    "admin_tag_mappings": [
+      {
+        "standardizedName": "profitable",
+        "humanizedName": "Profitable"
+      },
+      {
+        "standardizedName": "veteran_founder",
+        "humanizedName": "Veteran Founder"
+      },
+      {
+        "standardizedName": "food_tech",
+        "humanizedName": "Food Tech"
+      }
+    ],
+    "vertical_and_sector_tag_names": [
+      "brewery",
+      "cafe_and_food_truck",
+      "food_and_beverage",
+      "food_tech"
+    ],
+    "latest_fundraise_currency": "USD",
+    "owner_published": true,
+    "privacy_search": true,
+    "vetted_level": 0,
+    "quality_score": 20.24782434614248,
+    "city": "Charlottesville",
+    "state": "VA",
+    "valuation": 0,
+    "funding_amount": 471861,
+    "percent_funded": 658,
+    "past_funding": 355719,
+    "age_in_months": 59,
+    "created_at_seconds": 1683817929,
+    "funding_started_at_seconds": 0,
+    "funding_closed_at_seconds": 1788407999,
+    "funding_closed_at_in_past": 0,
+    "funding_closing_at_seconds": 0,
+    "funding_closing_at_in_future": 0,
+    "has_timeline_start_date": 0,
+    "timeline_start_date_seconds": 0,
+    "annual_revenue": 452696,
+    "cash_in_bank": 18515,
+    "investor_count": 341,
+    "status_tier": 0,
+    "company_humanized_tags": [
+      "coffee",
+      "cpg",
+      "tea",
+      "veteran owned and operated",
+      "veteran owned",
+      "veteran",
+      "military"
+    ],
+    "funding_amount_past_week": 329261,
+    "funding_amount_past_month": 329261,
+    "profile_promoted_at_seconds": "2025-08-22T19:21:29.892Z",
+    "security_type": "debt",
+    "country": [
+      "United States",
+      "US"
+    ],
+    "objectID": "137512",
+    "tags": [
+      "status_fundraising",
+      "has_non_draft_form_c",
+      "privacy_search_tag",
+      "exemption_reg_cf",
+      "security_revenue_share",
+      "perks_exist",
+      "listed_campaign",
+      "most_raised",
+      "investor_update_badge",
+      "visible_by_non_accredited_investors",
+      "coffee",
+      "cpg",
+      "tea",
+      "veteran_owned_and_operated",
+      "veteran_owned",
+      "veteran",
+      "military",
+      "brewery",
+      "cafe_and_food_truck",
+      "food_and_beverage",
+      "food_tech",
+      "veteran_founder",
+      "profitable",
+      "hot_this_week"
+    ],
+    "geoloc": {
+      "lat": 38.03714,
+      "lng": -78.48597
+    }
+  },
+  {
+    "id": 168070,
+    "name": "Biostate AI",
+    "legal_name": "Biostate AI, Incorporated",
+    "url": "biostate.ai",
+    "tagline": "General-purpose biomedical AI working to help 90% of people live to 90",
+    "region": "TX",
+    "logo": {
+      "url": "//uploads.wefunder.com/uploads/company/logo/168070/blob.jpeg",
+      "xxl": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/168070/xxl_blob.jpeg"
+      },
+      "xl": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/168070/xl_blob.jpeg"
+      },
+      "large": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/168070/large_blob.jpeg"
+      },
+      "medium": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/168070/medium_blob.jpeg"
+      },
+      "small": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/168070/small_blob.jpeg"
+      },
+      "thumbnail": {
+        "url": "//uploads.wefunder.com/uploads/company/logo/168070/thumbnail_blob.jpeg"
+      }
+    },
+    "followers_counter_cache": 189,
+    "fact": "$20M raised from leading VCs including Accel, Matter Venture Partners, InfoEdge Ventures, Vision Plus, and Caltech Fund.",
+    "label": "almost_fully_funded",
+    "total_raised_this_campaign": 1237028,
+    "terms": {
+      "nb": "$100M",
+      "txt": "valuation cap",
+      "localized": {
+        "de": {
+          "nb": "100\u00a0Mio.\u00a0$",
+          "txt": "Bewertungsobergrenze"
+        },
+        "es": {
+          "nb": "100\u00a0M$",
+          "txt": "tope de valoraci\u00f3n"
+        },
+        "fr": {
+          "nb": "100\u00a0M\u00a0$",
+          "txt": "plafond d\u2019\u00e9valuation"
+        },
+        "it": {
+          "nb": "100\u00a0Mio\u00a0$",
+          "txt": "limite di valutazione"
+        },
+        "nl": {
+          "nb": "$\u00a0100\u00a0mln.",
+          "txt": "waarderingslimiet"
+        },
+        "pt": {
+          "nb": "$\u00a0100\u00a0mi",
+          "txt": "limite de avalia\u00e7\u00e3o"
+        }
+      }
+    },
+    "custom_card_photo_url": {
+      "retina": "//uploads.wefunder.com/uploads/company/custom_card_photo/168070/company_card_retina_Biostate_AI_1774562427343.jpg",
+      "normal": "//uploads.wefunder.com/uploads/company/custom_card_photo/168070/company_card_Biostate_AI_1774562427343.jpg"
+    },
+    "founder_info": {
+      "name": "Dave Zhang",
+      "bio": "\u200b\u200bPresidential award-winning bioengineering professor with 60+ top publications and 40+ patents. Previously co-founder & CEO of innovative cancer diagnostics company that raised over $100M+ from Sequoia and AstraZeneca and reached $20M+/yr revenue.",
+      "title": "Co-Founder/CEO"
+    },
+    "founder_avatar_url": "//uploads.wefunder.com/uploads/company_role/custom_photo/5297586/square_blob.jpg?1769725761",
+    "fundraise_host_name": "Wefunder Portal LLC",
+    "total_investors_this_campaign": 208,
+    "video_url": "https://dcd73ta2suabk.cloudfront.net/f21djyvwyfdavhjxu2zecyubj8yk",
+    "video_cover_photo_url": "//uploads.wefunder.com/uploads/company/header_media_photo/168070/standard_avatar.jpg",
+    "slug": "biostateai",
+    "admin_tag_mappings": [
+      {
+        "standardizedName": "venture_backed",
+        "humanizedName": "VC-Backed"
+      },
+      {
+        "standardizedName": "repeat_founder",
+        "humanizedName": "Repeat Founder"
+      },
+      {
+        "standardizedName": "artificial_intelligence",
+        "humanizedName": "AI"
+      }
+    ],
+    "vertical_and_sector_tag_names": [
+      "technology",
+      "artificial_intelligence",
+      "healthcare"
+    ],
+    "latest_fundraise_currency": "USD",
+    "owner_published": true,
+    "privacy_search": true,
+    "vetted_level": 0,
+    "quality_score": 19.73744956155284,
+    "city": "Houston",
+    "state": "TX",
+    "valuation": 0,
+    "funding_amount": 737028,
+    "percent_funded": 100,
+    "past_funding": 16127804,
+    "age_in_months": 35,
+    "created_at_seconds": 1730134797,
+    "funding_started_at_seconds": 1776377720,
+    "funding_closed_at_seconds": 1782878399,
+    "funding_closed_at_in_past": 0,
+    "funding_closing_at_seconds": 0,
+    "funding_closing_at_in_future": 0,
+    "has_timeline_start_date": 0,
+    "timeline_start_date_seconds": 0,
+    "annual_revenue": 565452,
+    "cash_in_bank": 2348306,
+    "investor_count": 287,
+    "status_tier": 0,
+    "company_humanized_tags": [
+      "health",
+      "bio tech",
+      "healthcare",
+      "artificial intelligence",
+      "technology",
+      "tech",
+      "venture capital"
+    ],
+    "funding_amount_past_week": 222450,
+    "funding_amount_past_month": 666078,
+    "profile_promoted_at_seconds": "2026-03-27T16:27:34.907Z",
+    "security_type": "equity",
+    "country": [
+      "United States",
+      "US"
+    ],
+    "objectID": "168070",
+    "tags": [
+      "status_fundraising",
+      "has_non_draft_form_c",
+      "privacy_search_tag",
+      "exemption_reg_cf",
+      "security_safe",
+      "perks_exist",
+      "listed_campaign",
+      "most_raised",
+      "visible_by_non_accredited_investors",
+      "health",
+      "bio_tech",
+      "tech",
+      "venture_capital",
+      "technology",
+      "artificial_intelligence",
+      "healthcare",
+      "saas",
+      "repeat_founder",
+      "notable_angel",
+      "venture_backed",
+      "almost_fully_funded",
+      "hot_this_week"
+    ],
+    "geoloc": {
+      "lat": 29.69571,
+      "lng": -95.40089
+    }
+  }
+]

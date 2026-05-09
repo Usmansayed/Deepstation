@@ -1,0 +1,24 @@
+.venv/
+**/node_modules/
+**/dist/
+**/dist-ssr/
+**/.wrangler/
+**/.tanstack/
+**/.vinxi/
+**/.output/
+**/.nitro/
+**/.dev.vars
+**/*.log
+**/.DS_Store
+**/__pycache__/
+**/*.pyc
+**/.git.bak/
+
+# Secrets / local env
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+

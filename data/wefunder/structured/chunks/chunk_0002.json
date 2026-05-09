@@ -1,0 +1,367 @@
+[
+  {
+    "id": "77952",
+    "slug": "blushift-aerospace",
+    "name": "bluShift Aerospace",
+    "tagline": "Fixing the Pentagon’s rocket motor bottleneck",
+    "description": "bluShift Aerospace is developing bio-derived, carbon-neutral rocket fuels and modular launch vehicles for the small satellite market. The company successfully launched the first commercial rocket powered by bio-derived fuel in 2021 and has conducted over 275 engine tests. Their technology aims to provide frequent, affordable, and earth-friendly launch services from coastal Maine.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/77952/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/77952/company_card_retina_bluShift_Aerospace_1774376196253.jpg",
+    "sector": "Aerospace",
+    "stage": "Series A",
+    "location": "Brunswick, ME",
+    "founded": "2014",
+    "raising": 613719,
+    "valuation": 25000000,
+    "raised": 3412695,
+    "credibility": 88,
+    "momentum": 72,
+    "followers": 990,
+    "founders": [
+      {
+        "name": "Sascha Deri",
+        "role": "CEO",
+        "bio": "Sascha co-founded one of the first online solar distribution and light-manufacturing companies, growing it to more than $35M in sales. In 2014, he founded bluShift to reduce the cost and wait time of launch services.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-77952-1",
+        "date": "2024-03-24",
+        "type": "traction",
+        "title": "Campaign Launch",
+        "body": "bluShift has surpassed $600k in current funding to address the Pentagon's rocket motor bottleneck."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 10
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 12
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 15
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 18
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 22
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 28
+      }
+    ],
+    "highlights": [
+      "Flight-proven technology with successful commercial launch",
+      "Over 275 successful engine tests to date",
+      "Bio-derived, carbon-neutral rocket fuel technology"
+    ]
+  },
+  {
+    "id": "143141",
+    "slug": "vawaa",
+    "name": "VAWAA",
+    "tagline": "Mini-apprenticeships with master artists in their studios, worldwide.",
+    "description": "VAWAA is a curated marketplace for immersive learning experiences with world-class artists and makers across 65+ countries. The platform enables travelers to book 3-7 day private apprenticeships in various creative disciplines, from calligraphy in Japan to ceramics in Slovenia. VAWAA is building a new category of creative travel centered on skill-sharing and human connection.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/143141/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/143141/company_card_retina_VAWAA_1778093846318.jpg",
+    "sector": "EdTech",
+    "stage": "Seed",
+    "location": "Brooklyn, NY",
+    "founded": "2015",
+    "raising": 144350,
+    "valuation": 8500000,
+    "raised": 244350,
+    "credibility": 75,
+    "momentum": 82,
+    "followers": 32,
+    "founders": [
+      {
+        "name": "Geetika Agrawal",
+        "role": "Founder and CEO",
+        "bio": "20 years experience across design and technology at R/GA and Disney Imagineering. Built VAWAA after learning from artists in 65+ countries. TEDIndia speaker.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-143141-1",
+        "date": "2024-05-06",
+        "type": "traction",
+        "title": "50% Organic Growth",
+        "body": "VAWAA achieved over 50% year-over-year organic growth in 2024 without paid marketing spend."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 42000,
+        "users": 1200
+      },
+      {
+        "month": "Nov",
+        "revenue": 45000,
+        "users": 1250
+      },
+      {
+        "month": "Dec",
+        "revenue": 58000,
+        "users": 1400
+      },
+      {
+        "month": "Jan",
+        "revenue": 48000,
+        "users": 1450
+      },
+      {
+        "month": "Feb",
+        "revenue": 51000,
+        "users": 1500
+      },
+      {
+        "month": "Mar",
+        "revenue": 62000,
+        "users": 1650
+      }
+    ],
+    "highlights": [
+      "50.4% YoY organic growth in 2024",
+      "Network of master artists in 65+ countries",
+      "Founder is a former Disney Imagineer and TED speaker"
+    ]
+  },
+  {
+    "id": "5996",
+    "slug": "hevo",
+    "name": "HEVO",
+    "tagline": "Wireless charging infrastructure to power our EV future",
+    "description": "HEVO provides wireless charging networks for electric vehicles, focusing on commercial, municipal, and military fleets. Their technology eliminates the need for physical plug-in stations, reducing operational hazards and infrastructure wear. Through partnerships with global automakers like Stellantis, HEVO is standardizing wireless power transfer for the next generation of EVs.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/5996/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/cover_photo/5996/xl_smith_newton_pulling_up_to_HPS.png",
+    "sector": "CleanTech",
+    "stage": "Series A",
+    "location": "Brooklyn, NY",
+    "founded": "2011",
+    "raising": 798317,
+    "valuation": 60000000,
+    "raised": 19826088,
+    "credibility": 94,
+    "momentum": 68,
+    "followers": 1035,
+    "founders": [
+      {
+        "name": "Jeremy McCool",
+        "role": "CEO and Chairman",
+        "bio": "US Army combat veteran and Columbia SIPA grad. Under his leadership, HEVO achieved UL and SAE certifications and secured agreements with major automakers.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-5996-1",
+        "date": "2024-04-15",
+        "type": "team",
+        "title": "Stellantis Partnership",
+        "body": "Continued development of wireless charging products for integration into Stellantis' global EV lineup."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 8500,
+        "users": 40
+      },
+      {
+        "month": "Nov",
+        "revenue": 9200,
+        "users": 42
+      },
+      {
+        "month": "Dec",
+        "revenue": 10500,
+        "users": 45
+      },
+      {
+        "month": "Jan",
+        "revenue": 9800,
+        "users": 48
+      },
+      {
+        "month": "Feb",
+        "revenue": 11200,
+        "users": 52
+      },
+      {
+        "month": "Mar",
+        "revenue": 15000,
+        "users": 60
+      }
+    ],
+    "highlights": [
+      "Strategic partnership with Stellantis",
+      "Over $19M in previous capital raised",
+      "UL and SAE certified wireless charging technology"
+    ]
+  },
+  {
+    "id": "108670",
+    "slug": "emissionfreegenerators",
+    "name": "Emission Free Generators",
+    "tagline": "A hydrogen-on-demand portable generator",
+    "description": "Emission Free Generators develops portable, zero-emission power solutions using patented hydrogen-on-demand technology. Their generators provide a clean alternative to gasoline units for recreation, retail, and outdoor lifestyles without requiring high-pressure hydrogen storage. The leadership team holds 28 patents and brings executive experience from Toyota and Nestlé.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/108670/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/108670/company_card_retina_Emission_Free_Generators__explore_card_photo_1746713924319.jpg",
+    "sector": "Energy",
+    "stage": "Seed",
+    "location": "Claymont, DE",
+    "founded": "2020",
+    "raising": 690063,
+    "valuation": 15000000,
+    "raised": 1202826,
+    "credibility": 72,
+    "momentum": 65,
+    "followers": 57,
+    "founders": [
+      {
+        "name": "Mark Collins",
+        "role": "CEO & Founder",
+        "bio": "Inventor with 28 patents across mechanical and electrical disciplines. 35 years of commercialization experience with 3 successful exits.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-108670-1",
+        "date": "2024-05-07",
+        "type": "milestone",
+        "title": "Patent Portfolio Expansion",
+        "body": "Leveraging 28 patents to finalize the commercial prototype of the hydrogen-on-demand system."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 200
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 240
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 310
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 350
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 390
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 420
+      }
+    ],
+    "highlights": [
+      "Leadership team with 28 patents and 3 exits",
+      "Hydrogen-on-demand technology eliminates storage risks",
+      "Targeting the growing outdoor and portable power market"
+    ]
+  },
+  {
+    "id": "107904",
+    "slug": "azure",
+    "name": "Azure Printed Homes",
+    "tagline": "3D-printed affordable and sustainable housing",
+    "description": "Azure Printed Homes uses large-scale 3D printing and recycled plastics to create sustainable backyard studios and accessory dwelling units (ADUs). Their automated construction process reduces build times by 70% and costs by 30% compared to traditional methods. With millions in annual revenue and a significant pre-order backlog, Azure is scaling to meet the demand for affordable housing.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/107904/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/107904/company_card_retina_Azure_Printed_Homes_1773090792933.jpg",
+    "sector": "Sustainability",
+    "stage": "Series A",
+    "location": "Los Angeles, CA",
+    "founded": "2020",
+    "raising": 442926,
+    "valuation": 119600000,
+    "raised": 13613009,
+    "credibility": 92,
+    "momentum": 85,
+    "followers": 240,
+    "founders": [
+      {
+        "name": "Ross Maguire",
+        "role": "Co-Founder",
+        "bio": "Civil Engineer with 13 years of experience in construction and design. Previously founded and led a residential construction firm in London for 8 years.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-107904-1",
+        "date": "2024-03-09",
+        "type": "traction",
+        "title": "Revenue Milestone",
+        "body": "Azure reported over $7M in annual revenue for the previous fiscal year with $30M in pre-orders."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 520000,
+        "users": 45
+      },
+      {
+        "month": "Nov",
+        "revenue": 550000,
+        "users": 48
+      },
+      {
+        "month": "Dec",
+        "revenue": 610000,
+        "users": 52
+      },
+      {
+        "month": "Jan",
+        "revenue": 580000,
+        "users": 55
+      },
+      {
+        "month": "Feb",
+        "revenue": 620000,
+        "users": 60
+      },
+      {
+        "month": "Mar",
+        "revenue": 700000,
+        "users": 65
+      }
+    ],
+    "highlights": [
+      "$30M in pre-orders with paid deposits",
+      "$7M+ in annual revenue",
+      "Construction process 70% faster than traditional building"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "companies": [
+    {
+      "id": "vertex-grid",
+      "name": "Vertex Grid Systems",
+      "ticker": "VGS",
+      "sector": "Climate Infra",
+      "image": "https://picsum.photos/seed/vertex-grid/960/560",
+      "confidence": 87,
+      "risk": "Medium",
+      "timing": "Accumulation Window",
+      "thesis": "Energy demand imbalance and utility contracts indicate resilient expansion over next 18 months.",
+      "trend": "Uptrend"
+    },
+    {
+      "id": "synthera-bio",
+      "name": "Synthera Bio",
+      "ticker": "SYB",
+      "sector": "AI Biotech",
+      "image": "https://picsum.photos/seed/synthera-bio/960/560",
+      "confidence": 81,
+      "risk": "High",
+      "timing": "Pre-catalyst Setup",
+      "thesis": "Clinical pipeline de-risking is ahead of consensus with improving cash runway quality.",
+      "trend": "Emerging"
+    },
+    {
+      "id": "aether-pay",
+      "name": "Aether Pay Networks",
+      "ticker": "APN",
+      "sector": "Fintech Infra",
+      "image": "https://picsum.photos/seed/aether-pay/960/560",
+      "confidence": 84,
+      "risk": "Low",
+      "timing": "Momentum Confirmation",
+      "thesis": "Payment volume growth plus improving unit economics suggest durable margin expansion.",
+      "trend": "Uptrend"
+    },
+    {
+      "id": "orbital-logix",
+      "name": "Orbital Logix",
+      "ticker": "ORX",
+      "sector": "Supply Chain AI",
+      "image": "https://picsum.photos/seed/orbital-logix/960/560",
+      "confidence": 76,
+      "risk": "Medium",
+      "timing": "Watch for Breakout",
+      "thesis": "Procurement digitization tailwinds and enterprise adoption rates support upside optionality.",
+      "trend": "Neutral"
+    }
+  ],
+  "activityFeed": [
+    "Detected unusual hiring velocity in AI compute startups (+38% in 10 days).",
+    "Parsed 11 earnings transcripts for margin guidance drift.",
+    "Flagged potential valuation dislocation in climate logistics.",
+    "New opportunity: fintech infra spread widening against peers.",
+    "Insider activity anomaly detected in two watchlist companies.",
+    "Social sentiment shifted positive in enterprise AI SaaS cluster."
+  ],
+  "reasoningTimeline": [
+    "Web scraping completed across 126 validated sources",
+    "Earnings reports and latest filings analyzed",
+    "Macro sentiment model processed live market narrative",
+    "Competitor cohort benchmarked on growth and margin quality",
+    "Insider activity and ownership concentration evaluated",
+    "Investment thesis generated with confidence calibration"
+  ]
+}

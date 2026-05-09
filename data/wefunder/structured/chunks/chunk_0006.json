@@ -1,0 +1,367 @@
+[
+  {
+    "id": "189230",
+    "slug": "riseupatwork",
+    "name": "RISEUP AT WORK",
+    "tagline": "A subscription platform for post-hire career growth",
+    "description": "RISEUP AT WORK is an AI-enabled career growth platform designed to support professionals in their post-hire journey. Grounded in over 20 years of coaching expertise, the platform provides tools for career longevity and progression. It currently serves a community of over 1,500 professionals through structured guidance and media-driven content.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/189230/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/189230/company_card_retina_RISEUP_AT_WORK_1771368555136.jpg",
+    "sector": "EdTech",
+    "stage": "Seed",
+    "location": "Spring, TX, USA",
+    "founded": "2024",
+    "raising": 250000,
+    "valuation": 5000000,
+    "raised": 109854,
+    "credibility": 78,
+    "momentum": 65,
+    "followers": 10,
+    "founders": [
+      {
+        "name": "Dr. Deepak Bhootra",
+        "role": "Founder & CEO",
+        "bio": "Sandler Certified Sales Coach and ICF Certified Coach with a Doctorate degree. Author of 6 books and host of RISEUP@work on NowMedia TV.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "upd-189",
+        "date": "2025-02-17",
+        "type": "milestone",
+        "title": "Campaign Launch",
+        "body": "Officially launched the Wefunder campaign to scale our AI career tools."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 1200,
+        "users": 850
+      },
+      {
+        "month": "Oct",
+        "revenue": 1800,
+        "users": 920
+      },
+      {
+        "month": "Nov",
+        "revenue": 2500,
+        "users": 1100
+      },
+      {
+        "month": "Dec",
+        "revenue": 3100,
+        "users": 1250
+      },
+      {
+        "month": "Jan",
+        "revenue": 4200,
+        "users": 1400
+      },
+      {
+        "month": "Feb",
+        "revenue": 5500,
+        "users": 1500
+      }
+    ],
+    "highlights": [
+      "AI-enabled career progression tools",
+      "Founded by 3x Amazon Best Selling author",
+      "1,500+ professionals supported to date"
+    ]
+  },
+  {
+    "id": "165559",
+    "slug": "automaticmanufacturingsystemsinc",
+    "name": "Pelagion",
+    "tagline": "A stand-up electric hydrofoil with steering capabilities",
+    "description": "Pelagion, operated by Automatic Manufacturing Systems, Inc., is developing high-performance electric hydrofoils designed for stability and maneuverability. Leveraging decades of precision engineering experience, the company aims to redefine personal watercraft with eco-friendly technology. Their engineering pedigree includes providing solutions for top-tier companies like Tesla and SpaceX.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/165559/xxl_blob",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/165559/standard_blob.jpg",
+    "sector": "Hardware",
+    "stage": "Series A",
+    "location": "Fort Lauderdale, FL, USA",
+    "founded": "1994",
+    "raising": 1000000,
+    "valuation": 25000000,
+    "raised": 91641,
+    "credibility": 92,
+    "momentum": 58,
+    "followers": 3,
+    "founders": [
+      {
+        "name": "Jamie P. Schlinkmann",
+        "role": "CEO",
+        "bio": "Visionary leader behind PSLIM laboratory printers and AccuPlace assembly robots with extensive experience in robotics and automation.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "upd-165",
+        "date": "2025-02-20",
+        "type": "product",
+        "title": "New Hydrofoil Prototype",
+        "body": "Advancing the steering capabilities of our latest electric hydrofoil model."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 0,
+        "users": 50
+      },
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 75
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 120
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 180
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 250
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 310
+      }
+    ],
+    "highlights": [
+      "Engineering team has worked with SpaceX and Tesla",
+      "Revolutionary steering system for hydrofoils",
+      "Over $8.9M in prior funding for manufacturing parent co"
+    ]
+  },
+  {
+    "id": "181797",
+    "slug": "lagomdevelopment",
+    "name": "Lagom",
+    "tagline": "Prefab homes to solve affordable housing",
+    "description": "Lagom is a vertically integrated housing company focused on delivering factory-built, energy-efficient homes. By streamlining the manufacturing and development process, they aim to offer high-quality residential units at price points under $250,000. The company targets the growing demand for sustainable and affordable urban housing solutions.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/181797/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/181797/standard_blob.jpg",
+    "sector": "PropTech",
+    "stage": "Seed",
+    "location": "Atlanta, GA, USA",
+    "founded": "2024",
+    "raising": 500000,
+    "valuation": 50000000,
+    "raised": 95670,
+    "credibility": 72,
+    "momentum": 84,
+    "followers": 16,
+    "founders": [
+      {
+        "name": "Skip Hulsey",
+        "role": "Founder & CEO",
+        "bio": "26 years of residential building and manufactured housing experience; currently an MRED candidate at Auburn University.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "upd-181",
+        "date": "2025-12-16",
+        "type": "fundraise",
+        "title": "Seed Round Opening",
+        "body": "Launched our Reg CF round to fund the first energy-efficient community."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 100
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 250
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 480
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 720
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 950
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 1200
+      }
+    ],
+    "highlights": [
+      "Homes priced under $250K to ensure affordability",
+      "Vertically integrated community development model",
+      "Founder has nearly 3 decades of construction expertise"
+    ]
+  },
+  {
+    "id": "196857",
+    "slug": "ezpeazy",
+    "name": "EZPeazy, Inc",
+    "tagline": "A service bidding platform to find local contractors",
+    "description": "EZPeazy is a veteran-built marketplace that connects homeowners with local contractors through a transparent bidding system. The platform is designed to save homeowners money while helping contractors secure consistent work. It also features a unique youth work component to help teenagers earn money through local service tasks.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/196857/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/196857/standard_avatar.jpg",
+    "sector": "Marketplace",
+    "stage": "Seed",
+    "location": "Thornton, CO, USA",
+    "founded": "2024",
+    "raising": 1000000,
+    "valuation": 12000000,
+    "raised": 61190,
+    "credibility": 68,
+    "momentum": 62,
+    "followers": 28,
+    "founders": [
+      {
+        "name": "Lance Smith",
+        "role": "Founder & CEO",
+        "bio": "Veteran founder focused on creating efficient local service marketplaces and community earning opportunities.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "upd-196",
+        "date": "2026-04-30",
+        "type": "traction",
+        "title": "Expansion into Colorado Market",
+        "body": "Accelerating local contractor onboarding in the Thornton and Denver areas."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Nov",
+        "revenue": 200,
+        "users": 150
+      },
+      {
+        "month": "Dec",
+        "revenue": 500,
+        "users": 320
+      },
+      {
+        "month": "Jan",
+        "revenue": 1100,
+        "users": 580
+      },
+      {
+        "month": "Feb",
+        "revenue": 2400,
+        "users": 890
+      },
+      {
+        "month": "Mar",
+        "revenue": 3800,
+        "users": 1200
+      },
+      {
+        "month": "Apr",
+        "revenue": 5200,
+        "users": 1600
+      }
+    ],
+    "highlights": [
+      "Veteran-founded and operated",
+      "Dual-sided marketplace for contractors and homeowners",
+      "Over $400k in prior funding secured"
+    ]
+  },
+  {
+    "id": "187524",
+    "slug": "eaglecathedralcitylimited",
+    "name": "EAGLE CATHEDRAL CITY",
+    "tagline": "Palm Springs’ premier leather bar and gay nightlife destination",
+    "description": "Eagle Cathedral City is a dedicated hospitality venue serving the Coachella Valley's LGBTQ+ community. Reviving an iconic gay nightlife space, the venue combines community events, music, and a premium bar experience. The project has seen massive local support, exceeding initial funding targets through community-driven investment.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/187524/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/187524/standard_blob.jpg",
+    "sector": "Hospitality",
+    "stage": "Seed",
+    "location": "Cathedral City, CA, USA",
+    "founded": "2024",
+    "raising": 1240000,
+    "valuation": 0,
+    "raised": 1193230,
+    "credibility": 85,
+    "momentum": 94,
+    "followers": 10,
+    "founders": [
+      {
+        "name": "Phillip Nalwalker",
+        "role": "Founder & CEO",
+        "bio": "Experienced hospitality entrepreneur dedicated to creating safe and iconic spaces for the gay community in Palm Springs.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "upd-187",
+        "date": "2025-12-17",
+        "type": "fundraise",
+        "title": "Funding Milestone",
+        "body": "Surpassed $1.1M in community backing for the new Cathedral City location."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 1200
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 2800
+      },
+      {
+        "month": "Dec",
+        "revenue": 5000,
+        "users": 4500
+      },
+      {
+        "month": "Jan",
+        "revenue": 12000,
+        "users": 5500
+      },
+      {
+        "month": "Feb",
+        "revenue": 18000,
+        "users": 6200
+      },
+      {
+        "month": "Mar",
+        "revenue": 35679,
+        "users": 7000
+      }
+    ],
+    "highlights": [
+      "Raised over $1.1M via Reg CF",
+      "6,000+ Instagram followers at launch",
+      "Premier leather bar concept in the Coachella Valley"
+    ]
+  }
+]

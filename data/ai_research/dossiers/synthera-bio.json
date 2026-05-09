@@ -1,0 +1,215 @@
+{
+  "id": "synthera-bio",
+  "memo": {
+    "oneLiner": "AI-guided drug discovery with a pipeline that is de-risking faster than consensus timelines imply.",
+    "snapshotLine": "ML-native discovery with measurable R&D productivity — milestone throughput per dollar is improving while specialist sentiment leads retail, which is the divergence we want pre-catalyst.",
+    "sentiment": "Selective — pre-catalyst asymmetry",
+    "overview": "Synthera Bio applies machine learning to target identification and trial design, with a focus on modalities where patient stratification materially changes outcomes. The company is earlier-stage than infrastructure names, but the AI workbench produces measurable R&D productivity signals that traditional biotech screens often miss.",
+    "thesis": "Binary clinical risk is the fair headline; the non-obvious read is operational: fewer milestone slips vs. peer baseline, rising programs-per-R&D-dollar, and specialist-channel sentiment up while retail chatter stays flat — usually precedes informed sizing ahead of data. We are not paying for \"AI theme\" beta; we are paying for a financed catalyst path with productivity proof.",
+    "whyBullets": [
+      "Pipeline milestones show fewer slippages than sector baseline; capital per stage gate is trending down.",
+      "Partnership and publication cadence suggests external validation beyond internal storytelling.",
+      "Insider ownership and grant mix imply incentives aligned with long-cycle science, not short-term promotion."
+    ],
+    "supportingSignals": [
+      "Expert sentiment in specialist channels improved while generalist hype remained muted — a healthy divergence.",
+      "Competitive mapping shows whitespace in the specific indication cluster Synthera prioritized.",
+      "Cash runway coverage versus next catalyst window appears adequate under conservative assumptions."
+    ],
+    "marketOpportunity": "The opportunity is not the entire AI biotech theme — it is the subset of programs where computational biology changes trial probability of success enough to justify venture-style return thresholds. The AI view sizes the near-term addressable indication cluster as expanding as diagnostics and payer clarity improve.",
+    "competitiveAdvantage": "Edge is closed-loop wet lab + model iteration, not parameter count. Compounds if trial readouts validate predictions — otherwise the platform is just an expensive lab notebook.",
+    "risks": [
+      "One bad readout re-prices everything; platform quality does not immunize the stock.",
+      "Crossover financing windows can slam multiples independent of science.",
+      "Novel endpoints or surrogates invite regulatory friction."
+    ],
+    "reasoningNarrative": "Analysis weighted trial calendars, precedent transactions in adjacent modalities, and a curated expert corpus. The AI down-weighted generic social buzz and emphasized consistency between disclosed spend, hiring in clinical ops, and stated milestone timing. Where data conflicted, the system surfaced uncertainty explicitly rather than averaging it away.",
+    "investorSummary": [
+      "Risk-on, catalyst-sized buckets only — pair elsewhere for beta balance.",
+      "Falsify on slippage vs. peers, runway vs. next data, and financing terms on any raise."
+    ],
+    "chartCaption": "Conviction trajectory as clinical and partnership signals accumulated (indexed).",
+    "chartValues": [
+      12,
+      16,
+      19,
+      24,
+      31,
+      38,
+      44,
+      49,
+      56,
+      61,
+      67,
+      72
+    ],
+    "secondaryInsight": {
+      "title": "Catalyst lens",
+      "body": "Next six quarters are defined by two data events and one partnership renewal window — the AI treats execution here as the primary swing factor, not thematic AI sentiment."
+    }
+  },
+  "intel": {
+    "marketSentimentScore": "+6 vs biotech AI basket",
+    "growthTrajectory": "Inflecting",
+    "riskProfile": "Elevated (clinical)",
+    "momentumTags": [
+      "Catalyst path",
+      "R&D efficiency",
+      "Partnership validation"
+    ],
+    "primaryGrowthSignal": "More stage progress per R&D dollar with specialist validation — productivity before hype.",
+    "whyNow": "Crossover capital is selective; platforms that demonstrate productivity metrics before the next large financing window are capturing a disproportionate share of specialist attention.",
+    "structuralTailwind": "Trial complexity, stratified medicine, and payer pressure push sponsors toward computationally guided design — Synthera’s narrow wedge benefits from that structural shift.",
+    "opportunityType": "Asymmetric, catalyst-driven exposure",
+    "evidenceSectionIntro": "These visuals connect R&D productivity, external validation, and the conviction slope — the same three pillars referenced in the thesis. Each chart states what it proves and how we read it.",
+    "chartConvictionProves": "That conviction stepped up as milestone throughput and partnership signals compounded — not from retail sentiment spikes.",
+    "chartConvictionInterpretation": "Plateaus usually map to quiet periods between data releases; the model will not extrapolate narrative hype without operational confirmation.",
+    "chartPositioningProves": "That Synthera’s composite signal reflects productivity and validation versus platforms that score on story alone.",
+    "chartPositioningInterpretation": "Higher bars require both external validation and capital efficiency; lower bars often indicate thin pipelines or dilution-heavy paths.",
+    "chartSentimentProves": "Specialist sentiment can lead crossover interest without triggering retail mania — a healthier setup for fundamental investors.",
+    "chartSentimentInterpretation": "Rising expert index with muted generalist volume is treated as informed accumulation ahead of catalysts — not a momentum chase.",
+    "riskFraming": "Fair value is dominated by readouts and financing — size like venture equity, not operating leverage.",
+    "aiReasoningTimeline": [
+      "Mapped milestone slippage vs. peer baseline",
+      "Reviewed runway vs. next catalyst window",
+      "Weighted specialist corpus vs. generalist chatter",
+      "Compared partnership velocity to platform peers",
+      "Scenario-tested financing under delayed readout",
+      "Locked conviction band with catalyst-linked falsifiers"
+    ],
+    "metrics": [
+      {
+        "label": "Programs / $ R&D",
+        "value": "↑ 18%",
+        "implication": "More stage progress per dollar spent — platform productivity signal."
+      },
+      {
+        "label": "Milestone slippage",
+        "value": "−40% vs peer",
+        "implication": "Operational credibility vs. sector norm — reduces timeline risk premium."
+      },
+      {
+        "label": "Runway (months)",
+        "value": "22",
+        "implication": "Covers next major readout window under conservative burn."
+      },
+      {
+        "label": "Expert sentiment",
+        "value": "+11",
+        "implication": "Specialists warming faster than generalists — validation without hype."
+      },
+      {
+        "label": "Hiring (clinical ops)",
+        "value": "+24%",
+        "implication": "Scaling execution capacity ahead of data events."
+      },
+      {
+        "label": "Partnership velocity",
+        "value": "2 new / yr",
+        "implication": "External validation beyond internal narrative."
+      },
+      {
+        "label": "Investor activity",
+        "value": "Selective",
+        "implication": "Quality-led capital interest; avoid crowding risk near catalysts."
+      }
+    ],
+    "positioningPeers": [
+      {
+        "name": "Synthera",
+        "score": 81
+      },
+      {
+        "name": "Platform X",
+        "score": 68
+      },
+      {
+        "name": "Platform Y",
+        "score": 55
+      },
+      {
+        "name": "Platform Z",
+        "score": 44
+      }
+    ],
+    "sentimentSeries": [
+      {
+        "period": "W1",
+        "net": 28
+      },
+      {
+        "period": "W2",
+        "net": 32
+      },
+      {
+        "period": "W3",
+        "net": 35
+      },
+      {
+        "period": "W4",
+        "net": 44
+      },
+      {
+        "period": "W5",
+        "net": 49
+      },
+      {
+        "period": "W6",
+        "net": 55
+      },
+      {
+        "period": "W7",
+        "net": 61
+      },
+      {
+        "period": "W8",
+        "net": 64
+      }
+    ],
+    "evidence": [
+      {
+        "headline": "Capital efficiency per program is improving",
+        "supportingSignal": "Disclosed spend vs. disclosed milestones improved 18% YoY in comparable programs.",
+        "confidence": "high",
+        "implication": "If sustained, the platform can support more shots on goal without linear cost growth.",
+        "inference": "Favor names where productivity rises before valuation does — Synthera fits that pattern."
+      },
+      {
+        "headline": "Catalyst calendar is clustered but financed",
+        "supportingSignal": "Runway vs. next readout window shows 22 months coverage at current burn band.",
+        "confidence": "medium",
+        "implication": "Financing overhang risk is lower than typical pre-revenue biotech in the same bucket.",
+        "inference": "Binary outcomes still dominate — size for risk, not for stability."
+      }
+    ],
+    "aiSignals": [
+      {
+        "text": "Clinical ops scaling ahead of readouts",
+        "kind": "up"
+      },
+      {
+        "text": "Partnership cadence above sector median",
+        "kind": "up"
+      },
+      {
+        "text": "Retail narrative still muted — healthy",
+        "kind": "steady"
+      },
+      {
+        "text": "Regulatory path complexity — monitor",
+        "kind": "watch"
+      }
+    ],
+    "aiDetected": [
+      "Publication cadence in the target modality jumped vs. trailing nine months — external validation velocity, not hype.",
+      "Conference NLP: sentiment inflected positive ~3 weeks ahead of generalist media — informed front-running pattern.",
+      "Adjacent competitor trial slippage widened the relative efficacy window for Synthera’s lead indication.",
+      "Clinical ops hiring run-rate now tracks ahead of sales — execution capacity before narrative."
+    ],
+    "marketAnalysis": "AI-native biotech is bifurcating: platforms with productivity proof attract durable capital; story-only names mean-revert. Synthera sits closer to the productivity cluster based on milestone cadence and external validation signals.",
+    "competitorBreakdown": "Large pharma internal AI groups compete for talent but move slower on iteration. Smaller peers either lack data scale or over-index on model demos. Synthera’s edge is closed-loop wet lab + compute with measurable milestone throughput.",
+    "sentimentDeepDive": "Specialist sentiment improved while retail chatter stayed flat — the AI weights this divergence as informed accumulation. Watch for retail spike without milestone confirmation as a de-risking flag.",
+    "fundingHistory": "Insider participation stable; no aggressive secondary patterns. Last round terms imply discipline rather than hype pricing.",
+    "riskScenarios": "Bear: readout miss or financing at bad terms. Base: stepwise value creation through milestones. Bull: partnership step-up plus positive readout."
+  }
+}

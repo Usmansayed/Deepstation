@@ -1,0 +1,35 @@
+[
+  {
+    "id": "txn-1001",
+    "type": "Deposit",
+    "account": "Chase •••• 4821",
+    "amount": 2500,
+    "status": "Completed",
+    "date": "May 08, 2026",
+    "destination": "Fund Cash Wallet",
+    "channel": "Bank wire",
+    "reference": "WF-09138"
+  },
+  {
+    "id": "txn-1002",
+    "type": "Internal transfer",
+    "account": "Venture wallet",
+    "amount": 700,
+    "status": "Completed",
+    "date": "May 06, 2026",
+    "destination": "Northwind Robotics",
+    "channel": "Internal ledger",
+    "reference": "IC-44319"
+  },
+  {
+    "id": "txn-1003",
+    "type": "Withdrawal",
+    "account": "Bank of America •••• 1188",
+    "amount": 320,
+    "status": "Pending",
+    "date": "May 04, 2026",
+    "destination": "Founder payout reserve",
+    "channel": "ACH",
+    "reference": "WD-81275"
+  }
+]

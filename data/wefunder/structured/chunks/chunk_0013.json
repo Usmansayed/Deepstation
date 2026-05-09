@@ -1,0 +1,372 @@
+[
+  {
+    "id": "193539",
+    "slug": "enterprise-diagnostics",
+    "name": "Enterprise Diagnostics",
+    "tagline": "AI-powered operational intelligence for private equity portfolio companies.",
+    "description": "Enterprise Diagnostics provides a sophisticated AI-driven platform designed to uncover hidden operational friction within private equity portfolio companies. Built on the Palantir Foundry architecture, the system delivers a comprehensive 60-day diagnostic roadmap to drive efficiency and value creation. The platform enables PE firms to identify and execute on operational improvements with high precision and speed.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/193539/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/193539/standard_avatar.jpg",
+    "sector": "Fintech",
+    "stage": "Seed",
+    "location": "Carrollton, TX, USA",
+    "founded": "2024",
+    "raising": 50000,
+    "valuation": 12000000,
+    "raised": 57379,
+    "credibility": 72,
+    "momentum": 65,
+    "followers": 3,
+    "founders": [
+      {
+        "name": "Michael Cupps",
+        "role": "Founder & CEO",
+        "bio": "Experienced technology executive with a focus on enterprise intelligence and operational optimization for the financial sector.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-193539-1",
+        "date": "2025-03-10",
+        "type": "traction",
+        "title": "Campaign Launch",
+        "body": "Launched on Wefunder to bring AI-powered diagnostics to the broader investment community."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 0,
+        "users": 2
+      },
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 3
+      },
+      {
+        "month": "Nov",
+        "revenue": 5000,
+        "users": 5
+      },
+      {
+        "month": "Dec",
+        "revenue": 8000,
+        "users": 8
+      },
+      {
+        "month": "Jan",
+        "revenue": 12000,
+        "users": 10
+      },
+      {
+        "month": "Feb",
+        "revenue": 15000,
+        "users": 12
+      }
+    ],
+    "highlights": [
+      "Built on Palantir Foundry for high-scale data analysis",
+      "Focused on the high-value Private Equity portfolio market",
+      "Delivers a complete operational roadmap in 60 days",
+      "6.95 quality score on initial review"
+    ]
+  },
+  {
+    "id": "181454",
+    "slug": "faxo",
+    "name": "Faxo",
+    "tagline": "The social super-app designed to replace $2 trillion worth of fragmented apps.",
+    "description": "Faxo is a comprehensive 'Everything App' that unifies social media, e-commerce, and productivity into a single platform. With a strong initial foothold as a top-ranked social app in the U.S. App Store, it currently serves over 1.3 million users. The platform focuses on high engagement and high conversion rates for its subscription-based and marketplace features.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/181454/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/181454/standard_blob.jpg",
+    "sector": "Social Media",
+    "stage": "Seed",
+    "location": "Chesterfield, MO, USA",
+    "founded": "2022",
+    "raising": 150000,
+    "valuation": 20000000,
+    "raised": 152468,
+    "credibility": 85,
+    "momentum": 88,
+    "followers": 9,
+    "founders": [
+      {
+        "name": "Steve Urciuoli",
+        "role": "Founder & CEO",
+        "bio": "Repeat founder with 36 years of experience shipping large-scale systems for Fortune 100s and government agencies.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-181454-1",
+        "date": "2025-10-29",
+        "type": "traction",
+        "title": "User Growth Milestone",
+        "body": "Reached 1.3 million total users with 23K+ Daily Active Users (DAU) and 24% engagement."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 10500,
+        "users": 1100000
+      },
+      {
+        "month": "Oct",
+        "revenue": 12000,
+        "users": 1150000
+      },
+      {
+        "month": "Nov",
+        "revenue": 14500,
+        "users": 1200000
+      },
+      {
+        "month": "Dec",
+        "revenue": 16000,
+        "users": 1250000
+      },
+      {
+        "month": "Jan",
+        "revenue": 18500,
+        "users": 1280000
+      },
+      {
+        "month": "Feb",
+        "revenue": 21000,
+        "users": 1300000
+      }
+    ],
+    "highlights": [
+      "1.3 million users and counting",
+      "Ranked #32 in the U.S. App Store Social category",
+      "Led by a founder with 36 years of enterprise systems experience",
+      "High 22% subscription conversion rate"
+    ]
+  },
+  {
+    "id": "177370",
+    "slug": "unfittoo",
+    "name": "UNFIT TOO",
+    "tagline": "The definitive documentary sequel examining challenges to American Democracy.",
+    "description": "UNFIT TOO is a feature-length documentary film featuring leading experts discussing the evolving challenges to Democracy in America today. Following the success of the 2020 film #UNFIT, the production team is reuniting to deliver a deep dive into the current political climate ahead of the 2026 midterms. The film is led by an Emmy-winning director with a track record of high-impact non-fiction storytelling.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/177370/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/177370/standard_blob.jpg",
+    "sector": "Entertainment",
+    "stage": "Seed",
+    "location": "Los Angeles, CA, USA",
+    "founded": "2023",
+    "raising": 100000,
+    "valuation": 5000000,
+    "raised": 109905,
+    "credibility": 82,
+    "momentum": 70,
+    "followers": 4,
+    "founders": [
+      {
+        "name": "Daniel Partland",
+        "role": "Director & Producer",
+        "bio": "Multiple Emmy winner and documentary veteran known for 'Intervention' and 'God & Country'.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-177370-1",
+        "date": "2026-02-17",
+        "type": "milestone",
+        "title": "Production Update",
+        "body": "Secured key expert interviews for the documentary as production moves toward its 2026 release goal."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 0,
+        "users": 400
+      },
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 550
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 700
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 850
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 1200
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 1500
+      }
+    ],
+    "highlights": [
+      "Sequel to the 2020 hit documentary #UNFIT",
+      "Produced by an Emmy-winning director",
+      "Targeting release before the 2026 midterm elections",
+      "Over $100k raised from the community"
+    ]
+  },
+  {
+    "id": "184444",
+    "slug": "gogoipo",
+    "name": "GoGoIPO Inc.",
+    "tagline": "Democratizing asset-backed business ownership and IPO access.",
+    "description": "GoGoIPO is a unique holding company and venture studio that builds asset-backed businesses, making private equity and IPO-style opportunities accessible to everyday investors. By focusing on income-producing assets such as real estate and fintech, the company provides a diversified investment vehicle designed for long-term capital allocation and growth. Their mission is to empower individual investors to participate in ventures traditionally reserved for Wall Street institutions.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/184444/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/184444/standard_blob.jpg",
+    "sector": "Fintech",
+    "stage": "Pre-seed",
+    "location": "Chino Hills, CA, USA",
+    "founded": "2020",
+    "raising": 120000,
+    "valuation": 10000000,
+    "raised": 122078,
+    "credibility": 68,
+    "momentum": 72,
+    "followers": 7,
+    "founders": [
+      {
+        "name": "Arthur Derran Dresch",
+        "role": "Founder & CEO",
+        "bio": "Finance veteran with over 20 years of experience in capital allocation and business development.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-184444-1",
+        "date": "2026-01-13",
+        "type": "fundraise",
+        "title": "Funding Progress",
+        "body": "Reached 243% of initial funding goal through the Wefunder community."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 2000,
+        "users": 40
+      },
+      {
+        "month": "Oct",
+        "revenue": 2500,
+        "users": 55
+      },
+      {
+        "month": "Nov",
+        "revenue": 3000,
+        "users": 72
+      },
+      {
+        "month": "Dec",
+        "revenue": 3200,
+        "users": 90
+      },
+      {
+        "month": "Jan",
+        "revenue": 4500,
+        "users": 115
+      },
+      {
+        "month": "Feb",
+        "revenue": 5800,
+        "users": 140
+      }
+    ],
+    "highlights": [
+      "Asset-backed model for reduced investor risk",
+      "Democratizing institutional-grade investment opportunities",
+      "Founder has 20+ years of deep finance experience",
+      "Multi-sector approach across real estate and fintech"
+    ]
+  },
+  {
+    "id": "186036",
+    "slug": "nams-snacks",
+    "name": "NAMS Wonton Crisps",
+    "tagline": "Innovative wonton crisps disrupting the traditional snack category.",
+    "description": "NAMS Wonton Crisps brings a modern, crunchy twist to Asian-inspired snacking. Starting with a presence in approximately 50 independent retail locations in New York, the brand is scaling rapidly through experienced CPG sales advisors. Led by an ex-JPMorgan analyst and restaurateur, the company is focused on high-quality ingredients and strong retail unit economics to capture a share of the growing savory snack market.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/186036/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/186036/standard_blob.jpg",
+    "sector": "Food & Beverage",
+    "stage": "Pre-seed",
+    "location": "New York, NY, USA",
+    "founded": "2022",
+    "raising": 50000,
+    "valuation": 3000000,
+    "raised": 70750,
+    "credibility": 75,
+    "momentum": 78,
+    "followers": 6,
+    "founders": [
+      {
+        "name": "Andres Siman",
+        "role": "Founder & CEO",
+        "bio": "Former JPMorgan analyst and successful restaurateur who scaled prior sales by 10x in under 5 years.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-186036-1",
+        "date": "2026-02-17",
+        "type": "traction",
+        "title": "Retail Expansion",
+        "body": "Now stocked in 50+ independent stores across New York City."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Sep",
+        "revenue": 3500,
+        "users": 15
+      },
+      {
+        "month": "Oct",
+        "revenue": 4200,
+        "users": 22
+      },
+      {
+        "month": "Nov",
+        "revenue": 5800,
+        "users": 30
+      },
+      {
+        "month": "Dec",
+        "revenue": 7500,
+        "users": 42
+      },
+      {
+        "month": "Jan",
+        "revenue": 9200,
+        "users": 50
+      },
+      {
+        "month": "Feb",
+        "revenue": 11000,
+        "users": 55
+      }
+    ],
+    "highlights": [
+      "Currently in ~50 independent New York stores",
+      "Led by an ex-JPMorgan founder with restaurant scaling experience",
+      "Low $3M valuation cap for early investors",
+      "Fast-growing presence in the CPG specialty snack category"
+    ]
+  }
+]

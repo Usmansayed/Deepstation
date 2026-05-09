@@ -1,0 +1,140 @@
+{
+  "journeyEntries": [
+    {
+      "title": "Week 12: Care plan engine v2 shipped",
+      "excerpt": "After three months of rebuilds and customer interviews, we shipped a new care-path recommendation engine that cut clinical onboarding time by 18%.",
+      "body": "This was one of the largest internal shifts we've had as a team. We rebuilt the recommendation engine end-to-end, redesigned the data ingestion layer, and introduced a new feedback loop between clinicians and patients. Early signals show better adherence and a measurable drop in the time it takes to activate a new care plan.\n\nThis is the kind of foundational work that doesn't always look glamorous from the outside but compounds heavily over time. Every part of the product gets faster, more reliable, and more accurate when this layer improves.",
+      "readMins": 6,
+      "seed": "journey-shipping-care-plan",
+      "category": "Product"
+    },
+    {
+      "title": "Founder note: what we learned from 42 user interviews",
+      "excerpt": "Most users didn't want more features. They wanted fewer, better integrated ones. So we simplified onboarding into a single guided experience.",
+      "body": "Across 42 conversations, the same theme came back again and again: users were tired of fragmented tools. They didn't want a new dashboard, a new portal, or a new app. They wanted one consistent place to do their most important daily work.\n\nThat insight reshaped our roadmap. We pulled three planned features out of the next release and replaced them with a single guided onboarding flow. Six weeks later, activation rates have nearly doubled and time-to-first-value has dropped from 11 minutes to under 4.",
+      "readMins": 5,
+      "seed": "journey-user-interviews",
+      "category": "Founder Notes"
+    },
+    {
+      "title": "Product milestone: first 1,000 recurring check-ins",
+      "excerpt": "Crossing 1,000 recurring weekly check-ins is more than a vanity metric — it tells us the loop works.",
+      "body": "We hit 1,000 recurring weekly check-ins this week. What matters isn't the round number — it's that retention curves have flattened, weekly active usage is climbing, and clinician summaries are being read on average 2.4 times each.\n\nThe product is now sticky enough that compounding effects are showing up in the data. Going from here, our focus is on making each weekly summary more actionable and on shortening the gap between insight and intervention.",
+      "readMins": 4,
+      "seed": "journey-check-in-milestone",
+      "category": "Milestones"
+    },
+    {
+      "title": "Behind the scenes: rebuilding our underwriting pipeline",
+      "excerpt": "Why we tore down the underwriting pipeline rather than patch it — and what we learned from the rebuild.",
+      "body": "Our underwriting pipeline was the bottleneck slowing every other part of the platform. Patching it kept buying us a few more weeks; tearing it down forced us to confront the actual structural problem: too many handoffs, too many manual steps, too little observability.\n\nThe rebuild took six weeks. Today, we run underwriting in 38% of the original time, with significantly better error tracing. More importantly, the team can now ship improvements without fearing what breaks downstream.",
+      "readMins": 8,
+      "seed": "journey-underwriting-rebuild",
+      "category": "Engineering"
+    },
+    {
+      "title": "Hiring the right people slowly beats hiring the wrong people quickly",
+      "excerpt": "We're 9 people. Each hire took longer than expected — and that turned out to be a feature, not a bug.",
+      "body": "Every founder gets the advice to hire fast. We didn't. Each new hire took us between 6 and 11 weeks to close. In the moment it felt painful — we were always one engineer short of where we wanted to be. In hindsight, it was the right pace.\n\nA team this size cannot afford a wrong hire. The cost is not just the salary; it's the cultural drag, the rework, and the trust erosion. Slower hiring forced us to be sharper about what we actually needed and to invest in onboarding so that every hire ramps fast.",
+      "readMins": 5,
+      "seed": "journey-hiring-philosophy",
+      "category": "Team"
+    },
+    {
+      "title": "How we run our weekly investor update",
+      "excerpt": "A simple template, a 30-minute weekly ritual, and full transparency. Here's the format we use.",
+      "body": "Every Friday morning we send the same investor update: top metrics, what shipped, what didn't, what we're worried about, and what we need help with. Five sections. No spin. The goal isn't to look good — it's to keep our backers as close to the truth of the business as we are.\n\nThe format takes ~30 minutes to write because the discipline is in the data, not the language. If we don't have answers, we say so. If something broke, we name it. The compounding effect of doing this for a year is significant — investors trust the team and the data, and conversations move faster every time.",
+      "readMins": 6,
+      "seed": "journey-investor-updates",
+      "category": "Operations"
+    },
+    {
+      "title": "Q3 retrospective: what worked, what didn't",
+      "excerpt": "An honest look at the past quarter — three things we got right and two we got wrong.",
+      "body": "We started the quarter with three priorities: ship the new pricing tier, close two enterprise pilots, and reduce monthly churn. We hit the first two and missed the third — churn ended at 2.7% versus our 2.2% target.\n\nWhat worked: a small, dedicated pricing pod that owned the launch end-to-end; tight scoping on enterprise contracts that kept legal cycles short. What didn't: we under-invested in proactive customer health monitoring. We're correcting that now, and a dedicated CS hire is already in flight.",
+      "readMins": 7,
+      "seed": "journey-q3-retrospective",
+      "category": "Retrospective"
+    },
+    {
+      "title": "Why we're building this category, not joining it",
+      "excerpt": "The market is crowded with tools. We think the category itself is mis-shaped. Here's our thesis.",
+      "body": "If you survey the existing tools in this space, you'll find dozens. They're well-funded, well-marketed, and superficially impressive. But every customer we've spoken with — without exception — describes the category as 'broken in the middle.'\n\nThe tools work for the edges (initial onboarding, end-of-quarter reporting) but break in the daily work in the middle. That's the gap we're building into. Not a better dashboard. Not a better integration. A re-shaping of the everyday workflow that the existing category quietly ignores.",
+      "readMins": 9,
+      "seed": "journey-category-thesis",
+      "category": "Strategy"
+    }
+  ],
+  "kpis": [
+    { "label": "Pipeline", "value": "126 buildings", "tone": "bg-sky-50 text-sky-700 border-sky-200", "iconKey": "Target" },
+    { "label": "Coverage", "value": "31 U.S. markets", "tone": "bg-emerald-50 text-emerald-700 border-emerald-200", "iconKey": "Rocket" },
+    { "label": "Community", "value": "47k waitlist", "tone": "bg-violet-50 text-violet-700 border-violet-200", "iconKey": "Users" },
+    { "label": "Capital Efficiency", "value": "2.3x YoY", "tone": "bg-amber-50 text-amber-700 border-amber-200", "iconKey": "BadgeDollarSign" }
+  ],
+  "timeline": [
+    { "q": "Q1 2025", "title": "Data ingestion platform live", "body": "Connected 24 property data feeds into one underwriting workflow." },
+    { "q": "Q2 2025", "title": "Institutional pilot launched", "body": "Deployed in six-city portfolio with measurable NOI impact." },
+    { "q": "Q3 2025", "title": "Retail round opened", "body": "Enabled recurring investor reporting and transparent execution logs." },
+    { "q": "Q4 2025", "title": "Risk scoring v2", "body": "Improved volatility forecasting and occupancy prediction." }
+  ],
+  "investorQuotes": [
+    { "name": "Anita G.", "role": "Angel Investor", "quote": "Execution updates are clear and consistent. This is what investor trust looks like." },
+    { "name": "Noah R.", "role": "Family Office Analyst", "quote": "Strong operator behavior and disciplined capital use across every milestone." },
+    { "name": "Farah M.", "role": "Operator-Investor", "quote": "The team writes like builders. I can see weekly trade-offs and outcomes." },
+    { "name": "Liam C.", "role": "Early Backer", "quote": "This is one of the few rounds where updates feel like real operator notes." }
+  ],
+  "announcementSamples": [
+    "Shipped a reliability patch for underwriting sync — 0 incidents over the last 72h.",
+    "Closed 11 customer calls today. Top theme: faster onboarding flow. Already prioritized for this sprint.",
+    "Hiring update: signed our second senior engineer this week. Team is now 9.",
+    "Ran an end-to-end smoke test on the new investor reporting pipeline. All checks green.",
+    "Pushed a small UX fix to the dashboard that cut an extra click for portfolio review.",
+    "Quick wins this week: 3 churn risks recovered, 2 net new pilots converted.",
+    "Reminder: weekly investor update goes out tomorrow at 9am PT.",
+    "Pricing experiment kicked off — testing two new tiers on cohort B for 14 days.",
+    "Ops note: latency dropped 22% after the queue refactor. Customers will feel it immediately.",
+    "Talked to two prospective enterprise design partners. Both confirmed timeline for Q2 rollout."
+  ],
+  "qaInvestors": [
+    "Anita G.",
+    "Noah R.",
+    "Farah M.",
+    "Liam C.",
+    "Priya D.",
+    "Marcus T.",
+    "Sienna B.",
+    "Owen K.",
+    "Talia N.",
+    "Henry P.",
+    "Zoe E.",
+    "Aiden W.",
+    "Vera S.",
+    "Jonas H."
+  ],
+  "qaQuestions": [
+    "How are you prioritizing capital between expansion and product improvements?",
+    "What execution metric should we watch over the next 30 days?",
+    "Can you walk us through your churn assumptions for the upcoming cohort?",
+    "How does the team think about defensibility once larger competitors enter?",
+    "What's the realistic timeline to reach $1M ARR at current sales velocity?",
+    "How are you handling unit economics as you scale customer acquisition?",
+    "Can you share the CAC payback window across your top three channels?",
+    "What does the next hire after this round look like and why?",
+    "How dependent is the model on continued macro tailwinds in this category?",
+    "What's the largest operational risk you're actively de-risking right now?"
+  ],
+  "qaReplies": [
+    "We allocate by milestone ROI: product reliability first, then market expansion where retention is strongest. Capital follows proof of usage, not projections.",
+    "Monitor weekly activated units and conversion from pilot to recurring portfolio contracts. Those two are the cleanest leading indicators.",
+    "Cohort churn has been steady around 2.4% monthly. Our base case for next quarter is 2.6% with the new tier rollout.",
+    "Defensibility comes from data depth, not surface features. Every active customer compounds the model's underwriting accuracy.",
+    "At current velocity, $1M ARR is realistic by Q3. We've intentionally slowed sales to fix retention drivers first.",
+    "Unit economics improve as we shift toward inbound. CAC has dropped 31% over the last six months as content compounds.",
+    "Top channel CAC payback is 7 months, second channel 11 months, and the third channel is being tested before scaling.",
+    "Next hire is a senior product engineer focused on the analytics layer — that unlocks our enterprise reporting roadmap.",
+    "The model is structurally resilient even in flat markets — most of our value comes from operational efficiency, not asset appreciation.",
+    "Largest active risk is integration complexity with legacy partners. We've now built a dedicated team around it and shipped two adapters."
+  ],
+  "journeyGalleryCount": 14,
+  "journeyGalleryCaption": "Visual update from field operations, team progress, and product rollout."
+}

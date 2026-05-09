@@ -1,0 +1,367 @@
+[
+  {
+    "id": "181742",
+    "slug": "tintop",
+    "name": "Tin Top Productions LLC",
+    "tagline": "A PG13 modern western drama television series meant to save the western way of life",
+    "description": "Tin Top Productions is an entertainment company dedicated to producing 'Tin Top,' a modern western drama television series. The show focuses on preserving the western lifestyle through authentic storytelling involving ranchers, rodeo stars, and community leaders. Currently in pre-production, the series has already secured gear and distribution placement on HORSEpro TV.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/181742/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/181742/standard_blob.jpg",
+    "sector": "Entertainment",
+    "stage": "Seed",
+    "location": "Henrietta, TX, USA",
+    "founded": "2025",
+    "raising": 156561,
+    "valuation": 0,
+    "raised": 156561,
+    "credibility": 72,
+    "momentum": 68,
+    "followers": 4,
+    "founders": [
+      {
+        "name": "Shaina Zollman",
+        "role": "CEO & Producer",
+        "bio": "Former Queen of the Pendleton Round Up and recognized as one of Cowgirl Magazine's 30 under 30 women in the western industry.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-181742-1",
+        "date": "2025-08-27",
+        "type": "milestone",
+        "title": "Pre-production Launched",
+        "body": "Season 1 gear is ready and the cast features legitimate rodeo leaders and ranchers."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 100
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 150
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 210
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 350
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 480
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 600
+      }
+    ],
+    "highlights": [
+      "Distribution on HORSEpro TV",
+      "Cast includes former Miss Rodeo America",
+      "Authentic western drama series"
+    ]
+  },
+  {
+    "id": "168420",
+    "slug": "unsmudgeable",
+    "name": "Unsmudgeable",
+    "tagline": "Never wipe your glasses again™",
+    "description": "Unsmudgeable is a material science startup that has developed a permanent, anti-fingerprint coating for eyewear. The company utilizes advanced polymer science to solve the age-old problem of smudged lenses without the need for constant cleaning. They have secured a Letter of Intent with Bühler Leybold Optics, a global leader in eyewear manufacturing technology.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/168420/xxl_blob.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/168420/standard_blob.jpg",
+    "sector": "DeepTech",
+    "stage": "Seed",
+    "location": "Boston, MA, USA",
+    "founded": "2023",
+    "raising": 178200,
+    "valuation": 5000000,
+    "raised": 280900,
+    "credibility": 88,
+    "momentum": 82,
+    "followers": 18,
+    "founders": [
+      {
+        "name": "Swarna Shiv",
+        "role": "Founder & CEO",
+        "bio": "Conducted 500+ experiments and 100 user interviews to develop proprietary coating technology alongside polymer experts.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-168420-1",
+        "date": "2025-03-22",
+        "type": "traction",
+        "title": "LOI Signed with Industry Leader",
+        "body": "Signed an LOI with Bühler Leybold Optics to scale production of the Unsmudgeable coating."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 250,
+        "users": 20
+      },
+      {
+        "month": "Nov",
+        "revenue": 310,
+        "users": 25
+      },
+      {
+        "month": "Dec",
+        "revenue": 405,
+        "users": 35
+      },
+      {
+        "month": "Jan",
+        "revenue": 380,
+        "users": 32
+      },
+      {
+        "month": "Feb",
+        "revenue": 520,
+        "users": 45
+      },
+      {
+        "month": "Mar",
+        "revenue": 610,
+        "users": 55
+      }
+    ],
+    "highlights": [
+      "LOI with Bühler Leybold Optics",
+      "Proprietary anti-fingerprint polymer coating",
+      "Vetted by Harvard Innovation Labs"
+    ]
+  },
+  {
+    "id": "189517",
+    "slug": "recklessspirits",
+    "name": "Reckless Spirits LLC",
+    "tagline": "Multilingual, metaphysical best friend comedy feature film",
+    "description": "Reckless Spirits is a feature film project blending comedy and metaphysical elements to tell a multilingual story of friendship. The project has received significant industry recognition, including being a NewFest New Voices Grant Semi-Finalist and receiving invites to Sundance Feature Film Labs. The production focuses on independent film excellence and diverse storytelling.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/189517/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/189517/standard_blob.jpg",
+    "sector": "Film",
+    "stage": "Seed",
+    "location": "Seattle, WA, USA",
+    "founded": "2024",
+    "raising": 66088,
+    "valuation": 0,
+    "raised": 168088,
+    "credibility": 85,
+    "momentum": 75,
+    "followers": 5,
+    "founders": [
+      {
+        "name": "Reckless Spirits Team",
+        "role": "Production Collective",
+        "bio": "A group of award-winning filmmakers invited to the 2025 Sundance Feature Film Labs and AntiGravity Screenwriters Camp.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-189517-1",
+        "date": "2026-03-17",
+        "type": "fundraise",
+        "title": "Sundance Labs Invite",
+        "body": "Selected for the 2025 Sundance Feature Film Labs second round."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 400
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 550
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 800
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 1100
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 1400
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 1800
+      }
+    ],
+    "highlights": [
+      "2025 Sundance Feature Film Labs invitee",
+      "Raised $130k via Kickstarter and grants",
+      "NewFest New Voices Grant Semi-Finalist"
+    ]
+  },
+  {
+    "id": "153030",
+    "slug": "enki",
+    "name": "Enki",
+    "tagline": "Re-skilling 1 billion people with AI and tech skills",
+    "description": "Enki is an AI-powered learning platform designed to help professionals master data, AI, and technical skills. The platform serves both individuals and enterprises, providing personalized learning paths at scale. Enki is currently cash flow positive and has recently tripled its recurring revenue as it expands its footprint in the corporate training market.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/153030/xxl_blob.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/153030/standard_blob.jpg",
+    "sector": "EdTech",
+    "stage": "Series A",
+    "location": "San Francisco, CA, USA",
+    "founded": "2016",
+    "raising": 350000,
+    "valuation": 19000000,
+    "raised": 350000,
+    "credibility": 94,
+    "momentum": 91,
+    "followers": 24,
+    "founders": [
+      {
+        "name": "Kirill Makharinsky",
+        "role": "CEO",
+        "bio": "Co-founder of Emerging Travel Group and Quid; early investor in unicorns like Calm and AngelList. Oxford Mathematics graduate.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-153030-1",
+        "date": "2025-04-18",
+        "type": "traction",
+        "title": "Revenue Milestone",
+        "body": "Reached $500k ARR milestone, tripling revenue over the last six months."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 14000,
+        "users": 15000
+      },
+      {
+        "month": "Nov",
+        "revenue": 18500,
+        "users": 17200
+      },
+      {
+        "month": "Dec",
+        "revenue": 22000,
+        "users": 19500
+      },
+      {
+        "month": "Jan",
+        "revenue": 29000,
+        "users": 23000
+      },
+      {
+        "month": "Feb",
+        "revenue": 36000,
+        "users": 28500
+      },
+      {
+        "month": "Mar",
+        "revenue": 41600,
+        "users": 35000
+      }
+    ],
+    "highlights": [
+      "Tripled revenue in the last 6 months",
+      "Cash flow positive operations",
+      "Founded by a top UK mathematics graduate"
+    ]
+  },
+  {
+    "id": "170011",
+    "slug": "ecosavetechnologies",
+    "name": "EcoSave Technologies",
+    "tagline": "Protecting our oceans & waterways from hazardous pollution",
+    "description": "EcoSave Technologies develops EST CORE™, a proprietary hardware solution that treats wastewater at the source. By intercepting hazardous pollutants before they enter municipal waterways and oceans, EcoSave provides an industrial-grade environmental defense system. The company focuses on B2B partnerships and government infrastructure projects to scale its ecological impact.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/170011/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/170011/standard_blob.jpg",
+    "sector": "CleanTech",
+    "stage": "Seed",
+    "location": "San Diego, CA, USA",
+    "founded": "2024",
+    "raising": 83570,
+    "valuation": 41000000,
+    "raised": 83570,
+    "credibility": 76,
+    "momentum": 70,
+    "followers": 9,
+    "founders": [
+      {
+        "name": "Joseph Dolin",
+        "role": "Founder & President",
+        "bio": "Seasoned executive with over 30 years of sales leadership experience and a dedicated ocean conservationist.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-170011-1",
+        "date": "2025-08-07",
+        "type": "product",
+        "title": "EST CORE™ Development",
+        "body": "Advanced testing of wastewater treatment technology for industrial applications."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 2
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 4
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 5
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 8
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 11
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 15
+      }
+    ],
+    "highlights": [
+      "Cleans wastewater at the source",
+      "B2B and government partnership model",
+      "Proprietary EST CORE™ hardware technology"
+    ]
+  }
+]

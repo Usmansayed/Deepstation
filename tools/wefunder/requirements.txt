@@ -1,0 +1,5 @@
+# Wefunder pipeline: raw scrape (Apify) + optional Vertex/Gemini structuring + Mongo sync
+httpx>=0.27.0
+pymongo>=4.8.0
+python-dotenv>=1.0.0
+google-genai>=1.0.0

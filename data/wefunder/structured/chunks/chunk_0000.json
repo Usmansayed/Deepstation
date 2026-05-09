@@ -1,0 +1,372 @@
+[
+  {
+    "id": "160424",
+    "slug": "riserobotics",
+    "name": "RISE Robotics",
+    "tagline": "Electrifying heavy machines",
+    "description": "RISE Robotics is a pioneer in high-performance linear actuation, developing the RISE Cylinder to replace inefficient hydraulic systems in heavy machinery. By enabling full electrification of industrial vehicles, their technology significantly reduces energy consumption and carbon emissions for the multi-billion dollar construction and material handling industries. The company is currently scaling production with major OEM partners to modernize global heavy-duty fleets.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/160424/xxl_blob.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/160424/standard_avatar.jpg",
+    "sector": "Industrial Tech",
+    "stage": "Series B",
+    "location": "Somerville, MA, USA",
+    "founded": "2011",
+    "raising": 1499659,
+    "valuation": 62100000,
+    "raised": 17324017,
+    "credibility": 92,
+    "momentum": 88,
+    "followers": 201,
+    "founders": [
+      {
+        "name": "Hiten Sonpal",
+        "role": "CEO",
+        "bio": "Robotics exec with experience at iRobot and Electric Sheep; generated over $2B in revenue.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-160424-1",
+        "date": "2025-06-25",
+        "type": "fundraise",
+        "title": "Campaign Launch",
+        "body": "Ranked #1 Reg CF Campaign in 2025 by Kingscrowd with over $5.7M committed from 2,500+ investors."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jan",
+        "revenue": 32000,
+        "users": 12
+      },
+      {
+        "month": "Feb",
+        "revenue": 34500,
+        "users": 14
+      },
+      {
+        "month": "Mar",
+        "revenue": 36000,
+        "users": 15
+      },
+      {
+        "month": "Apr",
+        "revenue": 38000,
+        "users": 18
+      },
+      {
+        "month": "May",
+        "revenue": 41000,
+        "users": 20
+      },
+      {
+        "month": "Jun",
+        "revenue": 45000,
+        "users": 22
+      }
+    ],
+    "highlights": [
+      "17M+ total raised in current campaign",
+      "Replacing hydraulic systems in heavy machinery",
+      "Venture-backed by top-tier investors",
+      "Significant OEM partnership pipeline"
+    ]
+  },
+  {
+    "id": "137512",
+    "slug": "aerialresupply",
+    "name": "Aerial Resupply Coffee",
+    "tagline": "Caffeine & support for a new generation of veterans",
+    "description": "Aerial Resupply Coffee is a veteran-owned and operated specialty coffee brand focusing on high-quality roasts and community support for the military and first responder sectors. Since its founding, the brand has grown a loyal following of over 20,000 customers through a robust D2C model and expanding retail presence. The company emphasizes authenticity and mission-driven growth within the competitive consumer goods landscape.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/137512/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/137512/standard_blob.jpg",
+    "sector": "Food & Beverage",
+    "stage": "Seed",
+    "location": "Charlottesville, VA, USA",
+    "founded": "2019",
+    "raising": 471861,
+    "valuation": 5250000,
+    "raised": 471361,
+    "credibility": 78,
+    "momentum": 82,
+    "followers": 34,
+    "founders": [
+      {
+        "name": "Michael Klemmer",
+        "role": "Founder & CEO",
+        "bio": "20-Year U.S. Army Veteran and Bronze Star Recipient.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-137512-1",
+        "date": "2025-08-22",
+        "type": "traction",
+        "title": "Customer Milestone",
+        "body": "Reached over 20,000 customers across D2C and retail channels."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jan",
+        "revenue": 35000,
+        "users": 18000
+      },
+      {
+        "month": "Feb",
+        "revenue": 36500,
+        "users": 18500
+      },
+      {
+        "month": "Mar",
+        "revenue": 38000,
+        "users": 19000
+      },
+      {
+        "month": "Apr",
+        "revenue": 40000,
+        "users": 19600
+      },
+      {
+        "month": "May",
+        "revenue": 42000,
+        "users": 20100
+      },
+      {
+        "month": "Jun",
+        "revenue": 45000,
+        "users": 21000
+      }
+    ],
+    "highlights": [
+      "Over 20,000 customers and growing",
+      "Profitable veteran-owned business",
+      "Expanding into retail and B2B channels",
+      "Bronze Star recipient founder"
+    ]
+  },
+  {
+    "id": "168070",
+    "slug": "biostateai",
+    "name": "Biostate AI",
+    "tagline": "General-purpose biomedical AI for longevity",
+    "description": "Biostate AI is building a general-purpose artificial intelligence platform designed to revolutionize drug discovery and personalized healthcare. By leveraging massive biological datasets and advanced machine learning, the company aims to extend human lifespan and improve health outcomes for 90% of the population. Led by a team of award-winning bioengineers, the company has secured significant backing from premier venture capital firms.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/168070/xxl_blob.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/168070/standard_avatar.jpg",
+    "sector": "BioTech",
+    "stage": "Series A",
+    "location": "Houston, TX, USA",
+    "founded": "2022",
+    "raising": 1237028,
+    "valuation": 100000000,
+    "raised": 1237028,
+    "credibility": 95,
+    "momentum": 91,
+    "followers": 189,
+    "founders": [
+      {
+        "name": "Dave Zhang",
+        "role": "Co-Founder & CEO",
+        "bio": "Bioengineering professor with 60+ publications; previously co-founded a diagnostics company with $20M+ revenue.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-168070-1",
+        "date": "2026-03-27",
+        "type": "fundraise",
+        "title": "VC Backing Secured",
+        "body": "Successfully raised $20M from VCs including Accel and Matter Venture Partners."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jan",
+        "revenue": 42000,
+        "users": 450
+      },
+      {
+        "month": "Feb",
+        "revenue": 44000,
+        "users": 480
+      },
+      {
+        "month": "Mar",
+        "revenue": 46000,
+        "users": 520
+      },
+      {
+        "month": "Apr",
+        "revenue": 49000,
+        "users": 580
+      },
+      {
+        "month": "May",
+        "revenue": 52000,
+        "users": 650
+      },
+      {
+        "month": "Jun",
+        "revenue": 56000,
+        "users": 720
+      }
+    ],
+    "highlights": [
+      "$20M raised from leading VCs like Accel",
+      "Founded by award-winning bioengineering faculty",
+      "Proprietary biomedical AI platform",
+      "Targets $100M+ valuation cap"
+    ]
+  },
+  {
+    "id": "155372",
+    "slug": "koios",
+    "name": "Koios Medical, Inc.",
+    "tagline": "AI-powered ultrasound software for cancer detection",
+    "description": "Koios Medical develops FDA-cleared and CE-marked AI software that assists physicians in detecting cancer earlier and more accurately through ultrasound imaging. Their technology reduces unnecessary biopsies while improving the detection rate of malignant tumors in breast and thyroid examinations. The company is experiencing rapid global adoption and is integrated into major medical imaging systems.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/155372/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/155372/standard_blob.jpg",
+    "sector": "HealthTech",
+    "stage": "Series B",
+    "location": "New York, NY, USA",
+    "founded": "2012",
+    "raising": 1441858,
+    "valuation": 90000000,
+    "raised": 1441858,
+    "credibility": 94,
+    "momentum": 85,
+    "followers": 100,
+    "founders": [
+      {
+        "name": "Chad McClennan",
+        "role": "President & CEO",
+        "bio": "Healthcare visionary who co-founded a medical software company acquired by Stryker.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-155372-1",
+        "date": "2026-01-20",
+        "type": "traction",
+        "title": "Revenue Growth",
+        "body": "Reporting 200%+ growth and on path to breakeven in 2026."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jan",
+        "revenue": 115000,
+        "users": 85
+      },
+      {
+        "month": "Feb",
+        "revenue": 122000,
+        "users": 92
+      },
+      {
+        "month": "Mar",
+        "revenue": 130000,
+        "users": 105
+      },
+      {
+        "month": "Apr",
+        "revenue": 142000,
+        "users": 118
+      },
+      {
+        "month": "May",
+        "revenue": 155000,
+        "users": 135
+      },
+      {
+        "month": "Jun",
+        "revenue": 165000,
+        "users": 150
+      }
+    ],
+    "highlights": [
+      "200%+ year-over-year growth",
+      "$1.6M+ in annual revenue",
+      "Path to breakeven in 2026",
+      "Newsweek's 'World's Best Digital Health Company' award"
+    ]
+  },
+  {
+    "id": "132687",
+    "slug": "groma",
+    "name": "Groma Real Estate Trust",
+    "tagline": "AI-powered real estate built for steady returns",
+    "description": "Groma is a technology-enabled real estate investment trust that utilizes proprietary AI to acquire and manage multi-family residential properties. By automating property management and acquisition workflows, Groma offers investors a streamlined way to access institutional-grade real estate returns with monthly liquidity options. The company focuses on urban residential assets with a high degree of operational efficiency.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/132687/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/132687/standard_avatar.jpg",
+    "sector": "PropTech",
+    "stage": "Series B",
+    "location": "Boston, MA, USA",
+    "founded": "2019",
+    "raising": 1024960,
+    "valuation": 65200000,
+    "raised": 1014935,
+    "credibility": 93,
+    "momentum": 87,
+    "followers": 194,
+    "founders": [
+      {
+        "name": "Seth Priebatsch",
+        "role": "CEO",
+        "bio": "Serial founder who built and sold LevelUp to Grubhub for approximately $400M.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-132687-1",
+        "date": "2026-03-03",
+        "type": "milestone",
+        "title": "Portfolio Milestone",
+        "body": "Reached $100M+ portfolio value with 9 consecutive quarters of distributions."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jan",
+        "revenue": 155000,
+        "users": 1200
+      },
+      {
+        "month": "Feb",
+        "revenue": 162000,
+        "users": 1250
+      },
+      {
+        "month": "Mar",
+        "revenue": 170000,
+        "users": 1320
+      },
+      {
+        "month": "Apr",
+        "revenue": 185000,
+        "users": 1400
+      },
+      {
+        "month": "May",
+        "revenue": 195000,
+        "users": 1480
+      },
+      {
+        "month": "Jun",
+        "revenue": 210000,
+        "users": 1600
+      }
+    ],
+    "highlights": [
+      "$100M+ real estate portfolio",
+      "Founded by former Grubhub executive",
+      "89% YoY growth in asset base",
+      "Consistent investor distributions over 9 quarters"
+    ]
+  }
+]

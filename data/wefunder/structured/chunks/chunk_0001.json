@@ -1,0 +1,367 @@
+[
+  {
+    "id": "80737",
+    "slug": "jetoptera",
+    "name": "Jetoptera",
+    "tagline": "Redefining flight through bladeless aviation",
+    "description": "Jetoptera is an aviation company developing a revolutionary Fluidic Propulsion System (FPS) for vertical take-off and landing (VTOL) aircraft. Their bladeless technology aims to make flight faster, quieter, and safer than traditional rotor-based systems by eliminating exposed blades. With over 155 patents, the company is transitioning from successful flying prototypes to commercial production for a projected $1T market.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/80737/xxl_Jetoptera__Inc._logo_1694727313510.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/80737/standard_blob.jpg",
+    "sector": "Aerospace",
+    "stage": "Series A",
+    "location": "Edmonds, WA, USA",
+    "founded": "2015",
+    "raising": 1701701,
+    "valuation": 128500000,
+    "raised": 3455932,
+    "credibility": 92,
+    "momentum": 88,
+    "followers": 1622,
+    "founders": [
+      {
+        "name": "Andrei Tristan Evulet",
+        "role": "CEO/CTO/Co-Founder",
+        "bio": "Aerospace engineer and inventor with 30+ years experience. Former GE Tech Lead & Systems Engineer for the GE9X turbofan. Inventor with 100+ patents and a PhD from Rutgers University.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-80737-1",
+        "date": "2024-11-12",
+        "type": "traction",
+        "title": "Production Transition",
+        "body": "Successfully transitioning from flying prototypes to production-ready models with $6.1M in lifetime revenue."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jan",
+        "revenue": 55000,
+        "users": 120
+      },
+      {
+        "month": "Feb",
+        "revenue": 58000,
+        "users": 135
+      },
+      {
+        "month": "Mar",
+        "revenue": 62000,
+        "users": 142
+      },
+      {
+        "month": "Apr",
+        "revenue": 67000,
+        "users": 158
+      },
+      {
+        "month": "May",
+        "revenue": 71000,
+        "users": 170
+      },
+      {
+        "month": "Jun",
+        "revenue": 75000,
+        "users": 185
+      }
+    ],
+    "highlights": [
+      "155 patents held globally",
+      "$6.1M in lifetime revenue",
+      "Proprietary Fluidic Propulsion System"
+    ]
+  },
+  {
+    "id": "65595",
+    "slug": "harmonyturbines",
+    "name": "Harmony Turbines Inc.",
+    "tagline": "A smart wind turbine for your home",
+    "description": "Harmony Turbines designs and manufactures innovative residential wind energy systems. Their proprietary vertical-axis wind turbine is engineered to be quiet, efficient, and aesthetically pleasing for home installations. By combining advanced aerodynamics with a unique generator system, they aim to provide reliable off-grid power to the mass market.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/65595/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/65595/standard_blob.jpg",
+    "sector": "CleanTech",
+    "stage": "Seed",
+    "location": "Lebanon, PA, USA",
+    "founded": "2020",
+    "raising": 596570,
+    "valuation": 27900000,
+    "raised": 596120,
+    "credibility": 82,
+    "momentum": 79,
+    "followers": 1388,
+    "founders": [
+      {
+        "name": "Christopher Moore",
+        "role": "President / CEO",
+        "bio": "Entrepreneur and inventor with over 25 years of experience in clean energy technologies and hardware tinkering.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-65595-1",
+        "date": "2024-12-02",
+        "type": "milestone",
+        "title": "Wind Tunnel Validation",
+        "body": "Completed full-scale wind-tunnel testing validating the proprietary generator and turbine design."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jan",
+        "revenue": 1100,
+        "users": 450
+      },
+      {
+        "month": "Feb",
+        "revenue": 1250,
+        "users": 480
+      },
+      {
+        "month": "Mar",
+        "revenue": 1400,
+        "users": 510
+      },
+      {
+        "month": "Apr",
+        "revenue": 1550,
+        "users": 540
+      },
+      {
+        "month": "May",
+        "revenue": 1800,
+        "users": 580
+      },
+      {
+        "month": "Jun",
+        "revenue": 2100,
+        "users": 620
+      }
+    ],
+    "highlights": [
+      "Proprietary generator system",
+      "Successful full-scale testing",
+      "Targeting the home off-grid market"
+    ]
+  },
+  {
+    "id": "197070",
+    "slug": "dividends",
+    "name": "Dividends",
+    "tagline": "AI-powered investing that pays you monthly (backed by real businesses)",
+    "description": "Dividends is a financial technology platform that uses AI to curate alternative investment opportunities for retail users. The platform focuses on acquiring and managing cash-flowing online businesses to distribute monthly returns to investors. By lowering the barrier to entry for business acquisitions, they aim to capture a share of the $5T alternative investment market.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/197070/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/197070/standard_avatar.jpg",
+    "sector": "FinTech",
+    "stage": "Pre-seed",
+    "location": "St. Louis, MO, USA",
+    "founded": "2024",
+    "raising": 128770,
+    "valuation": 8500000,
+    "raised": 128770,
+    "credibility": 75,
+    "momentum": 91,
+    "followers": 68,
+    "founders": [
+      {
+        "name": "Michael Swigunski",
+        "role": "Founder & CEO",
+        "bio": "Bestselling author and entrepreneur with over $120M in online business deal experience. Former early employee at Empire Flippers.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-197070-1",
+        "date": "2025-05-05",
+        "type": "fundraise",
+        "title": "Wefunder Launch",
+        "body": "Officially launched the community round to scale AI-driven alternative asset acquisitions."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 50
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 150
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 320
+      },
+      {
+        "month": "Apr",
+        "revenue": 0,
+        "users": 580
+      },
+      {
+        "month": "May",
+        "revenue": 2500,
+        "users": 890
+      },
+      {
+        "month": "Jun",
+        "revenue": 4800,
+        "users": 1200
+      }
+    ],
+    "highlights": [
+      "Founder has $120M+ deal track record",
+      "AI-powered alternative asset curation",
+      "Targeting $5T market"
+    ]
+  },
+  {
+    "id": "190067",
+    "slug": "tibaray",
+    "name": "TibaRay, Inc.",
+    "tagline": "Patented radiotherapy technology designed to help cure cancer in a FLASH™",
+    "description": "TibaRay is a medical technology company developing PHASER, a next-generation radiotherapy system. Their technology delivers ultra-high dose-rate radiation (FLASH) which is designed to kill tumor cells while sparing healthy tissue. The company is a spin-off from Stanford University and SLAC National Accelerator Laboratory research.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/190067/xxl_TibaRay__Inc__logo_1776716046953.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/190067/standard_avatar.jpg",
+    "sector": "HealthTech",
+    "stage": "Series A",
+    "location": "Fremont, CA, USA",
+    "founded": "2018",
+    "raising": 178939,
+    "valuation": 60000000,
+    "raised": 686939,
+    "credibility": 94,
+    "momentum": 85,
+    "followers": 88,
+    "founders": [
+      {
+        "name": "Thinh Tran",
+        "role": "CEO & Director",
+        "bio": "Stanford graduate and repeat founder. Previously founded Sigma Designs and grew it to a NASDAQ listing with a $2B market cap.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-190067-1",
+        "date": "2025-04-20",
+        "type": "product",
+        "title": "IP Expansion",
+        "body": "Expanded portfolio to 20+ patents covering the PHASER and FLASH radiotherapy systems."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jan",
+        "revenue": 78000,
+        "users": 10
+      },
+      {
+        "month": "Feb",
+        "revenue": 82000,
+        "users": 10
+      },
+      {
+        "month": "Mar",
+        "revenue": 85000,
+        "users": 12
+      },
+      {
+        "month": "Apr",
+        "revenue": 88000,
+        "users": 14
+      },
+      {
+        "month": "May",
+        "revenue": 92000,
+        "users": 15
+      },
+      {
+        "month": "Jun",
+        "revenue": 95000,
+        "users": 18
+      }
+    ],
+    "highlights": [
+      "20+ patents in medical imaging and therapy",
+      "Stanford/SLAC spin-off technology",
+      "Led by former $2B market cap CEO"
+    ]
+  },
+  {
+    "id": "185787",
+    "slug": "ping",
+    "name": "p!ng",
+    "tagline": "Fast Drive-Thru Coffee, Powered by Robots",
+    "description": "p!ng is modernizing the drive-thru experience by integrating robotics and automation into coffee retail. Their system is designed to provide high-quality beverages at significantly higher speeds than traditional human-operated cafes. By reducing footprint and labor costs, p!ng aims to scale rapidly across high-traffic urban and suburban corridors.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/185787/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/185787/standard_blob.jpg",
+    "sector": "FoodTech",
+    "stage": "Seed",
+    "location": "N. Billerica, MA, USA",
+    "founded": "2022",
+    "raising": 456360,
+    "valuation": 19000000,
+    "raised": 511360,
+    "credibility": 78,
+    "momentum": 84,
+    "followers": 54,
+    "founders": [
+      {
+        "name": "Jane Lo",
+        "role": "Co-founder",
+        "bio": "Analytics expert and former advisor to Fortune 500 executives. Brand marketer with experience launching products at SharkNinja.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-185787-1",
+        "date": "2025-02-26",
+        "type": "traction",
+        "title": "Retention Success",
+        "body": "Early data indicates a 67% customer return rate, demonstrating strong product-market fit."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Jan",
+        "revenue": 500,
+        "users": 200
+      },
+      {
+        "month": "Feb",
+        "revenue": 800,
+        "users": 350
+      },
+      {
+        "month": "Mar",
+        "revenue": 1500,
+        "users": 600
+      },
+      {
+        "month": "Apr",
+        "revenue": 2800,
+        "users": 1100
+      },
+      {
+        "month": "May",
+        "revenue": 4500,
+        "users": 1800
+      },
+      {
+        "month": "Jun",
+        "revenue": 6200,
+        "users": 2400
+      }
+    ],
+    "highlights": [
+      "67% repeat customer rate",
+      "Venture-backed by notable angels",
+      "Fully automated robotic brewing system"
+    ]
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "id": "179924",
+    "slug": "totemlabs",
+    "name": "Totem",
+    "tagline": "The friend-finding compass: viral tech for real-world connection",
+    "description": "Totem is a hardware-enabled social platform designed to facilitate real-world connections at festivals and large events. Their flagship product, a wearable 'friend-finding compass,' has seen explosive growth with over $3.5M in sales within its first 18 months of shipping. By merging physical hardware with a viral social app, Totem aims to solve the problem of staying connected in crowded environments without relying on cellular networks.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/179924/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/179924/standard_blob.jpg",
+    "sector": "ConsumerTech",
+    "stage": "Seed",
+    "location": "Chattanooga, TN, USA",
+    "founded": "2022",
+    "raising": 270050,
+    "valuation": 15000000,
+    "raised": 4028135,
+    "credibility": 88,
+    "momentum": 92,
+    "followers": 23,
+    "founders": [
+      {
+        "name": "Carter Fowler",
+        "role": "Founder & CEO",
+        "bio": "3X Founder and GTM Strategist who has raised over $6M in capital. Author of the Charismatism Framework™ and a featured speaker at the UTC College of Entrepreneurship.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-179924-1",
+        "date": "2025-05-01",
+        "type": "traction",
+        "title": "Explosive Revenue Growth",
+        "body": "Reached $3.5M+ in total revenue within the first 18 months of product shipping."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Dec",
+        "revenue": 135000,
+        "users": 12000
+      },
+      {
+        "month": "Jan",
+        "revenue": 138000,
+        "users": 12500
+      },
+      {
+        "month": "Feb",
+        "revenue": 142000,
+        "users": 13200
+      },
+      {
+        "month": "Mar",
+        "revenue": 145000,
+        "users": 14000
+      },
+      {
+        "month": "Apr",
+        "revenue": 155000,
+        "users": 15500
+      },
+      {
+        "month": "May",
+        "revenue": 168000,
+        "users": 17000
+      }
+    ],
+    "highlights": [
+      "$3.5M+ in revenue in first 18 months",
+      "Proprietary hardware for mesh-network connection",
+      "Highly viral GTM strategy in the festival circuit",
+      "Profitable unit economics"
+    ]
+  },
+  {
+    "id": "185676",
+    "slug": "rollcraft",
+    "name": "Roll Craft",
+    "tagline": "Join the adventure as we build a new collection of video games",
+    "description": "Roll Craft is a game development studio and publisher focused on creating a diverse portfolio of engaging video games. Led by industry veterans with experience at Wargaming and Tapjoy, the studio leverages AI and strategic partnerships to accelerate development cycles. Their current projects have already established early partnerships to reach thousands of players worldwide.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/185676/xxl_blob",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/185676/company_card_retina_Roll_Craft_1775862472243.jpg",
+    "sector": "Gaming",
+    "stage": "Pre-seed",
+    "location": "Los Angeles, CA, USA",
+    "founded": "2024",
+    "raising": 53325,
+    "valuation": 4000000,
+    "raised": 53325,
+    "credibility": 72,
+    "momentum": 65,
+    "followers": 15,
+    "founders": [
+      {
+        "name": "Rob Carroll",
+        "role": "CEO - Co-Founder",
+        "bio": "Former EP at Wargaming where he shipped the #1 iOS title World of Tanks: Blitz. Managed a $5M publishing fund at Tapjoy.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-185676-1",
+        "date": "2025-04-15",
+        "type": "team",
+        "title": "Veteran Leadership Team",
+        "body": "Roll Craft is being built by veterans from Wargaming and Tapjoy with a focus on rapid scaling."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 200
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 450
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 800
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 1200
+      },
+      {
+        "month": "Apr",
+        "revenue": 0,
+        "users": 1800
+      },
+      {
+        "month": "May",
+        "revenue": 0,
+        "users": 2500
+      }
+    ],
+    "highlights": [
+      "Founded by leadership from Wargaming and Tapjoy",
+      "Early partnerships established for player acquisition",
+      "Leveraging AI to optimize game asset creation",
+      "Focus on cross-platform mobile and social titles"
+    ]
+  },
+  {
+    "id": "184283",
+    "slug": "curiouserai",
+    "name": "Curiouser.ai",
+    "tagline": "AI tools for strategy, operations, and thought leadership",
+    "description": "Curiouser.ai develops sophisticated AI-driven productivity tools tailored for executives and strategic operators. The platform helps users synthesize complex information into actionable strategies and thought leadership content. With a conversion rate of 60% and a waitlist exceeding 5,000 potential users, the company is positioning itself as a core component of the modern B2B AI stack.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/184283/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/184283/company_card_retina_Curiouser_ai_1775509942377.jpg",
+    "sector": "AI / SaaS",
+    "stage": "Seed",
+    "location": "Salt Lake City, UT, USA",
+    "founded": "2021",
+    "raising": 134350,
+    "valuation": 8000000,
+    "raised": 441850,
+    "credibility": 84,
+    "momentum": 79,
+    "followers": 12,
+    "founders": [
+      {
+        "name": "Stephen Klein",
+        "role": "Co-Founder & CEO",
+        "bio": "3x founder who has raised $100M+ in institutional funding. Harvard MBA and Berkeley faculty member teaching AI Ethics.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-184283-1",
+        "date": "2025-04-20",
+        "type": "product",
+        "title": "Waitlist Milestone",
+        "body": "Crossed 5,000 users on the waitlist with a 60% conversion rate for initial trial groups."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Dec",
+        "revenue": 2100,
+        "users": 110
+      },
+      {
+        "month": "Jan",
+        "revenue": 2400,
+        "users": 125
+      },
+      {
+        "month": "Feb",
+        "revenue": 2800,
+        "users": 140
+      },
+      {
+        "month": "Mar",
+        "revenue": 3100,
+        "users": 155
+      },
+      {
+        "month": "Apr",
+        "revenue": 3800,
+        "users": 180
+      },
+      {
+        "month": "May",
+        "revenue": 4500,
+        "users": 210
+      }
+    ],
+    "highlights": [
+      "Led by a 3x founder with prior $100M+ fundraising success",
+      "5,000+ waitlist with high conversion potential",
+      "Focus on enterprise-grade strategy and operations",
+      "Active early bird terms available for new investors"
+    ]
+  },
+  {
+    "id": "182604",
+    "slug": "agorasocialclub",
+    "name": "Agora Social Club",
+    "tagline": "A new kind of space for men to work, train, and grow",
+    "description": "Agora Social Club is a wellness and community concept designed specifically for the modern man. It combines a physical high-performance training facility with a coworking space and a digital content ecosystem. The club emphasizes 'mental fitness' and community-building, creating a high-trust environment for personal and professional growth through fitness, brotherhood, and purpose.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/182604/xxl_blob",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/182604/company_card_retina_Agora_Social_Club_1775506308803.jpg",
+    "sector": "Wellness / Community",
+    "stage": "Pre-seed",
+    "location": "Larchmont, NY, USA",
+    "founded": "2024",
+    "raising": 57300,
+    "valuation": 12000000,
+    "raised": 57300,
+    "credibility": 68,
+    "momentum": 60,
+    "followers": 2,
+    "founders": [
+      {
+        "name": "Vincent Brusco",
+        "role": "Founder and CEO",
+        "bio": "Performance coach and host of The Council of Dudes podcast. Expert in mindset, branding, and community-led fitness.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-182604-1",
+        "date": "2025-03-31",
+        "type": "milestone",
+        "title": "Launch of Fundraising",
+        "body": "Opened the Wefunder campaign to scale the physical location and digital content platform."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 50
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 120
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 200
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 350
+      },
+      {
+        "month": "Apr",
+        "revenue": 0,
+        "users": 500
+      },
+      {
+        "month": "May",
+        "revenue": 0,
+        "users": 750
+      }
+    ],
+    "highlights": [
+      "Hybrid physical/digital social club model",
+      "Strong emphasis on men's mental and physical fitness",
+      "Led by experienced performance coach and podcaster",
+      "High-trust community with subscription-based revenue model"
+    ]
+  },
+  {
+    "id": "188333",
+    "slug": "tomorrowslaundry",
+    "name": "Tomorrows Laundry, Co.",
+    "tagline": "Tees Designed for Years, Not Seasons",
+    "description": "Tomorrows Laundry is a premium D2C apparel brand focusing on high-quality essentials designed to last years rather than seasons. With a focus on sustainable manufacturing and superior fit, the company has achieved over $4M in cumulative revenue. They boast strong repeat-purchase metrics and profitable first-order economics, demonstrating a clear path to scaling in the essentials market.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/188333/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/188333/standard_blob.jpg",
+    "sector": "D2C Fashion",
+    "stage": "Seed",
+    "location": "N Hollywood, CA, USA",
+    "founded": "2015",
+    "raising": 59850,
+    "valuation": 5000000,
+    "raised": 1352450,
+    "credibility": 82,
+    "momentum": 71,
+    "followers": 6,
+    "founders": [
+      {
+        "name": "Robert Eala",
+        "role": "Founder",
+        "bio": "20+ years in fashion with a track record of driving $100M+ in apparel sales across various premium brands.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-188333-1",
+        "date": "2025-01-28",
+        "type": "fundraise",
+        "title": "Community Round Launch",
+        "body": "Launched Reg CF round to fuel inventory expansion and marketing for the core essentials line."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Dec",
+        "revenue": 82000,
+        "users": 4200
+      },
+      {
+        "month": "Jan",
+        "revenue": 84000,
+        "users": 4350
+      },
+      {
+        "month": "Feb",
+        "revenue": 86000,
+        "users": 4500
+      },
+      {
+        "month": "Mar",
+        "revenue": 88000,
+        "users": 4700
+      },
+      {
+        "month": "Apr",
+        "revenue": 92000,
+        "users": 5000
+      },
+      {
+        "month": "May",
+        "revenue": 98000,
+        "users": 5400
+      }
+    ],
+    "highlights": [
+      "$4M+ lifetime revenue achieved",
+      "Profitable first-purchase economics",
+      "Founder has scaled apparel brands to $100M+ in sales",
+      "Strong retention and customer lifetime value (LTV)"
+    ]
+  }
+]

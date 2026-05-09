@@ -1,0 +1,372 @@
+[
+  {
+    "id": "95214",
+    "slug": "smartweaveinc",
+    "name": "Smartweave, Inc.",
+    "tagline": "Personalized connective tissue treatments for surgical repair.",
+    "description": "Smartweave utilizes proprietary bio-fabrication and artificial intelligence to create personalized surgical implants for connective tissue repair. Their platform focuses on improving outcomes for patients suffering from pelvic floor disorders and stress urinary incontinence. With a patented technology validated in labs, they target a massive global market in healthcare technology.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/95214/xxl_blob",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/95214/standard_blob.jpg",
+    "sector": "Biotech",
+    "stage": "Seed",
+    "location": "Cambridge, MA",
+    "founded": "2021",
+    "raising": 500000,
+    "valuation": 35000000,
+    "raised": 199561,
+    "credibility": 85,
+    "momentum": 72,
+    "followers": 35,
+    "founders": [
+      {
+        "name": "Rajeev Malhotra",
+        "role": "Founder & CEO",
+        "bio": "Serial founder with expertise in AI-driven healthcare platforms. Inventor of surgical technologies and methods with experience scaling venture-backed companies.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "sw-1",
+        "date": "2024-04-20",
+        "type": "milestone",
+        "title": "Selected for Top Startup Cohort",
+        "body": "Smartweave was selected as 1 of 15 from over 300 startups for a prestigious biotech accelerator."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 210000,
+        "users": 120
+      },
+      {
+        "month": "Nov",
+        "revenue": 215000,
+        "users": 135
+      },
+      {
+        "month": "Dec",
+        "revenue": 228000,
+        "users": 150
+      },
+      {
+        "month": "Jan",
+        "revenue": 235000,
+        "users": 165
+      },
+      {
+        "month": "Feb",
+        "revenue": 242000,
+        "users": 180
+      },
+      {
+        "month": "Mar",
+        "revenue": 250000,
+        "users": 210
+      }
+    ],
+    "highlights": [
+      "Patented lab-validated technology",
+      "Targeting $100B+ market",
+      "Backed by $6.4M+ in prior funding",
+      "AI-driven personalized healthcare"
+    ]
+  },
+  {
+    "id": "168046",
+    "slug": "ihaveabomb",
+    "name": "I HAVE A BOMB!",
+    "tagline": "A feature film about the outrageous true story of DB Cooper.",
+    "description": "I HAVE A BOMB! is a new cinematic project from the creators of the cult hit 'Hundreds of Beavers.' The film explores the legendary story of DB Cooper through a unique comedic and stylistic lens. Following a track record of high ROI on independent budgets, this production aims to disrupt traditional film distribution models.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/168046/xxl_blob",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/168046/company_card_retina_ORIENTAL_SNATCH_1757526627293.jpg",
+    "sector": "Entertainment",
+    "stage": "Seed",
+    "location": "Whitefish Bay, WI",
+    "founded": "2024",
+    "raising": 500000,
+    "valuation": 5000000,
+    "raised": 429099,
+    "credibility": 82,
+    "momentum": 89,
+    "followers": 48,
+    "founders": [
+      {
+        "name": "Ryland Brickson Cole Tews",
+        "role": "Lead Actor / Writer / Producer",
+        "bio": "Co-creator and star of 'Hundreds of Beavers' and 'Lake Michigan Monster,' recognized as a premier talent in physical comedy.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "hb-1",
+        "date": "2025-01-15",
+        "type": "fundraise",
+        "title": "Campaign Launch Success",
+        "body": "Reached 800% of the initial funding goal within weeks of launch."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 45
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 85
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 140
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 210
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 245
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 267
+      }
+    ],
+    "highlights": [
+      "Led by creators of a 97% Rotten Tomatoes hit",
+      "Based on a famous true crime legend",
+      "Over 800% funded on Wefunder",
+      "Strong physical comedy pedigree"
+    ]
+  },
+  {
+    "id": "167575",
+    "slug": "klarasbox",
+    "name": "Klara's Box",
+    "tagline": "A gripping thriller exploring the fentanyl crisis and grief.",
+    "description": "Klara’s Box is a feature-length thriller that tackles the emotional and societal impact of the fentanyl crisis through a story of betrayal and resilience. The film is built upon a successful proof-of-concept short that earned numerous award nominations. This project aims to combine social impact with high-stakes independent cinema.",
+    "logo": "https://uploads.wefunder.com/uploads/company/custom_card_photo/167575/company_card_retina_Klara_s_Box_Feature_Film_1774628764764.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/167575/company_card_retina_Klara_s_Box_Feature_Film_1774628764764.jpg",
+    "sector": "Entertainment",
+    "stage": "Pre-seed",
+    "location": "Los Angeles, CA",
+    "founded": "2023",
+    "raising": 75000,
+    "valuation": 2000000,
+    "raised": 55622,
+    "credibility": 68,
+    "momentum": 64,
+    "followers": 2,
+    "founders": [
+      {
+        "name": "ZhuZha Akova",
+        "role": "Producer & Director",
+        "bio": "Experienced filmmaker known for 'Bring Him Back Dead' and 'A. Silverspoon.' Specializes in high-tension narratives.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "kb-1",
+        "date": "2025-03-27",
+        "type": "traction",
+        "title": "Festival Recognition",
+        "body": "The proof of concept won nominations for Best Thriller and Best Director at several regional festivals."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 5
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 12
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 22
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 35
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 48
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 65
+      }
+    ],
+    "highlights": [
+      "Award-nominated proof of concept",
+      "Socially relevant thriller theme",
+      "Strong female-led production team",
+      "Independent film with global appeal"
+    ]
+  },
+  {
+    "id": "189334",
+    "slug": "noblemobile",
+    "name": "Noble Mobile",
+    "tagline": "A digital wellness platform that pays you to use your phone less.",
+    "description": "Noble Mobile is a fintech and digital wellness app co-founded by Andrew Yang. The platform incentivizes users to disconnect from their devices, offering rewards for time spent away from screens. By merging behavioral science with financial technology, the company seeks to improve mental health outcomes while creating a new value layer for consumer attention.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/189334/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/189334/company_card_retina_Noble_Mobile_1761865436234.jpg",
+    "sector": "FinTech",
+    "stage": "Series A",
+    "location": "New York, NY",
+    "founded": "2022",
+    "raising": 1000000,
+    "valuation": 31500000,
+    "raised": 851552,
+    "credibility": 94,
+    "momentum": 78,
+    "followers": 24,
+    "founders": [
+      {
+        "name": "Andrew Yang",
+        "role": "Co-Founder & CEO",
+        "bio": "Serial entrepreneur, former US Presidential Candidate, and founder of Venture for America. Previously built Manhattan Prep (sold to Kaplan).",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "nm-1",
+        "date": "2025-10-29",
+        "type": "fundraise",
+        "title": "VC Backing Confirmed",
+        "body": "Campaign is supported by major investors including Corazon Capital and notable angels like Scott Galloway."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 1200
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 2500
+      },
+      {
+        "month": "Jan",
+        "revenue": 5000,
+        "users": 4800
+      },
+      {
+        "month": "Feb",
+        "revenue": 12000,
+        "users": 7200
+      },
+      {
+        "month": "Mar",
+        "revenue": 18500,
+        "users": 9500
+      },
+      {
+        "month": "Apr",
+        "revenue": 24000,
+        "users": 12000
+      }
+    ],
+    "highlights": [
+      "Co-founded by Andrew Yang",
+      "$10.3M+ raised from top VCs",
+      "Backed by Scott Galloway and Square co-founder Jim McKelvey",
+      "Innovative approach to digital wellness"
+    ]
+  },
+  {
+    "id": "187423",
+    "slug": "freelandspirits",
+    "name": "Freeland Spirits",
+    "tagline": "Award-winning craft distillery celebrating women in spirits.",
+    "description": "Freeland Spirits is a premier craft distillery based in Portland, Oregon, that highlights the role of women in the spirits industry. Producing high-quality gin, bourbon, and canned cocktails, the company has grown into a regional leader with significant revenue. Their products utilize fresh, locally sourced ingredients from the Pacific Northwest, winning numerous 'Best Distillery' accolades.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/187423/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/187423/standard_blob.jpg",
+    "sector": "Food & Bev",
+    "stage": "Series A",
+    "location": "Portland, OR",
+    "founded": "2018",
+    "raising": 1000000,
+    "valuation": 22000000,
+    "raised": 598468,
+    "credibility": 92,
+    "momentum": 81,
+    "followers": 13,
+    "founders": [
+      {
+        "name": "Jill Kuehler",
+        "role": "Founder",
+        "bio": "Expert in community-driven agriculture and education; former director of Zenger Farm before launching Freeland in 2018.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "fs-1",
+        "date": "2025-11-18",
+        "type": "traction",
+        "title": "Award Milestone",
+        "body": "Awarded 'Best Distillery in Portland' for the 4th consecutive year."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 195000,
+        "users": 4200
+      },
+      {
+        "month": "Nov",
+        "revenue": 210000,
+        "users": 4500
+      },
+      {
+        "month": "Dec",
+        "revenue": 245000,
+        "users": 5100
+      },
+      {
+        "month": "Jan",
+        "revenue": 215000,
+        "users": 4800
+      },
+      {
+        "month": "Feb",
+        "revenue": 220000,
+        "users": 4900
+      },
+      {
+        "month": "Mar",
+        "revenue": 235000,
+        "users": 5300
+      }
+    ],
+    "highlights": [
+      "Generated $2.6M+ in annual revenue",
+      "4-time winner of 'Best Distillery in Portland'",
+      "Woman-founded and operated",
+      "Omnichannel distribution in retail and tasting rooms"
+    ]
+  }
+]

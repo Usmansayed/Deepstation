@@ -1,0 +1,64 @@
+{
+  "threads": [
+    {
+      "id": "1",
+      "name": "Jane Cooper",
+      "role": "Great service",
+      "preview": "Can you help me troubleshoot this payment issue?",
+      "time": "25m ago",
+      "avatarSeed": "jane"
+    },
+    {
+      "id": "2",
+      "name": "Jerome Bell",
+      "role": "Follow-up",
+      "preview": "Have you spoken to the delivery partner?",
+      "unread": 4,
+      "time": "1d ago",
+      "avatarSeed": "jerome"
+    },
+    {
+      "id": "3",
+      "name": "Black Marvin",
+      "role": "Support",
+      "preview": "Can you send your address?",
+      "time": "23m ago",
+      "avatarSeed": "marvin"
+    },
+    {
+      "id": "4",
+      "name": "Courtney Henry",
+      "role": "Product Designer & team lead",
+      "preview": "I got a lot of emails. Let's prioritize replies.",
+      "time": "5d ago",
+      "avatarSeed": "courtney"
+    },
+    {
+      "id": "5",
+      "name": "Kim Arnone",
+      "role": "Investor",
+      "preview": "We should sync over a quick call this week.",
+      "time": "1h ago",
+      "avatarSeed": "kim"
+    }
+  ],
+  "messagesByThread": {
+    "1": [
+      { "id": "m1", "text": "Hi, I am trying to make a purchase but I am getting an error message. Can you help me troubleshoot?", "mine": false, "time": "Wednesday 5:14 PM" },
+      { "id": "m2", "text": "Absolutely. Could you share a screenshot and the final step you took before the error?", "mine": true, "time": "Wednesday 5:16 PM" },
+      { "id": "m3", "text": "I used card checkout and it fails after OTP verification.", "mine": false, "time": "Wednesday 5:17 PM" }
+    ],
+    "2": [
+      { "id": "m1", "text": "Have you spoken to the delivery team? They asked for confirmation.", "mine": false, "time": "Yesterday 3:02 PM" }
+    ],
+    "3": [
+      { "id": "m1", "text": "Can you send your address?", "mine": false, "time": "Today 9:42 AM" }
+    ],
+    "4": [
+      { "id": "m1", "text": "I got a lot of emails. Let's prioritize responses in this thread.", "mine": false, "time": "Monday 10:14 AM" }
+    ],
+    "5": [
+      { "id": "m1", "text": "We should sync over a quick call this week.", "mine": false, "time": "Today 8:30 AM" }
+    ]
+  }
+}

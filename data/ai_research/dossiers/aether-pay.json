@@ -1,0 +1,217 @@
+{
+  "id": "aether-pay",
+  "memo": {
+    "oneLiner": "Payments infrastructure with strengthening unit economics and enterprise-led expansion.",
+    "snapshotLine": "B2B orchestration APIs — volumes are scaling without take-rate compression, and dev-weighted sentiment is leading revenue, which reads as embed depth rather than promo growth.",
+    "sentiment": "Favorable — momentum with discipline",
+    "overview": "Aether Pay Networks provides APIs and orchestration for large merchants and platforms moving money across rails. The business benefits from volume scale, embedded workflows, and high switching costs once treasury logic is centralized.",
+    "thesis": "Compounder setup: NRR and gross profit per active merchant rising together while take rate holds — that combination usually means pricing power and mix shift, not discounting for share. Engineering hires skew SRE/security vs. feature generalists, consistent with enterprises paying for uptime and auditability, not slide decks.",
+    "whyBullets": [
+      "Net revenue retention and gross profit per active merchant are both trending positively.",
+      "Competitive takeout attempts in adjacent layers validate strategic importance without implying immediate disruption.",
+      "Management commentary and third-party data on adoption align on the same regional expansion story."
+    ],
+    "supportingSignals": [
+      "Stable or improving take rates alongside volume growth — suggests pricing power, not desperation discounting.",
+      "Engineering hiring mix skewed toward reliability and security — consistent with enterprise trust building.",
+      "Macro-sensitive cohorts show resilience relative to peers in the same acquisition channels."
+    ],
+    "marketOpportunity": "Global B2B payment flows remain under-digitized relative to consumer rails; orchestration layers capture a small slice of enormous flow. The AI sees the near-term wedge expanding as platforms consolidate vendors and regulators push transparency requirements that favor modern stacks.",
+    "competitiveAdvantage": "Wins on uptime history, certs, and rail integrations that are painful to replumb — price-led competitors show up in RFPs; Aether shows up in production incident stats.",
+    "risks": [
+      "Routing or interchange rule changes can land on economics faster than product roadmaps adapt.",
+      "Platform partner concentration: one strategic breakup hurts more than losing a logo.",
+      "A specialist rail vendor can nick discrete deals on price even if the core thesis holds."
+    ],
+    "reasoningNarrative": "The recommendation combined payment volume proxies, public competitor benchmarks, and sentiment from enterprise engineering communities. The AI emphasized durable cohort behavior over headline growth. Where sentiment spiked without operational confirmation, confidence was capped automatically.",
+    "investorSummary": [
+      "Core infra sleeve if you want volume-led growth with quality checks, not fintech lottery tickets.",
+      "Watch mid-market churn and net take rate — first cracks show there before enterprise."
+    ],
+    "chartCaption": "Composite signal emphasizing quality-of-growth confirmation (indexed).",
+    "chartValues": [
+      25,
+      30,
+      36,
+      41,
+      46,
+      52,
+      58,
+      63,
+      69,
+      74,
+      80,
+      85
+    ],
+    "secondaryInsight": {
+      "title": "Flow quality",
+      "body": "Versus peers, Aether shows less correlation between marketing spend spikes and revenue — the AI treats that as evidence of product-led pull becoming a larger driver."
+    }
+  },
+  "intel": {
+    "marketSentimentScore": "+19 vs fintech infra",
+    "growthTrajectory": "Strong & stable",
+    "riskProfile": "Moderate-low",
+    "momentumTags": [
+      "Volume-led",
+      "NRR engine",
+      "Enterprise trust"
+    ],
+    "primaryGrowthSignal": "Volume-led growth with stable take rate and deepening enterprise embed — compounder math.",
+    "whyNow": "Platforms are consolidating payment stacks after audits and regulatory pushes for transparency; vendors that already cleared enterprise security reviews are inheriting consolidated budgets.",
+    "structuralTailwind": "B2B flow digitization, treasury centralization, and routing transparency rules expand attachable software revenue per dollar of underlying payment volume.",
+    "opportunityType": "Quality compounder (payments infra)",
+    "evidenceSectionIntro": "Charts tie cohort quality, competitive position, and informed sentiment into one arc. Each answers a specific question about whether growth is durable or promotional.",
+    "chartConvictionProves": "Confidence increased as retention quality and margin structure moved together — the pattern we require before labeling a compounder.",
+    "chartConvictionInterpretation": "Sharp rises without NRR confirmation are algorithmically capped; this series shows confirmation-first behavior rather than narrative-led jumps.",
+    "chartPositioningProves": "Aether leads this peer slice on reliability-weighted positioning — the axis that matters when money actually moves.",
+    "chartPositioningInterpretation": "Peers winning on price typically score lower here; sustainable share in orchestration requires uptime history and integration depth.",
+    "chartSentimentProves": "Developer- and treasury-adjacent sentiment leads revenue in API-first categories; direction supports continued enterprise pull.",
+    "chartSentimentInterpretation": "When this series rises without marketing-spend-driven revenue spikes, we infer product-led pull rather than purchased growth.",
+    "riskFraming": "Economics can change by rulemaking or partner strategy — this is not a regulated-utility bond proxy.",
+    "aiReasoningTimeline": [
+      "Cross-referenced take-rate stability with volume growth",
+      "Mapped engineering hiring mix toward reliability/security",
+      "Compared cohort resilience vs. macro-sensitive peers",
+      "Validated sentiment leaders (dev communities) vs. lagging revenue",
+      "Stress-tested routing economics under regulatory scenarios",
+      "Published falsifiers: mid-market churn, take-rate compression"
+    ],
+    "metrics": [
+      {
+        "label": "Rev. growth (YoY)",
+        "value": "38%",
+        "delta": "+3pp",
+        "implication": "Growth remains volume-led — healthier than discount-driven share gains."
+      },
+      {
+        "label": "Net retention",
+        "value": "124%",
+        "delta": "+5pp",
+        "implication": "Suggests deepening treasury embed and cross-sell — lowers churn risk."
+      },
+      {
+        "label": "Take rate trend",
+        "value": "Stable ↑",
+        "implication": "Pricing power holding while volumes grow — rare positive combo."
+      },
+      {
+        "label": "Sentiment (dev)",
+        "value": "76",
+        "implication": "Engineering communities signal trust — leads revenue in API-first categories."
+      },
+      {
+        "label": "Market expansion",
+        "value": "EU + LATAM",
+        "implication": "Geographic diversification reducing single-region rate risk."
+      },
+      {
+        "label": "Burn efficiency",
+        "value": "1.04×",
+        "implication": "Efficient growth; margin path credible as scale compounds."
+      },
+      {
+        "label": "Investor activity",
+        "value": "Quality inflow",
+        "implication": "Long-only interest rising; momentum not meme-driven."
+      }
+    ],
+    "positioningPeers": [
+      {
+        "name": "Aether",
+        "score": 90
+      },
+      {
+        "name": "RailCo",
+        "score": 71
+      },
+      {
+        "name": "PayStack",
+        "score": 63
+      },
+      {
+        "name": "Legacy API",
+        "score": 48
+      }
+    ],
+    "sentimentSeries": [
+      {
+        "period": "W1",
+        "net": 52
+      },
+      {
+        "period": "W2",
+        "net": 55
+      },
+      {
+        "period": "W3",
+        "net": 54
+      },
+      {
+        "period": "W4",
+        "net": 61
+      },
+      {
+        "period": "W5",
+        "net": 64
+      },
+      {
+        "period": "W6",
+        "net": 68
+      },
+      {
+        "period": "W7",
+        "net": 72
+      },
+      {
+        "period": "W8",
+        "net": 76
+      }
+    ],
+    "evidence": [
+      {
+        "headline": "Retention and margin structure are moving together",
+        "supportingSignal": "NRR +5pp while gross margin held +120bps — uncommon in scaling infra.",
+        "confidence": "high",
+        "implication": "Suggests real pricing/efficiency leverage, not accounting noise.",
+        "inference": "Quality compounder characteristics — prioritize over pure growth stories."
+      },
+      {
+        "headline": "Reliability hiring outpaces generic feature hiring",
+        "supportingSignal": "SRE/security headcount +28% vs product generalist +11%.",
+        "confidence": "medium",
+        "implication": "Company is buying enterprise trust — reduces churn and incident risk.",
+        "inference": "Watch incident reports and uptime SLAs as falsification metrics."
+      }
+    ],
+    "aiSignals": [
+      {
+        "text": "Volume growth with stable take rate",
+        "kind": "up"
+      },
+      {
+        "text": "Enterprise adoption depth increasing",
+        "kind": "up"
+      },
+      {
+        "text": "Competitive discounting isolated to one rail",
+        "kind": "watch"
+      },
+      {
+        "text": "Macro sensitivity lower than peer set",
+        "kind": "steady"
+      }
+    ],
+    "aiDetected": [
+      "Flow proxies in tracked corridors +12% QoQ — lines up with management’s volume narrative without a marketing spend spike.",
+      "Open roles skew compliance/cert-heavy — enterprise procurement stage, not land-grab hiring.",
+      "Peers lifted SMB discounting; Aether enterprise list pricing flat — suggests share gains aren’t bought.",
+      "Dev-community sentiment leads revenue by ~1–2 quarters historically; spread still positive."
+    ],
+    "marketAnalysis": "B2B payment orchestration benefits from vendor consolidation and regulatory transparency mandates. Aether’s wedge widens as platforms replace fragmented stacks — AI maps TAM using flow digitization indices and enterprise API adoption curves.",
+    "competitorBreakdown": "Incumbents bundle but move slowly; startups win segments on price. Aether competes on uptime + integration depth — wins are slower but stickier.",
+    "sentimentDeepDive": "Developer sentiment leads revenue by ~1–2 quarters in this category. Current readings support continued expansion without euphoria.",
+    "fundingHistory": "Capital efficiency improved; no aggressive insider selling patterns. Secondary liquidity orderly.",
+    "riskScenarios": "Bear: regulatory shock to economics. Base: steady compounding. Bull: platform attach accelerates + geographic mix improves."
+  }
+}

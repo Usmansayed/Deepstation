@@ -1,0 +1,372 @@
+[
+  {
+    "id": "188045",
+    "slug": "rogerwodehouse",
+    "name": "Roger Wodehouse's Androgymnasium",
+    "tagline": "A feature film comedy about what happens when a glam rock star makes a children's TV show",
+    "description": "Roger Wodehouse's Androgymnasium is a feature film comedy produced by a seasoned team with credits at Netflix, FX, NBC, and Tribeca. The story follows a fictional glam rock icon tasked with creating a children's television program, blending original music with character-driven humor. The project features a stacked comedy cast and is directed by SXSW award-winner Lauren Ludwig. This production leverages independent financing to maintain creative control over its unique queer-inclusive narrative.",
+    "logo": "https://uploads.wefunder.com/uploads/company_role/custom_photo/5835587/square_blob.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/188045/standard_blob.jpg",
+    "sector": "Entertainment",
+    "stage": "Pre-seed",
+    "location": "Los Angeles, CA, USA",
+    "founded": "2024",
+    "raising": 113066,
+    "valuation": 0,
+    "raised": 113066,
+    "credibility": 65,
+    "momentum": 72,
+    "followers": 19,
+    "founders": [
+      {
+        "name": "Lauren Ludwig",
+        "role": "Director",
+        "bio": "Queer filmmaker who has directed for FX, NBC, Sony, and TruTV. Their indie pilot EVERYONE TOGETHER won “Best Comedy Pilot” at SeriesFest 2020.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-188045-1",
+        "date": "2024-04-06",
+        "type": "fundraise",
+        "title": "Campaign Launch",
+        "body": "Successfully launched our community round to bring this glam rock comedy to life with $113k already committed."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 0,
+        "users": 1100
+      },
+      {
+        "month": "Nov",
+        "revenue": 0,
+        "users": 2400
+      },
+      {
+        "month": "Dec",
+        "revenue": 0,
+        "users": 5600
+      },
+      {
+        "month": "Jan",
+        "revenue": 0,
+        "users": 12000
+      },
+      {
+        "month": "Feb",
+        "revenue": 0,
+        "users": 45000
+      },
+      {
+        "month": "Mar",
+        "revenue": 0,
+        "users": 113066
+      }
+    ],
+    "highlights": [
+      "Stacked comedy cast and original music",
+      "Directed by SXSW award-winner Lauren Ludwig",
+      "Proven team behind hits from Netflix, FX, and NBC",
+      "Independent film model with high creative control"
+    ]
+  },
+  {
+    "id": "190700",
+    "slug": "startupscience",
+    "name": "Startup Science",
+    "tagline": "A unified platform connecting founders, mentors, and startup programs.",
+    "description": "Startup Science is a comprehensive software platform designed to standardize the entrepreneurial journey through data-driven methodology. Trusted by over 88,000 founders and 200 global partners, the platform provides infrastructure for startup ecosystems to manage mentorship and program scaling. Led by serial entrepreneur Gregory Shepard, who has achieved 12 exits, the company aims to reduce the high failure rate of startups using a science-based approach to growth.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/190700/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/190700/standard_blob.jpg",
+    "sector": "EdTech",
+    "stage": "Seed",
+    "location": "San Marcos, CA, USA",
+    "founded": "2019",
+    "raising": 302800,
+    "valuation": 20950000,
+    "raised": 6326801,
+    "credibility": 88,
+    "momentum": 65,
+    "followers": 6,
+    "founders": [
+      {
+        "name": "Gregory Shepard",
+        "role": "Founder & CEO",
+        "bio": "Serial entrepreneur with 12 exits, ranging from $25M to $1B. Author of The Startup Lifecycle and host of a Forbes podcast.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-190700-1",
+        "date": "2024-02-04",
+        "type": "traction",
+        "title": "Scaling Global Partnerships",
+        "body": "Now serving over 200 global partners and 88,000 founders via our ecosystem infrastructure."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 6500,
+        "users": 72000
+      },
+      {
+        "month": "Nov",
+        "revenue": 6800,
+        "users": 75000
+      },
+      {
+        "month": "Dec",
+        "revenue": 7100,
+        "users": 78000
+      },
+      {
+        "month": "Jan",
+        "revenue": 7400,
+        "users": 82000
+      },
+      {
+        "month": "Feb",
+        "revenue": 7700,
+        "users": 85000
+      },
+      {
+        "month": "Mar",
+        "revenue": 8100,
+        "users": 88000
+      }
+    ],
+    "highlights": [
+      "88,000 founders and 200+ global partners on platform",
+      "Founder has 12 exits including four private equity awards",
+      "Over $5.5M in prior funding from institutional investors",
+      "SaaS model for startup accelerators and ecosystems"
+    ]
+  },
+  {
+    "id": "164645",
+    "slug": "namecoach",
+    "name": "Namecoach",
+    "tagline": "Making name pronunciation flawless with voice AI",
+    "description": "Namecoach provides a proprietary voice AI platform that ensures accurate name pronunciation and gender pronoun usage across enterprise systems. By integrating with tools like Salesforce, Microsoft Outlook, and Canvas, Namecoach helps organizations foster inclusion and sense of belonging during critical interactions. The company serves hundreds of higher education institutions and a growing list of Fortune 500 companies to solve the problem of name mispronunciation in professional settings.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/164645/xxl_blob.jpeg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/custom_card_photo/164645/company_card_retina_Namecoach_explore_card_photo_1744145700672.jpg",
+    "sector": "AI / HRTech",
+    "stage": "Series B",
+    "location": "Palo Alto, CA, USA",
+    "founded": "2014",
+    "raising": 402420,
+    "valuation": 37000000,
+    "raised": 25308314,
+    "credibility": 94,
+    "momentum": 82,
+    "followers": 14,
+    "founders": [
+      {
+        "name": "Praveen Shanbhag",
+        "role": "Founder & CEO",
+        "bio": "Former White House Science & Tech Analyst and Stanford Lecturer. Holds a PhD from Stanford and an MPhil from Cambridge.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-164645-1",
+        "date": "2024-04-03",
+        "type": "traction",
+        "title": "Strong Revenue Growth",
+        "body": "Reached $4M ARR with 90% gross profit margins as we expand into the enterprise market."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 280000,
+        "users": 450
+      },
+      {
+        "month": "Nov",
+        "revenue": 295000,
+        "users": 480
+      },
+      {
+        "month": "Dec",
+        "revenue": 310000,
+        "users": 510
+      },
+      {
+        "month": "Jan",
+        "revenue": 325000,
+        "users": 540
+      },
+      {
+        "month": "Feb",
+        "revenue": 340000,
+        "users": 580
+      },
+      {
+        "month": "Mar",
+        "revenue": 355000,
+        "users": 620
+      }
+    ],
+    "highlights": [
+      "Backed by Founders Fund and Stanford StartX",
+      "$4M ARR with 90% Gross Profit Margin",
+      "Integrates with Salesforce, Outlook, and Microsoft Teams",
+      "Over $25M total capital raised to date"
+    ]
+  },
+  {
+    "id": "182392",
+    "slug": "utix",
+    "name": "UTIX",
+    "tagline": "Join the ticketing revolution: Invest in blockchain-secure events",
+    "description": "UTIX is a blockchain-based ticketing platform built on the Ethereum network designed to eliminate fraud and secondary market price gouging. By using smart contracts, UTIX allows event organizers to set price caps on resales and ensure ticket authenticity through a secure digital ledger. The company operates within the MFSA-regulated framework, providing a transparent and lower-fee alternative to traditional ticketing giants in the $53B global market.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/182392/xxl_blob.png",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/182392/standard_blob.jpg",
+    "sector": "Blockchain",
+    "stage": "Seed",
+    "location": "New York, NY, USA",
+    "founded": "2024",
+    "raising": 320866,
+    "valuation": 4525000,
+    "raised": 690381,
+    "credibility": 70,
+    "momentum": 78,
+    "followers": 6,
+    "founders": [
+      {
+        "name": "Max Mayhew",
+        "role": "Managing Director",
+        "bio": "Former Head of Trading at Ceres Fund and Portfolio Manager at Carbon Capital. Specialized in industrial economics and blockchain.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-182392-1",
+        "date": "2024-11-24",
+        "type": "product",
+        "title": "Beta Expansion",
+        "body": "Successfully processed over $300k in ticketing volume through our Ethereum-integrated platform."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 800,
+        "users": 1500
+      },
+      {
+        "month": "Nov",
+        "revenue": 950,
+        "users": 1850
+      },
+      {
+        "month": "Dec",
+        "revenue": 1100,
+        "users": 2100
+      },
+      {
+        "month": "Jan",
+        "revenue": 1250,
+        "users": 2400
+      },
+      {
+        "month": "Feb",
+        "revenue": 1400,
+        "users": 2750
+      },
+      {
+        "month": "Mar",
+        "revenue": 1600,
+        "users": 3200
+      }
+    ],
+    "highlights": [
+      "MFSA-regulated Ethereum token model",
+      "Targeting $53B ticketing market with blockchain security",
+      "Smart contract enabled price caps on ticket resales",
+      "Lower fees compared to legacy ticketing platforms"
+    ]
+  },
+  {
+    "id": "182796",
+    "slug": "fieldstorehouse",
+    "name": "Field Store House",
+    "tagline": "Fine-dining couple creating a farm & inn on the North Shore of Lake Superior",
+    "description": "Field Store House is a regenerative agriculture and hospitality project developing a 40-acre farm and inn on the North Shore of Lake Superior. Founded by a couple with experience in Michelin-starred establishments like The French Laundry, the project combines high-end culinary expertise with sustainable land management. The development includes a boutique inn, foraged food programs, and a farm stand, capitalizing on the growing demand for agri-tourism in the Midwest.",
+    "logo": "https://uploads.wefunder.com/uploads/company/logo/182796/xxl_avatar.jpg",
+    "heroImage": "https://uploads.wefunder.com/uploads/company/header_media_photo/182796/standard_blob.jpg",
+    "sector": "Hospitality",
+    "stage": "Seed",
+    "location": "Duluth, MN, USA",
+    "founded": "2024",
+    "raising": 58611,
+    "valuation": 0,
+    "raised": 58611,
+    "credibility": 72,
+    "momentum": 60,
+    "followers": 40,
+    "founders": [
+      {
+        "name": "Seth O'Donovan",
+        "role": "CEO",
+        "bio": "Culinary expert with experience at The French Laundry and Frasca Food & Wine. Specialist in butchery and fermentation.",
+        "verified": true
+      }
+    ],
+    "updates": [
+      {
+        "id": "u-182796-1",
+        "date": "2024-04-22",
+        "type": "milestone",
+        "title": "Site Development Underway",
+        "body": "Progressing on our 40-acre site with validated demand from sold-out pilot dining events."
+      }
+    ],
+    "traction": [
+      {
+        "month": "Oct",
+        "revenue": 500,
+        "users": 200
+      },
+      {
+        "month": "Nov",
+        "revenue": 800,
+        "users": 250
+      },
+      {
+        "month": "Dec",
+        "revenue": 1200,
+        "users": 320
+      },
+      {
+        "month": "Jan",
+        "revenue": 1500,
+        "users": 400
+      },
+      {
+        "month": "Feb",
+        "revenue": 1800,
+        "users": 550
+      },
+      {
+        "month": "Mar",
+        "revenue": 2100,
+        "users": 700
+      }
+    ],
+    "highlights": [
+      "40-acre site currently under development",
+      "Founded by Michelin-star culinary veterans",
+      "Validated demand via sold-out farm stand events",
+      "Unique blend of regenerative farming and luxury hospitality"
+    ]
+  }
+]
